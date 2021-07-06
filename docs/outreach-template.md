@@ -19,4 +19,4 @@ in joining us and can’t make that time, please let me know. We are planning
 multiple events and may be able to schedule one that works for you.
 
 Best,
-{{sender name}}
+{{sender-name}}
