@@ -1,6 +1,6 @@
-Hi {{expert-name}},
+Hi {{name}},
 
-I’m {{sender-name}}, and I’m reaching out on behalf of the Project Jupyter community. 
+I’m {{name}}, and I’m reaching out on behalf of the Project Jupyter community. 
 We’d like to invite you to join us as a {{speaker, participant, something else?}} at our 
 upcoming accessibility {{event}}.
 
@@ -19,4 +19,4 @@ in joining us and can’t make that time, please let me know. We are planning
 multiple events and may be able to schedule one that works for you.
 
 Best,
-{{sender-name}}
+{{sender}} and Project Jupyter
