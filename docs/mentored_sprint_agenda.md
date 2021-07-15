@@ -10,28 +10,20 @@ Documentation and alt text (media descriptions?)
 and/or 
 - [JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/) 
 
-I'm open to other Jupyter documentation being proposed, but I'd like to keep 
-a narrow scope per sprint so the community can leave feeling successful rather 
-than like they made only a small dent in a pile of work. I am also aiming for 
-a documentation-focused sprint like this to be reproducible, so we could 
-sprint on other docs another time.
-
 ## Event agenda
 - **:00-:10** Folks arrive
 - **:10-:15** goal setting for event/what we plan to do
-- **:15-:25** an icebreaker to introduce attendees to each other
-- **:25-:55** Learning time.  Present the basics around alt text, the projects, 
+- **:15-:30** an icebreaker to introduce attendees to each other
+- **:30-1:00** Learning time.  Present the basics around alt text, the projects, 
 and how the sprint will work. Share resources for further reference in the event.
-- **:55-1:05** Team up! Choose a (pre-determined) section of the docs to tackle. 
-Plan your team's approach.
-- **1:05-3:00** Work time.
-- **3:00-3:30** Get review. Pair up with another team and switch sections for 
-review. Pool tough questions in a place for the larger group.
-- **3:30–3:45** Celebrate! Nominate alt text hall of fame by category and vote. 
-Top voted ones and their authors live in infamy on the repo.
-- **3:45-4:00** Wrap up. Time for giving feedback and info on upcoming events.
+- **1:00- 1:05** Team up! Join a room to work on a (pre-determined) section of the docs. 
+- **1:05- 1:45** Work time! There is also a place for review.
+- **1:45- 2:00** Break time! Hang out.
+- **2:00- 2:45** Work time part 2! Remember to get review.
+- **2:45- 3:00** Wrap up! Time for giving feedback and info on upcoming events.
+- **3:00- 4:00 Optional** something…
 
-## Questions in search on answers
+## Questions in search of answers
 - Do we focus only on alt text, or descriptive content for other media as 
 well? The JupyterLab docs have a lot of videos.
 - Do we need resources for git and github, or is that out of scope for our 
