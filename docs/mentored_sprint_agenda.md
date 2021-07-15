@@ -18,10 +18,12 @@ and/or
 and how the sprint will work. Share resources for further reference in the event.
 - **1:00- 1:05** Team up! Join a room to work on a (pre-determined) section of the docs. 
 - **1:05- 1:45** Work time! There is also a place for review.
-- **1:45- 2:00** Break time! Hang out.
+- **1:45- 2:00** Break time! Move around.
 - **2:00- 2:45** Work time part 2! Remember to get review.
 - **2:45- 3:00** Wrap up! Time for giving feedback and info on upcoming events.
-- **3:00- 4:00 Optional** something…
+- **3:00- 4:00 Optional** Celebrate! Nominate `alt text hall of fame` by category and vote. 
+Top voted ones and their authors live in infamy on the repo. This time is also spillover 
+for people still wanting to connect with others.
 
 ## Questions in search of answers
 - Do we focus only on alt text, or descriptive content for other media as 
