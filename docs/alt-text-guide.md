@@ -6,7 +6,7 @@ tags: docs sprint
 
 *This document is a draft!*
 
-[Alt text](https://webaim.org/techniques/alttext/) is descriptive text for images and a foundational requirement for creating [accessible](https://en.wikipedia.org/wiki/Web_accessibility) content. Like other writing, it can be useful to have a guide as a starting place for people writing and reviewing alt text to make consistent descriptions and avoid common mistakes.
+All images need alternative text (usually called alt text) to account for any situation where a person cannot access an image whether it is because the person is blind, has low vision, or facing an image that just isn't loading. [Alt text](https://webaim.org/techniques/alttext/) is descriptive text for images and a foundational requirement for creating [accessible](https://en.wikipedia.org/wiki/Web_accessibility) content. Like other writing, it can be useful to have a guide as a starting place for people writing and reviewing alt text to make consistent descriptions and avoid common mistakes.
 
 For Jupyter accessibility sprints, we've provided the following guidelines for writing in English.
 
@@ -95,6 +95,15 @@ It is also best to
 - Use gender-neutral language
 - Avoid describing physical features unless it is necessary for supporting the content
 - Use general terms for a group of people rather than describing each individual
+
+#### Diagrams, charts, plots
+Diagrams, charts, plots, and similar images are all considered "complex images" in the categories above. First reference the guide linked in **Types of alt text** for methods of connecting longer alt text to an image. For recommendations on what to include in the alt text, use the [Diagram Center's graph guidelines](http://diagramcenter.org/specific-guidelines-g.html#71). 
+
+It's common for diagrams and similar images to have text. Text in images needs to be written outside an image as well in order to be accessible, but there are a few ways this can be done depending on how much text is in the image. For plots where the text is just the labels on the axes, for example, it is short enough to include in the alt text. For cases where text takes up a large portion of the image, the description may be too long for alt text and needs to be included in the main content, as a collapsible caption, or as a link to a series of long descriptions. The method used is determined by the project.
+
+As with all other alt text, context is key. If the text around the image describes the aspects of a plot the reader is supposed to note or summarizes the graph's trend, then the alt text does not bear the full weight of the graph's information. In cases where readers are expected to draw conclusions from analyzing a plot, it is critical that the information the reader is expected to gain from that plot is included in its description.
+
+The sooner an image description communicates the main point of the image, the better. This becomes extra important as the description needs to be longer.
 
 #### Documentation-specific
 
