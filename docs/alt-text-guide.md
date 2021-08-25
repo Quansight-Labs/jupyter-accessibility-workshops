@@ -67,8 +67,8 @@ It is still important to know that alt text should be brief and direct. If a sho
 
 Here are some simple alt text guidelines to start with:
 
-- Avoid starting with "an image of" or similar phrases. There is already information there that tells people it is an image.
-- Do use descriptions of an image type if it supports the content. For example, writing an image is a "screen shot" informs that the image is within an interface. "Illustration" or "animation" can be used similarly.
+- Avoid starting with "an image of" or similar phrases. That is already represented by proper HTML.
+- - Do use descriptions of an image type if it is necessary to understanding the content. For example, if an animated gif is showing a sequence of events not listed elsewhere, it makes sense to describe it as an animation before describing each step.
 - Check your spelling. You can always write alt text somewhere with spellcheck and transfer it to your main workspace.
 - Write with [plain language](https://www.plainlanguage.gov/guidelines/)
 - Acronyms are the only things that need all-caps.
@@ -114,6 +114,7 @@ Things to consider:
 - Use the expected naming conventions used in other parts of the project. 
 - Use language that directly matches the text that the image is supporting when relevant
 - Make the specificity and focus of the description match the content of the surrounding documentation
+- If the image is a screen shot of an interface, remember to note the interface featured.
 
 ## Other guidelines
 
