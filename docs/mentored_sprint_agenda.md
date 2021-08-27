@@ -3,12 +3,15 @@ This event is held one to two weeks following our accessibility learning
 experience.
 
 ## Sprint theme
-Documentation and alt text (media descriptions?)
+Documentation and alt text
 
 ## Proposed projects
+(not all of these, but a list to choose)
 - [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) 
 and/or 
 - [JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/) 
+- [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
+- [Jupyter Notebook documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
 
 ## Event agenda
 - **:00-:10** Folks arrive
@@ -28,9 +31,13 @@ for people still wanting to connect with others.
 ## Questions in search of answers
 - Do we focus only on alt text, or descriptive content for other media as 
 well? The JupyterLab docs have a lot of videos.
+    - Past mini-events have gone well with a focus on images because there is already so much to learn there.
 - Do we need resources for git and github, or is that out of scope for our 
 attendees?
+    - For the alt text workshops, minimal git is necessary. People just need an account beforehand.
 - Project Jupyter docs have less content and are a more manageable goal for 
 the sprint. Do enough people use them for this to do a helpful task?
+    - Since this is a Jupyter-wide event, it would be awesome to start with adding to Project Jupyter resources. I don't know if there's enough images here, so we may want to supplement with other projects.
 - What is a reasonable amount of time for a sprint? How long do we want this 
 to be?
+- Add community member speaking about other accessibility work needed in Jupyter?
