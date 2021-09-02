@@ -118,15 +118,19 @@ Things to consider:
 
 ## Other guidelines
 
-Follow a project's commit message format when applicable.
+Follow a project's commit message format when applicable. This can likely be found in the project's contributing guide.
 
 ## Project-specific resources
 
-TBD by project
+- [JupyterLab interface naming conventions](https://jupyterlab.readthedocs.io/en/stable/developer/contributing.html#user-interface-naming-conventions)
+- [Project Jupyter's contributing guide](https://jupyter.readthedocs.io/en/latest/contributing/content-contributor.html)
 
 ## Alt text resources
 
 This list includes resources linked elsewhere in the guide for easy access.
+- [WebAIM alt text overview](https://webaim.org/techniques/alttext/)
+- [W3's alt decision tree](https://www.w3.org/WAI/tutorials/images/decision-tree/)
+- [Diagram Center's graph guidelines](http://diagramcenter.org/specific-guidelines-g.html#71)
 
 ## Other alt text guides
 
