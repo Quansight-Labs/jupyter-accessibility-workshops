@@ -2,42 +2,66 @@
 This event is held one to two weeks following our accessibility learning 
 experience.
 
-## Sprint theme
-Documentation and alt text
+## October 9
 
-## Proposed projects
-(not all of these, but a list to choose)
-- [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) 
-and/or 
-- [JupyterLab documentation](https://jupyterlab.readthedocs.io/en/stable/) 
-- [JupyterHub documentation](https://jupyterhub.readthedocs.io/en/stable/index.html)
-- [Jupyter Notebook documentation](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html)
+A hands-on event in Jupyter code bases that improve and document accessibility conditions.
 
-## Event agenda
-- **:00-:10** Folks arrive
-- **:10-:15** goal setting for event/what we plan to do
-- **:15-:30** an icebreaker to introduce attendees to each other
-- **:30-1:00** Learning time.  Present the basics around alt text, the projects, 
-and how the sprint will work. Share resources for further reference in the event.
-- **1:00- 1:05** Team up! Join a room to work on a (pre-determined) section of the docs. 
-- **1:05- 1:45** Work time! There is also a place for review.
-- **1:45- 2:00** Break time! Move around.
-- **2:00- 2:45** Work time part 2! Remember to get review.
-- **2:45- 3:00** Wrap up! Time for giving feedback and info on upcoming events.
-- **3:00- 4:00 Optional** Celebrate! Nominate `alt text hall of fame` by category and vote. 
-Top voted ones and their authors live in infamy on the repo. This time is also spillover 
-for people still wanting to connect with others.
+### Takeaways
 
-## Questions in search of answers
-- Do we focus only on alt text, or descriptive content for other media as 
-well? The JupyterLab docs have a lot of videos.
-    - Past mini-events have gone well with a focus on images because there is already so much to learn there.
-- Do we need resources for git and github, or is that out of scope for our 
-attendees?
-    - For the alt text workshops, minimal git is necessary. People just need an account beforehand.
-- Project Jupyter docs have less content and are a more manageable goal for 
-the sprint. Do enough people use them for this to do a helpful task?
-    - Since this is a Jupyter-wide event, it would be awesome to start with adding to Project Jupyter resources. I don't know if there's enough images here, so we may want to supplement with other projects.
-- What is a reasonable amount of time for a sprint? How long do we want this 
-to be?
-- Add community member speaking about other accessibility work needed in Jupyter?
+Attendees will become familiar with the different skills needed to impact the Jupyter ecosystem, especially around documentation and alt text.
+
+### Pre-event
+In order to participate in the sprint, attendees will need a GitHub account. No other knowledge of git or GitHub is required.
+
+### Schedule
+
+```mermaid
+gantt
+
+    dateFormat YYYY-MM-DD hh:mm
+    axisFormat  %H:%M
+
+    section icebreaker
+    meet and greet :meet, 2021-10-02 08:45, 15min
+    welcome, welcome, welcome :welcome, after meet, 15min
+        
+    section introductions
+    intro to jupyter :jupyter, after welcome, 10min 
+    wcag and accessibility tools :tools, after jupyter, 30min
+            
+    section breakouts
+    breakout topics :topics, after tools, 10min
+    breakout 1 :b1, after topics, 40min
+    breakout 2 :b2, after topics, 40min
+    summarize :regroup, after b1, 10min
+    past a11y issues/prs :past, after regroup, 10min
+    breakout 1 :b21, after past, 45min
+    breakout 2 :b22, after past, 45min
+        
+    section conclusion
+    final comments :end, after b21, 15min
+    
+    section hangout
+    hangout :hang, after end, 45min
+    
+```
+
+* Enter in breakout rooms (like you about to go on an amusement park ride)
+* Welcome, welcome, welcome
+* Intro to jupyter
+* Intro to accessibility tools (WAVE, JAWS, NVDA)
+    * Demo tools on documentation to show the problem (and solution?)
+* Breakout topics
+    * Writing alt text for [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) or other Jupyter ecosystem documentation (no git knowledge needed)
+    * Adding automated tests ([pa11y](https://pa11y.org/) and/or [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to Project Jupyter documentation)
+* Breakouts
+    * Work on your chosen topic with smaller group
+* Break
+* A look at past accessibility PRs (community member)
+* Breakouts
+* Closing 
+* Hangout/cool down (optional)
+
+### notes
+
+* work off forks to reduce noise.
