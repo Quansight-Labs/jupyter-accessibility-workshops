@@ -4,7 +4,7 @@ experience.
 
 ## October 9
 
-A hands-on event in Jupyter code bases that improve and document accessibility conditions.
+A hands-on event focused on improvements to the Jupyter code bases and documentation accessibility conditions.
 
 ### Takeaways
 
