@@ -13,6 +13,8 @@ Attendees will become familiar with the different skills needed to impact the Ju
 ### Pre-event
 In order to participate in the sprint, attendees will need a GitHub account. No other knowledge of git or GitHub is required.
 
+[Create a free GitHub account here](https://github.com/join). You can find [help for creating an account on WikiHow](https://www.wikihow.com/Create-an-Account-on-GitHub).s
+
 ### Schedule
 
 ```mermaid

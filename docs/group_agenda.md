@@ -2,11 +2,11 @@
 
 ## October 2
 
-A friendly affair that brings Jupyter and PyData community members together with accessibility experts. 
+A friendly virtual event that brings Jupyter and PyData community members together with accessibility experts. 
 
 ### Takeaways
 
-Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter, and its open source challenges.
+Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter, and its open-source challenges.
 
 ### Schedule
 
