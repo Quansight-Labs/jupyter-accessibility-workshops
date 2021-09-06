@@ -2,7 +2,7 @@
 
 Jupyter accessibility workshops are events within the Project Jupyter community. They follow [Project Jupyter's Code of Conduct](https://jupyter.org/conduct/).
 
-Project Jupyter's Code of Conduct mentions that events may have additional specifications to ensure that people are kept safe in real-time interactions. For Jupyter accessibility workshops, we would like to specify the following:
+As per Project Jupyter's Code of Conduct - events may have additional specifications to ensure that people are kept safe in real-time interactions. For Jupyter accessibility workshops, we the following addendums to the Code of Conduct have been made and will be enforced
 
 ## Scope and event spaces
 
@@ -13,6 +13,7 @@ This Code of Conduct applies to the following people in Jupyter accessibility wo
 - maintainers
 - reviewers
 - contributors
+- speakers
 
 Jupyter accessibility workshops are online events that gather across multiple platforms. The Code of Conduct applies to any online space where we interact for the events, whether meeting in real time or asynchorously pre- and post-event. Event organizers will enforce this code throughout the event.
 
