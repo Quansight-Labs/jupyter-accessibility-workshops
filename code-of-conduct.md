@@ -40,7 +40,8 @@ If you believe someone has violated the Code of Conduct, we encourage you to rep
 
 Whether for immediate or post-event actions, you may report Code of Conduct violations to at least one of the following event moderators:
 - Isabela Presedo-Floyd
-- [needs at least two]
+- Tania Allard
+- [ask for other Jupyter community members]
 
 As soon as possible, the incident and action will be reported as a Project Jupyter Code of Conduct violation following the process listed [here](https://jupyter.org/conduct/).
 
