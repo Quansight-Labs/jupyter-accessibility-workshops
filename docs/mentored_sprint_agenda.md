@@ -4,16 +4,21 @@ experience.
 
 ## October 9
 
-A hands-on event focused on improvements to the Jupyter code bases and documentation accessibility conditions.
+A hands-on event focused on improvements to the Jupyter code bases and 
+documentation accessibility conditions.
 
 ### Takeaways
 
-Attendees will become familiar with the different skills needed to provide a better experience for disabled scientists in the Jupyter ecosystem, especially around documentation and alt text.
+Attendees will become familiar with the different skills needed to provide a 
+better experience for disabled scientists in the Jupyter ecosystem, especially 
+around documentation and alt text.
 
 ### Pre-event
-In order to participate in the sprint, attendees will need a GitHub account. No other knowledge of git or GitHub is required.
+In order to participate in the sprint, attendees will need a GitHub account. 
+No other knowledge of git or GitHub is required.
 
-[Create a free GitHub account here](https://github.com/join). You can find [help for creating an account on WikiHow](https://www.wikihow.com/Create-an-Account-on-GitHub).s
+[Create a free GitHub account here](https://github.com/join). You can find 
+[help for creating an account on WikiHow](https://www.wikihow.com/Create-an-Account-on-GitHub).
 
 ### Schedule
 
@@ -54,16 +59,24 @@ gantt
 * Intro to accessibility tools (WAVE, JAWS, NVDA)
     * Demo tools on documentation to show the problem (and solution?)
 * Breakout topics
-    * Writing alt text for [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) or other Jupyter ecosystem documentation (no git knowledge needed)
-    * Adding automated tests ([pa11y](https://pa11y.org/) and/or [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to Project Jupyter documentation)
+    * Writing alt text for [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) 
+    or other Jupyter ecosystem documentation (no git knowledge needed)
+    * Adding automated tests ([pa11y](https://pa11y.org/) and/or 
+    [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to 
+    Project Jupyter documentation)
 * Breakouts
     * Work on your chosen topic with smaller group
 * Break
 * A look at past accessibility PRs (community member)
 * Breakouts
 * Closing 
+    * Current state of PR(s) open around this sprint. In an ideal world, we 
+    could click the merge button with everyone, but if it needs more review I 
+    think it will also be satisfying to just count the number or images 
+    described. If we have people working on testing, I think we will just have 
+    to see how far they get.
+    * Thanks for being here! Here's a feedback survey.
+    * You can keep up with future workshops on this repo, join other Jupyter 
+    accessibility efforts in jupyter/accessibility or meetings on the 
+    community calendar.
 * Hangout/cool down (optional)
-
-### notes
-
-* work off forks to reduce noise.

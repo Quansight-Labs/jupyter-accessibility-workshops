@@ -49,18 +49,17 @@ gantt
 ```    
 
 * Enter in breakout rooms (like you're about to go on an amusement park ride)
-* Welcome, welcome, welcome
-    * Set goals
-* Intro to Jupyter
-* Jupyterlab accessibility
-* Accessibility 101
+* Welcome and set goals
+    * To educate and introduce the Jupyter community to accessibility concerns in software.
+    * Connect the Jupyter community to accessibility experts and disabled people.
+    * Learn about web content accessibility through expert content and group discussions.
+
+* Intro to Jupyter and Jupyterlab accessibility
+    * JupyterLab's accessibility now is a work in progress (includes efforts on skip links, tab index, modal focus, contrast)
+    * Goals: WCAG as a baseline with looking for more feedback on specific Jupyter needs, manual and automated testing, best practices for sharing cross-project
+    * Where to join the community now (repository, meetings)
 * Main speaker
 * Break
-* Breakouts
+* Discussion breakouts
 * Wrap up
 * Hangout/cooldown (optional)
-
-
-### notes
-
-* it would be good to have a11y questions ahead of time and answer them
