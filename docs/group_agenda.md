@@ -50,16 +50,37 @@ gantt
 
 * Enter in breakout rooms (like you're about to go on an amusement park ride)
 * Welcome and set goals
-    * To educate and introduce the Jupyter community to accessibility concerns in software.
-    * Connect the Jupyter community to accessibility experts and disabled people.
-    * Learn about web content accessibility through expert content and group discussions.
+    * To educate and introduce the Jupyter community to accessibility concerns 
+    in software.
+    * Connect the Jupyter community to accessibility experts and disabled 
+    people.
+    * Learn about web content accessibility through expert content and group 
+    discussions.
 
 * Intro to Jupyter and Jupyterlab accessibility
-    * JupyterLab's accessibility now is a work in progress (includes efforts on skip links, tab index, modal focus, contrast)
-    * Goals: WCAG as a baseline with looking for more feedback on specific Jupyter needs, manual and automated testing, best practices for sharing cross-project
+    * JupyterLab's accessibility now is a work in progress (includes efforts 
+    on skip links, tab index, modal focus, contrast)
+    * Goals: WCAG as a baseline with looking for more feedback on specific 
+    Jupyter needs, manual and automated testing, best practices for sharing 
+    cross-project
     * Where to join the community now (repository, meetings)
 * Main speaker
 * Break
 * Discussion breakouts
 * Wrap up
 * Hangout/cooldown (optional)
+
+### Further reading
+
+Resources for people interested in learning more about accessibility outside 
+the event.
+
+* [Not so short note on aria-label usage](https://html5accessibility.com/stuff/2020/11/07/not-so-short-note-on-aria-label-usage-big-table-edition/)
+* [Resources For Building Accessible Tables](https://www.digitala11y.com/resources-for-building-accessible-tables/)
+* [pydata-sphinx-theme #294 Add pa11y testing and reporting](https://github.com/pydata/pydata-sphinx-theme/pull/294#issuecomment-907404315)
+* [ 18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
+* [Maintainers Summit at PyCon US 2021 - Building Accessibility into Open Source Projects: Thibaud Colas](https://youtu.be/9XI-8ZvU2w0)
+* [Accessible icon links](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
+* [Chartability](https://chartability.fizz.studio/)
+* [A guide to designing accessible, WCAG-compliant focus indicators ](https://www.sarasoueidan.com/blog/focus-indicators/)
+* [ipython/ipython #12864 Allow specifying alt text for IPython.display.Image](https://github.com/ipython/ipython/pull/12864)
