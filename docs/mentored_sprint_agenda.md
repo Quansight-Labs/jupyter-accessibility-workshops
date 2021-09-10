@@ -8,7 +8,7 @@ A hands-on event focused on improvements to the Jupyter code bases and documenta
 
 ### Takeaways
 
-Attendees will become familiar with the different skills needed to impact the Jupyter ecosystem, especially around documentation and alt text.
+Attendees will become familiar with the different skills needed to provide a better experience for disabled scientists in the Jupyter ecosystem, especially around documentation and alt text.
 
 ### Pre-event
 In order to participate in the sprint, attendees will need a GitHub account. No other knowledge of git or GitHub is required.
