@@ -1,12 +1,18 @@
-#  entertaining group learning experience about accessibility and disability
+#  Jupyter Accessibility Workshops with Frank Elvasky: How to build inclusive data representations
 
-## October 2
+## Event details
 
-A friendly virtual event that brings Jupyter and PyData community members together with accessibility experts. 
+Date: January 15, 2022
+
+Overview: A friendly virtual event that brings Jupyter and PyData community members together to learn from an accessibility expert. 
 
 ### Takeaways
 
-Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter, and its open-source challenges.
+Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter and its open-source challenges.
+
+### What you need for the event
+
+- Some familiarity with data/visualization skills
 
 ### Schedule
 
@@ -56,7 +62,6 @@ gantt
     people.
     * Learn about web content accessibility through expert content and group 
     discussions.
-
 * Intro to Jupyter and Jupyterlab accessibility
     * JupyterLab's accessibility now is a work in progress (includes efforts 
     on skip links, tab index, modal focus, contrast)
@@ -65,9 +70,13 @@ gantt
     cross-project
     * Where to join the community now (repository, meetings)
 * Main speaker
+    * Frank Elavsky of [Chartability](https://chartability.fizz.studio/) on how to build inclusive data representations
 * Break
-* Discussion breakouts
+* Discussion breakout rooms
+    * This is a chance for attendees to reflect on what they've learned and share their own knowledge/
 * Wrap up
+    * Upcoming events
+    * How to stay up-to-date with accessibility efforts in Jupyter
 * Hangout/cooldown (optional)
 
 ### Further reading
@@ -75,12 +84,12 @@ gantt
 Resources for people interested in learning more about accessibility outside 
 the event.
 
+* [Chartability](https://chartability.fizz.studio/)
 * [Not so short note on aria-label usage](https://html5accessibility.com/stuff/2020/11/07/not-so-short-note-on-aria-label-usage-big-table-edition/)
 * [Resources For Building Accessible Tables](https://www.digitala11y.com/resources-for-building-accessible-tables/)
 * [pydata-sphinx-theme #294 Add pa11y testing and reporting](https://github.com/pydata/pydata-sphinx-theme/pull/294#issuecomment-907404315)
 * [ 18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/)
 * [Maintainers Summit at PyCon US 2021 - Building Accessibility into Open Source Projects: Thibaud Colas](https://youtu.be/9XI-8ZvU2w0)
 * [Accessible icon links](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
-* [Chartability](https://chartability.fizz.studio/)
 * [A guide to designing accessible, WCAG-compliant focus indicators ](https://www.sarasoueidan.com/blog/focus-indicators/)
 * [ipython/ipython #12864 Allow specifying alt text for IPython.display.Image](https://github.com/ipython/ipython/pull/12864)
