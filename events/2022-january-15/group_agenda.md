@@ -6,15 +6,15 @@ Date: January 15, 2022
 
 Overview: A friendly virtual event that brings Jupyter and PyData community members together to learn from an accessibility expert. 
 
-### Takeaways
+## Takeaways
 
 Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter and its open-source challenges.
 
-### What you need for the event
+## What you need to participate
 
-- Some familiarity with data/visualization skills
+* Some familiarity with data/visualization skills
 
-### Schedule
+## Schedule
 
 ```mermaid
 gantt
@@ -77,9 +77,10 @@ gantt
 * Wrap up
     * Upcoming events
     * How to stay up-to-date with accessibility efforts in Jupyter
+    * Please fill out the feedback survey so we make sure these events are helpful and fun for the community!
 * Hangout/cooldown (optional)
 
-### Further reading
+## Further reading
 
 Resources for people interested in learning more about accessibility outside 
 the event.
@@ -92,4 +93,3 @@ the event.
 * [Maintainers Summit at PyCon US 2021 - Building Accessibility into Open Source Projects: Thibaud Colas](https://youtu.be/9XI-8ZvU2w0)
 * [Accessible icon links](https://kittygiraudel.com/2020/12/10/accessible-icon-links/)
 * [A guide to designing accessible, WCAG-compliant focus indicators ](https://www.sarasoueidan.com/blog/focus-indicators/)
-* [ipython/ipython #12864 Allow specifying alt text for IPython.display.Image](https://github.com/ipython/ipython/pull/12864)
