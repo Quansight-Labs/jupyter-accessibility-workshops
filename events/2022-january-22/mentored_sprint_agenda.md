@@ -7,6 +7,8 @@ Date: January 22, 2022
 Overview: A hands-on event focused on improvements to the Jupyter code bases and 
 documentation accessibility.
 
+Join in: [sign up](https://docs.google.com/forms/d/e/1FAIpQLSfyB3NAbNcYLIQX8ODI5m86R4hnt0T5z2HP-rNLMUmbRciyZg/viewform?usp=sf_link) for an invitation.
+
 ## Takeaways
 
 Attendees will become familiar with the different skills needed to provide a 
@@ -78,7 +80,7 @@ gantt
 * Wrap up
     * Upcoming events
     * How to stay up-to-date with accessibility efforts in Jupyter
-    * Please fill out the [feedback survey]() so we make sure these events are helpful and fun for the community!
+    * Please fill out the [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLScaMDzERRMprL1TBQcKGjv9SZ8hFCFfA-keCXWDKfJf5v20Jw/viewform?usp=sf_link) so we make sure these events are helpful and fun for the community!
 * Hangout/cooldown (optional)
 
 ## How to participate in writing alt text

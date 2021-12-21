@@ -6,6 +6,8 @@ Date: January 15, 2022
 
 Overview: A friendly virtual event that brings Jupyter and PyData community members together to learn from an accessibility expert. 
 
+Join in: [sign up](https://docs.google.com/forms/d/e/1FAIpQLSf0IgPYgf0di8eM6HP1qbqduPTeGEFadXZRSIDYEXlEOgA_bw/viewform?usp=sf_link) for an invitation.
+
 ## Takeaways
 
 Jupyter and PyData members will leave better informed and more empathetic to accessibility considerations in their work while the accessibility community will become familiar with Jupyter and its open-source challenges.
@@ -77,7 +79,7 @@ gantt
 * Wrap up
     * Upcoming events
     * How to stay up-to-date with accessibility efforts in Jupyter
-    * Please fill out the [feedback survey]() so we make sure these events are helpful and fun for the community!
+    * Please fill out the [feedback survey](https://docs.google.com/forms/d/e/1FAIpQLSe7oMTwfLZfntqh9p8Npfsd9-o4jhSaVjhMNuuVMen8RmG3Ow/viewform?usp=sf_link) so we make sure these events are helpful and fun for the community!
 * Hangout/cooldown (optional)
 
 ## Further reading
