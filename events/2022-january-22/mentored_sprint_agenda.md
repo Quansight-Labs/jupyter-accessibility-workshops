@@ -1,8 +1,5 @@
 #  Jupyter Accessibility Workshops: Writing image descriptions for documentation
 
-This event is held one to two weeks following our accessibility learning 
-experience.
-
 ## Event details
 
 Date: January 22, 2022
@@ -21,6 +18,8 @@ around documentation and alt text (a common type of image description).
 * In order to participate in the sprint, attendees will need a GitHub account. 
 No other knowledge of git or GitHub is required.
     * [Create a free GitHub account here](https://github.com/join). You can find [help for creating an account on WikiHow](https://www.wikihow.com/Create-an-Account-on-GitHub).    
+
+That's it! No prior experience with accessibility is required. Newcomers are welcome.
 
 ## Schedule
 
@@ -63,7 +62,7 @@ gantt
 * Breakout topics
     * Writing alt text for [Project Jupyter documentation](https://jupyter.readthedocs.io/en/latest/) 
     or other Jupyter ecosystem documentation (no git knowledge needed)
-    * Adding automated tests ([pa11y](https://pa11y.org/) and/or 
+    * Optional (depending on number of attendees and interest): Adding automated tests ([pa11y](https://pa11y.org/) and/or 
     [Lighthouse](https://developers.google.com/web/tools/lighthouse/) to 
     Project Jupyter documentation)
 * Breakouts
@@ -72,14 +71,39 @@ gantt
 * Breakouts
     * Continue working on your chosen topic
     * Depending on the work done, this may also be a good time to review each other's efforts and leave feedback.
+    * Note any alt text you think is particularly well written in [the alt text hall of fame issue](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/issues/9)
 * Closing 
     *  Quantify the work that's been done! Number of images and/or contributors for a commit for the alt text room. Decisions made or experiments from the testing room.
-    * Vote on favorite alt text from the event (for credit on the Jupyter alt text hall of fame)
+    * Vote on favorite alt text from the event (for credit on our alt text hall of fame)
 * Wrap up
     * Upcoming events
     * How to stay up-to-date with accessibility efforts in Jupyter
-    * Please fill out the feedback survey so we make sure these events are helpful and fun for the community!
+    * Please fill out the [feedback survey]() so we make sure these events are helpful and fun for the community!
 * Hangout/cooldown (optional)
+
+## How to participate in writing alt text
+
+### Links needed
+- [The collaborative event PR] (will be added closer to event)
+- [Step by Step Images: How to Add Alt-text with Github Suggestions](https://hackmd.io/@marslee/BksnYfWVK)
+
+### Step by step
+
+1. Go to [our working PR] (will be added closer to event) and review the list of files needing alt text.
+2. Comment on the PR which file you plan to work on. You can work as a team if desired!
+3. Write alt text for an image.
+4. Submit that alt text on the PR via a single-comment suggestion. [Step by Step Images: How to Add Alt-text with Github Suggestions](https://hackmd.io/@marslee/BksnYfWVK). 
+
+**Note:** If there is an image you want to add alt text to that is not yet in the PR, tell the PR and they can add it.
+
+6. Repeat steps 2 through 4 as much as you'd like. Be sure to coordinate with others to cover as much of the blog as we can.
+7. **Optional:** If you want, you can team up with other participants and give feedback on each others' alt text.
+8. You did it! Great work! 
+
+### Alt text review
+
+- [A basic formatting review checklist with JupyterLab notes](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/docs/alt-text-guide.md#checklist-for-alt-text-review)
+- [A more general style guide for writing alt text](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/docs/alt-text-guide.md#checklist-for-alt-text-review)
 
 ## Further reading
 

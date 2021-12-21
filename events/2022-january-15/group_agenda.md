@@ -14,6 +14,8 @@ Jupyter and PyData members will leave better informed and more empathetic to acc
 
 * Some familiarity with data/visualization skills
 
+That's it! No prior experience with accessibility is required. Newcomers are welcome.
+
 ## Schedule
 
 ```mermaid
@@ -62,22 +64,20 @@ gantt
     people.
     * Learn about web content accessibility through expert content and group 
     discussions.
-* Intro to Jupyter and Jupyterlab accessibility
-    * JupyterLab's accessibility now is a work in progress (includes efforts 
-    on skip links, tab index, modal focus, contrast)
-    * Goals: WCAG as a baseline with looking for more feedback on specific 
-    Jupyter needs, manual and automated testing, best practices for sharing 
-    cross-project
-    * Where to join the community now (repository, meetings)
+* Reframing accessibility within the Jupyter ecosystem
+    * How accessible or inaccessible is the ecosystem now?
+    * Thinking about the many types of work produced in the ecosystem: guidelines, documents, interfaces, documentation, and events.
 * Main speaker
     * Frank Elavsky of [Chartability](https://chartability.fizz.studio/) on how to build inclusive data representations
 * Break
 * Discussion breakout rooms
-    * This is a chance for attendees to reflect on what they've learned and share their own knowledge/
+    * This is a chance for attendees to reflect on what they've learned and share their own knowledge
+        * How could these principles become a standard consideration in Jupyter tools? Could include guidelines, infrastructure, documentation, interface changes, etc.
+        * What new questions do you have? What would you want to learn more about this topic?
 * Wrap up
     * Upcoming events
     * How to stay up-to-date with accessibility efforts in Jupyter
-    * Please fill out the feedback survey so we make sure these events are helpful and fun for the community!
+    * Please fill out the [feedback survey]() so we make sure these events are helpful and fun for the community!
 * Hangout/cooldown (optional)
 
 ## Further reading
