@@ -2,7 +2,7 @@
 
 At long last, Jupyter accessibility workshops are here! This is a series of [Jupyter community workshops](https://blog.jupyter.org/jupyter-community-workshops-cbd34ac82549) aimed at increasing accessibility awareness within the ecosystem and making Jupyter projects more usable for disabled people.
 
-The goal is to make accessibility efforts more prominent across the many Jupyter projects. Much of what we discuss will relate to the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) and how to apply them in open source, scientific spaces where this work has historically been neglected.
+The goal is to make existing accessibility efforts more prominent across the many Jupyter projects. Much of what we discuss will relate to the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) and how to apply them in open source, scientific spaces where this work has historically been neglected.
 
 These workshops are a series of events proposed for and supported by the [third community workshop cycle](https://blog.jupyter.org/jupyter-community-workshops-call-for-proposals-for-jan-aug-2020-710f687e30f4).
 
