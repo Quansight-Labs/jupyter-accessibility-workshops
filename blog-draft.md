@@ -12,13 +12,13 @@ These workshops are a series of four events alternating between learning from ex
 
 They've been designed by listening to community requests and combining event types to include people of different skills and across communities. In total, they combine Jupyter experts and accessibility experts, learning and action, and working with old friends and making new connections.
 
-### Part 1: January 15
+### Part 1: January 15 and 22
 
 On January 15 we'll be hearing from Frank Elavsky about how to build inclusive data representations. You can learn more about this work at [Chartability](https://chartability.fizz.studio/), a framework for creating enjoyable and accessible data visualization experiences. I've heard so many questions from the community about how to author more accessible content in notebooks and otherwise, so I'm personally thrilled to announce this speaker.
 
 On January 22 we'll host a sprint to learn how to write image descriptions and practice by contributing as a team to Jupyter documentation. Image descriptions, usually alt text, is a great place to make use of different skills and learn from one another. Whether you're a Jupyter community member who wants to learn about accessibility, an accessibility expert who wants to learn about Jupyter, or someone new to both, all are welcome at this event. (No prior git or GitHub knowledge necessary!)
 
-### Part 2: January 22
+### Part 2: March
 
 Two more events-- a speaker and sprint event-- are scheduled in March 2022. Mark your calendars and get excited for more details after the first two events.
 
@@ -41,16 +41,16 @@ You can sign up for a Jupyter accessibility workshop per-event. Please note that
 
 (But don't despair! Recordings of speaking events and notes for all events will be available to all post-event.)
 
-- [January 15: how to build inclusive data representations with Frank Elavsky: How to build inclusive data representations sign up form]()
-- [January 22: writing image descriptions for documentation sprint agenda sign up form]()
+- [January 15: how to build inclusive data representations with Frank Elavsky: How to build inclusive data representations sign up form](https://docs.google.com/forms/d/e/1FAIpQLSf0IgPYgf0di8eM6HP1qbqduPTeGEFadXZRSIDYEXlEOgA_bw/viewform?usp=sf_link)
+- [January 22: writing image descriptions for documentation sprint agenda sign up form]https://docs.google.com/forms/d/e/1FAIpQLSfyB3NAbNcYLIQX8ODI5m86R4hnt0T5z2HP-rNLMUmbRciyZg/viewform?usp=sf_link)
 
 ## Where can I get more info?
 
 These events are planned in public on GitHub; you can explore the [accessibility workshop planning repository](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/) for more information. 
 
 You can also read the agendas for the first two events:
-- [January 15: how to build inclusive data representations with Frank Elavsky: How to build inclusive data representations agenda]()
-- [January 22: writing image descriptions for documentation sprint agenda]()
+- [January 15: how to build inclusive data representations with Frank Elavsky: How to build inclusive data representations agenda](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-15/group_agenda.md)
+- [January 22: writing image descriptions for documentation sprint agenda](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-22/mentored_sprint_agenda.md)
 
 ## Thanks
 
