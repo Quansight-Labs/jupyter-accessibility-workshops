@@ -1,6 +1,6 @@
 # Join us for the Jupyter Accessibility Workshops (Part 1)
 
-At long last, Jupyter accessibility workshops are here! This is a series of [Jupyter community workshops](https://blog.jupyter.org/jupyter-community-workshops-cbd34ac82549) aimed at increasing accessibility knowledge within the ecosystem and making Jupyter projects more usable for disabled people.
+At long last, Jupyter accessibility workshops are here! This is a series of [Jupyter community workshops](https://blog.jupyter.org/jupyter-community-workshops-cbd34ac82549) aimed at increasing accessibility awareness within the ecosystem and making Jupyter projects more usable for disabled people.
 
 The goal is to make accessibility efforts more prominent across the many Jupyter projects. Much of what we discuss will relate to the [Web Content Accessibility Guidelines](https://en.wikipedia.org/wiki/Web_Content_Accessibility_Guidelines) and how to apply them in open source, scientific spaces where this work has historically been neglected.
 
@@ -12,13 +12,13 @@ These workshops are a series of four events alternating between learning from ex
 
 They've been designed by listening to community requests and combining event types to include people of different skills and across communities. In total, they combine Jupyter experts and accessibility experts, learning and action, and working with old friends and making new connections.
 
-### Part 1:
+### Part 1: January 15
 
 On January 15 we'll be hearing from Frank Elavsky about how to build inclusive data representations. You can learn more about this work at [Chartability](https://chartability.fizz.studio/), a framework for creating enjoyable and accessible data visualization experiences. I've heard so many questions from the community about how to author more accessible content in notebooks and otherwise, so I'm personally thrilled to announce this speaker.
 
 On January 22 we'll host a sprint to learn how to write image descriptions and practice by contributing as a team to Jupyter documentation. Image descriptions, usually alt text, is a great place to make use of different skills and learn from one another. Whether you're a Jupyter community member who wants to learn about accessibility, an accessibility expert who wants to learn about Jupyter, or someone new to both, all are welcome at this event. (No prior git or GitHub knowledge necessary!)
 
-### Part 2:
+### Part 2: January 22
 
 Two more events-- a speaker and sprint event-- are scheduled in March 2022. Mark your calendars and get excited for more details after the first two events.
 
