@@ -1,5 +1,6 @@
 # jupyter-accessibility-workshops
 Where Jupyter accessibility events are dreamed up, planned, and happening.
+## Next event: **January 15** - Jupyter Accessibility Workshops with [Frank Elvasky](https://chartability.fizz.studio/): How to build inclusive data representations ([in your timezone]()).
 
 ## Upcoming events 
 
