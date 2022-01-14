@@ -12,7 +12,7 @@ Before we meet, here's a few things to remember:
 - By participating in the event, you are agreeing to follow the [event Code of Conduct](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/code-of-conduct.md).
 - The main session/speaker will be recorded and publicly available post-event.
 
-If you have any questions, reach out via ???
+If you have any questions, reach out to ipresedo@quansight.com.
 
 Get excited!
 
