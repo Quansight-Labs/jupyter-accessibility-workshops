@@ -1,0 +1,10880 @@
+1
+00:00:01,380 --> 00:00:02,719
+Tony Fast (he/they):
+Well, welcome everybody.
+
+2
+00:00:03,350 --> 00:00:05,730
+Today we're going to get
+started with our, how to build
+
+3
+00:00:05,730 --> 00:00:07,780
+inclusive data experiences event.
+
+4
+00:00:08,250 --> 00:00:10,590
+Our featured today is Frank
+
+5
+00:00:10,590 --> 00:00:11,260
+Elavsky.
+
+6
+00:00:11,260 --> 00:00:12,600
+ we'll have
+
+7
+00:00:12,600 --> 00:00:14,400
+him
+go on and about a half an
+
+8
+00:00:14,430 --> 00:00:19,380
+hour or so in the short
+term we wanted to just kind
+
+9
+00:00:19,380 --> 00:00:20,790
+Tony Fast (he/they): of set
+the stage for the event.
+
+10
+00:00:21,150 --> 00:00:21,930
+Isabela, if you can go to the
+
+11
+00:00:21,930 --> 00:00:23,415
+next slide.
+
+12
+00:00:23,415 --> 00:00:27,870
+One of the oh, I see
+
+13
+00:00:27,870 --> 00:00:28,530
+what happens.
+
+14
+00:00:28,860 --> 00:00:29,880
+I get the delay.
+
+15
+00:00:29,940 --> 00:00:30,300
+All right.
+
+16
+00:00:30,600 --> 00:00:31,020
+Okay.
+
+17
+00:00:31,560 --> 00:00:35,640
+So since we are doing and building an
+inclusive, talking about an inclusive
+
+18
+00:00:35,700 --> 00:00:39,330
+event, first thing y'all need to be
+aware of is there is a code of conduct.
+
+19
+00:00:39,570 --> 00:00:43,260
+This is a Project Jupyter event,
+which means that we're abiding the
+
+20
+00:00:43,260 --> 00:00:44,550
+Project Jupyter code of conduct.
+
+21
+00:00:44,580 --> 00:00:47,040
+If you have any questions
+or anything that you need
+
+22
+00:00:47,040 --> 00:00:47,835
+to report.
+
+23
+00:00:47,835 --> 00:00:48,629
+you can
+
+24
+00:00:48,629 --> 00:00:49,080
+click on this
+
+25
+00:00:49,080 --> 00:00:51,000
+link and follow any
+
+26
+00:00:51,000 --> 00:00:53,760
+instructions. if
+you need to contact any of the event,
+
+27
+00:00:53,760 --> 00:00:55,499
+organizers Isabela,
+
+28
+00:00:55,499 --> 00:00:57,989
+myself
+and Tania are all here to
+
+29
+00:00:57,989 --> 00:00:58,664
+support you.
+
+30
+00:00:58,664 --> 00:00:59,339
+so please
+
+31
+00:00:59,339 --> 00:01:01,650
+use the chat and
+let us know if anything, if there's
+
+32
+00:01:01,650 --> 00:01:06,630
+anything you need. be reminded,
+this event is recorded and posted
+
+33
+00:01:06,630 --> 00:01:08,014
+publicly.
+
+34
+00:01:08,014 --> 00:01:09,399
+so
+
+35
+00:01:09,449 --> 00:01:11,429
+between
+discussions and chats and stuff
+
+36
+00:01:11,429 --> 00:01:12,900
+like that, all of this is public.
+
+37
+00:01:12,929 --> 00:01:14,759
+So, you know, be mindful,
+
+38
+00:01:15,040 --> 00:01:17,280
+, and yeah, that's
+
+39
+00:01:17,280 --> 00:01:19,610
+all the
+business kind of stuff that we need.
+
+40
+00:01:19,990 --> 00:01:21,930
+So what happens next in this?
+
+41
+00:01:22,650 --> 00:01:25,580
+I think we talk, we're going to Jupyter.
+
+42
+00:01:25,889 --> 00:01:26,520
+Oh my God.
+
+43
+00:01:26,820 --> 00:01:28,139
+Everybody is a jovyan.
+
+44
+00:01:29,699 --> 00:01:31,169
+Yes, you are new people.
+
+45
+00:01:31,380 --> 00:01:31,560
+There's
+
+46
+00:01:31,560 --> 00:01:32,850
+new life.
+
+47
+00:01:32,850 --> 00:01:36,720
+But yeah, so this event is
+
+48
+00:01:36,720 --> 00:01:37,560
+sponsored by Project
+
+49
+00:01:37,560 --> 00:01:39,020
+Jupyter which is
+
+50
+00:01:39,030 --> 00:01:43,800
+an all in one
+data science data analysis solution.
+
+51
+00:01:43,860 --> 00:01:44,729
+And we do a lot of data
+
+52
+00:01:44,729 --> 00:01:47,370
+visualization You're going
+
+53
+00:01:47,370 --> 00:01:49,260
+to hear a
+lot of terms during the course of
+
+54
+00:01:49,260 --> 00:01:50,620
+this event that probably
+
+55
+00:01:50,670 --> 00:01:51,820
+Tony Fast (he/they):
+revolve around Jupyter.
+
+56
+00:01:52,880 --> 00:01:54,210
+You'll hear about Jupyter notebooks.
+
+57
+00:01:54,270 --> 00:01:55,360
+You'll hear about JupyterHub.
+
+58
+00:01:55,820 --> 00:01:56,820
+You'll hear about JupyterLab.
+
+59
+00:01:57,440 --> 00:02:00,600
+If you're unfamiliar with Jupyter,
+please ask questions in the
+
+60
+00:02:00,600 --> 00:02:02,490
+chat while this is going on.
+
+61
+00:02:02,520 --> 00:02:06,540
+I think it would be good to take a little
+poll about how familiar folks are with
+
+62
+00:02:06,540 --> 00:02:08,430
+Jupyter so we can kind of get a feel
+
+63
+00:02:08,430 --> 00:02:09,903
+for that.
+
+64
+00:02:09,903 --> 00:02:10,640
+, and,
+
+65
+00:02:10,650 --> 00:02:11,009
+yeah.
+
+66
+00:02:11,340 --> 00:02:15,240
+Welcome to possibly your
+first Jupyter event or your
+
+67
+00:02:15,240 --> 00:02:17,450
+10th hundredth Jupyter event.
+
+68
+00:02:17,880 --> 00:02:19,230
+But we're happy to have you here.
+
+69
+00:02:19,560 --> 00:02:20,280
+I want to go next.
+
+70
+00:02:23,144 --> 00:02:23,954
+Parts of this slide.
+
+71
+00:02:23,954 --> 00:02:24,404
+Didn't love.
+
+72
+00:02:25,454 --> 00:02:26,894
+I've never gotten that before.
+
+73
+00:02:27,135 --> 00:02:27,704
+Perfect.
+
+74
+00:02:28,484 --> 00:02:28,755
+Yeah.
+
+75
+00:02:28,774 --> 00:02:29,084
+Right.
+
+76
+00:02:30,584 --> 00:02:32,024
+So Jupyter is more than a single
+
+77
+00:02:32,024 --> 00:02:34,815
+project file type
+
+78
+00:02:34,815 --> 00:02:35,445
+Tony Fast (he/they): interface.
+
+79
+00:02:35,924 --> 00:02:37,755
+It probably is the community at its
+
+80
+00:02:37,755 --> 00:02:39,255
+extent, but Jupyter
+
+81
+00:02:39,255 --> 00:02:40,545
+Tony Fast (he/they): has
+a lot of things going on.
+
+82
+00:02:40,815 --> 00:02:45,825
+There are a lot of tools that enable data,
+ingest data, visualization, data analysis.
+
+83
+00:02:45,825 --> 00:02:49,755
+So this talk that we're having today
+is really important and recording.
+
+84
+00:02:49,755 --> 00:02:52,065
+It will be super valuable to the community
+
+85
+00:02:52,115 --> 00:02:53,005
+at large.
+
+86
+00:02:53,005 --> 00:02:53,894
+so again,
+
+87
+00:02:53,894 --> 00:02:55,855
+Tony Fast (he/they): if anybody
+is not familiar with Jupyter,
+
+88
+00:02:55,875 --> 00:02:56,894
+please let's use the chat.
+
+89
+00:02:56,894 --> 00:02:59,774
+We've got a bunch of Jupyter experts
+here that can help answer your
+
+90
+00:02:59,774 --> 00:03:00,344
+questions.
+
+91
+00:03:00,344 --> 00:03:01,484
+We're kind
+
+92
+00:03:01,484 --> 00:03:02,924
+Tony Fast (he/they): of going
+to have an intersection of
+
+93
+00:03:02,924 --> 00:03:06,734
+Jupyter experts and accessibility
+experts and design experts here.
+
+94
+00:03:07,005 --> 00:03:09,344
+So let's try and make
+the best of all of these
+
+95
+00:03:09,344 --> 00:03:11,400
+different people meeting.
+
+96
+00:03:12,085 --> 00:03:12,770
+I think
+
+97
+00:03:12,770 --> 00:03:15,530
+my only job
+was to talk about Jupyter, but
+
+98
+00:03:15,530 --> 00:03:19,790
+it's really important to recognize
+that Jupyter does have tons of data
+
+99
+00:03:19,790 --> 00:03:24,290
+visualization libraries, and it will
+be fabulous for us in this room.
+
+100
+00:03:24,560 --> 00:03:29,300
+And those that hear this talk to figure
+out how to apply Frank's principles
+
+101
+00:03:29,329 --> 00:03:33,020
+and the things that he talks about to
+our open source tools so that we are
+
+102
+00:03:33,020 --> 00:03:35,390
+building a more inclusive experience.
+
+103
+00:03:36,079 --> 00:03:37,250
+Why don't we keep on cruising?
+
+104
+00:03:37,490 --> 00:03:38,000
+And I think it's
+
+105
+00:03:38,000 --> 00:03:40,520
+time for Isabela
+
+106
+00:03:40,520 --> 00:03:43,670
+to tell us
+a little bit about accessibility.
+
+107
+00:03:44,480 --> 00:03:45,560
+Isabela Presedo-Floyd (she/her):
+Yes, it is.
+
+108
+00:03:45,560 --> 00:03:46,640
+And real quick.
+
+109
+00:03:46,670 --> 00:03:47,120
+Hello.
+
+110
+00:03:47,150 --> 00:03:48,710
+I am Isabela Presedo-Floyd.
+
+111
+00:03:49,130 --> 00:03:54,380
+I am a Latina woman with short
+curly black hair, and I'm just
+
+112
+00:03:54,380 --> 00:03:57,920
+wearing a cool black and white
+blazer today who you heard talking
+
+113
+00:03:57,920 --> 00:03:59,315
+was Tony.
+
+114
+00:03:59,315 --> 00:04:00,710
+and that
+
+115
+00:04:00,710 --> 00:04:03,050
+Isabela Presedo-Floyd (she/her): is, I
+don't know how Tony wants to describe
+
+116
+00:04:03,050 --> 00:04:05,630
+himself, but he's my partner
+
+117
+00:04:05,630 --> 00:04:07,269
+Isabela Presedo-Floyd (she/her):
+in crime in Jupyter.
+
+118
+00:04:07,875 --> 00:04:12,825
+So I'm just going to be giving an overview
+because I don't know exactly what Frank
+
+119
+00:04:12,825 --> 00:04:17,235
+has to give to us today in terms of like
+explaining accessibility or anything
+
+120
+00:04:17,235 --> 00:04:20,715
+else, but just making sure we're all
+kind of starting on an even foundation,
+
+121
+00:04:20,835 --> 00:04:22,365
+whether you decided to join this event.
+
+122
+00:04:22,365 --> 00:04:24,405
+Cause you're like, wow, accessibility.
+
+123
+00:04:24,405 --> 00:04:27,375
+I already do a ton of that and I
+want to learn more. Or whether you're
+
+124
+00:04:27,375 --> 00:04:29,025
+like, oh, I've never heard of this.
+
+125
+00:04:29,055 --> 00:04:30,975
+I'm just really curious about what it is.
+
+126
+00:04:31,485 --> 00:04:36,675
+So accessibility is we're going
+to be using it today is a term to
+
+127
+00:04:36,675 --> 00:04:40,455
+describe designing building and
+just creating things that can be
+
+128
+00:04:40,455 --> 00:04:42,435
+used by as many people as possible.
+
+129
+00:04:42,465 --> 00:04:46,395
+But specifically we're focused on making
+sure that disabled people can use it.
+
+130
+00:04:46,395 --> 00:04:46,665
+Right?
+
+131
+00:04:46,665 --> 00:04:50,235
+These are people that we leave
+out a lot in these processes
+
+132
+00:04:50,265 --> 00:04:51,195
+and in the things that we do.
+
+133
+00:04:52,230 --> 00:04:53,340
+And just abled.
+
+134
+00:04:53,370 --> 00:04:57,840
+A lot of times people will focus on
+blind and visually impaired exclusively.
+
+135
+00:04:57,840 --> 00:05:01,500
+So I also want to say, that's
+not the limit here at all.
+
+136
+00:05:01,800 --> 00:05:05,940
+Could be motor disabilities could be
+cognitive, could even be temporary.
+
+137
+00:05:05,940 --> 00:05:09,930
+There are all kinds of situations where
+you're like, things may be changing.
+
+138
+00:05:11,070 --> 00:05:12,840
+What we're going to be
+talking today though.
+
+139
+00:05:12,840 --> 00:05:17,790
+More because Jupyter is a web app
+is digital and web accessibility.
+
+140
+00:05:17,790 --> 00:05:21,030
+So you'll probably also hear the
+words with WCAG at some point or a
+
+141
+00:05:21,030 --> 00:05:23,850
+WCAG the Web Content Accessibility
+
+142
+00:05:23,850 --> 00:05:26,070
+Guidelines because
+
+143
+00:05:26,070 --> 00:05:27,600
+those are the major guidelines
+
+144
+00:05:27,600 --> 00:05:29,700
+used for this type of content.
+
+145
+00:05:30,360 --> 00:05:33,090
+And other than that, I
+think we're good to go.
+
+146
+00:05:33,090 --> 00:05:35,760
+Are you seeing anything in the chat
+Tony that I should be addressing?
+
+147
+00:05:35,770 --> 00:05:38,970
+Are we getting a lot of people
+saying that they are new to this?
+
+148
+00:05:38,970 --> 00:05:40,140
+Not anything like that.
+
+149
+00:05:43,030 --> 00:05:46,180
+Tony Fast (he/they): It doesn't seem like
+there's any questions, but if anybody has
+
+150
+00:05:46,180 --> 00:05:47,590
+any, please feel free to throw them out.
+
+151
+00:05:47,950 --> 00:05:49,960
+I can't find the poll. Did
+we, did we put out a poll?
+
+152
+00:05:49,990 --> 00:05:51,078
+There it is.
+
+153
+00:05:51,078 --> 00:05:52,710
+How do we
+
+154
+00:05:52,710 --> 00:05:53,520
+show the results?
+
+155
+00:05:53,550 --> 00:05:54,750
+I click on show results.
+
+156
+00:05:55,230 --> 00:05:55,650
+There we go.
+
+157
+00:05:55,650 --> 00:05:56,820
+We've only gotten one vote.
+
+158
+00:05:56,820 --> 00:05:59,610
+So only one person heard of Jupyter.
+
+159
+00:06:00,900 --> 00:06:02,100
+Those that are
+
+160
+00:06:02,160 --> 00:06:03,900
+in hopin right next
+
+161
+00:06:03,900 --> 00:06:04,020
+Tony Fast (he/they): to
+
+162
+00:06:04,020 --> 00:06:04,875
+the chat.
+
+163
+00:06:04,875 --> 00:06:05,730
+, there is
+
+164
+00:06:05,730 --> 00:06:07,410
+Tony Fast (he/they): a
+little tab for polls.
+
+165
+00:06:07,440 --> 00:06:12,030
+We'd love if y'all could let us know
+some of your experience with Jupyter so
+
+166
+00:06:12,240 --> 00:06:13,650
+we can gauge this a little bit better.
+
+167
+00:06:14,370 --> 00:06:14,460
+Isabela Presedo-Floyd (she/her): Okay.
+
+168
+00:06:14,580 --> 00:06:14,880
+Yeah.
+
+169
+00:06:14,880 --> 00:06:16,890
+And we're exploring this
+whole interface too.
+
+170
+00:06:16,890 --> 00:06:19,620
+So thank you for going
+along in that ride with us.
+
+171
+00:06:19,680 --> 00:06:22,170
+And I'll probably ask you a few
+more times since I can't see it
+
+172
+00:06:22,170 --> 00:06:25,590
+while I'm screen-sharing Tony, but
+yeah, that's my quick overview of
+
+173
+00:06:25,590 --> 00:06:26,085
+accessibility.
+
+174
+00:06:26,085 --> 00:06:27,570
+One of the
+
+175
+00:06:27,570 --> 00:06:28,350
+Isabela Presedo-Floyd (she/her):
+other things I want to say,
+
+176
+00:06:28,350 --> 00:06:29,970
+though, accessibility is not new.
+
+177
+00:06:30,000 --> 00:06:30,360
+Right.
+
+178
+00:06:30,420 --> 00:06:35,640
+I personally seen an uptick in interest
+in it recently, which is awesome.
+
+179
+00:06:35,700 --> 00:06:39,150
+I love to see that, but I think it's
+important to remember that this isn't
+
+180
+00:06:39,150 --> 00:06:42,660
+something that just appeared or that
+people haven't been working on, or that
+
+181
+00:06:42,660 --> 00:06:44,490
+hasn't been a problem for a long time.
+
+182
+00:06:44,970 --> 00:06:47,940
+So just to point out a few
+instances that might be familiar.
+
+183
+00:06:48,675 --> 00:06:53,295
+I am in the U.S. size looking curb
+cuts, meaning the kind of ramps in
+
+184
+00:06:53,295 --> 00:06:58,245
+sidewalk curves, which was initially for
+wheelchair access have been happening
+
+185
+00:06:58,245 --> 00:07:02,115
+in the U.S, since about the 1940s, even
+though they were not required at that
+
+186
+00:07:02,115 --> 00:07:06,765
+time, national legislation starts to
+become a little more common globally.
+
+187
+00:07:06,765 --> 00:07:11,235
+So multiple countries between
+like the 1990s to the 2000, and
+
+188
+00:07:11,235 --> 00:07:16,005
+we've had some version of web
+accessibility guides since 1995.
+
+189
+00:07:16,335 --> 00:07:20,415
+So these aren't things that have
+come up overnight, and there's a
+
+190
+00:07:20,415 --> 00:07:21,915
+lot that we can learn from our past.
+
+191
+00:07:21,975 --> 00:07:24,744
+However, this is kind of new to Jupyter.
+
+192
+00:07:24,765 --> 00:07:28,395
+There have been people talking about
+accessibility for several years,
+
+193
+00:07:28,695 --> 00:07:32,175
+but it's been really a challenge
+to get a concerted effort as it is
+
+194
+00:07:32,175 --> 00:07:34,155
+with anything open source, right?
+
+195
+00:07:34,155 --> 00:07:38,055
+There's a lot of back and forth
+they're working on volunteer time.
+
+196
+00:07:38,385 --> 00:07:41,025
+So it makes sense, but we're
+really trying to ramp that up
+
+197
+00:07:41,085 --> 00:07:42,825
+and we have a lot to learn here.
+
+198
+00:07:42,825 --> 00:07:44,145
+So that's part of why we're doing these.
+
+199
+00:07:45,900 --> 00:07:48,300
+Accessibility is also cross project in
+
+200
+00:07:48,300 --> 00:07:48,950
+Jupyter.
+
+201
+00:07:48,950 --> 00:07:50,250
+I spend
+
+202
+00:07:50,250 --> 00:07:51,900
+Isabela Presedo-Floyd (she/her): a
+lot of time in certain projects, so
+
+203
+00:07:51,900 --> 00:07:55,109
+I wanted to make it clear, you know,
+this touches all kinds of things.
+
+204
+00:07:55,500 --> 00:07:58,140
+One of the things, I mean
+by this, is that right?
+
+205
+00:07:58,140 --> 00:08:01,469
+It's not just about the
+notebook file or the interface
+
+206
+00:08:01,500 --> 00:08:02,969
+or the documetation or
+
+207
+00:08:02,969 --> 00:08:05,039
+Isabela Presedo-Floyd (she/her): the
+organization website or any of that.
+
+208
+00:08:05,039 --> 00:08:05,250
+Right.
+
+209
+00:08:05,250 --> 00:08:07,049
+It's actually all of it at once.
+
+210
+00:08:07,080 --> 00:08:11,370
+And so it's not just one project
+problem or one person's problem
+
+211
+00:08:11,370 --> 00:08:12,870
+or even one team's problem.
+
+212
+00:08:13,169 --> 00:08:16,830
+These are cases where we need to
+collaborate and do what we can to do
+
+213
+00:08:16,830 --> 00:08:18,390
+solutions that can help each other.
+
+214
+00:08:18,390 --> 00:08:19,860
+And that can carry over, right?
+
+215
+00:08:19,860 --> 00:08:22,919
+Like if we can do something that
+solves it for multiple projects
+
+216
+00:08:22,919 --> 00:08:24,120
+at once, that'd be awesome.
+
+217
+00:08:25,080 --> 00:08:28,530
+One example of this in case you're
+new to Jupyter, I'm going to explain
+
+218
+00:08:28,530 --> 00:08:31,229
+this kind of interconnectedness
+and JupyterLab, because that's
+
+219
+00:08:31,229 --> 00:08:32,610
+where I spend a lot of my time.
+
+220
+00:08:32,970 --> 00:08:36,000
+So say we're starting with the notebook
+file, which is a totally separate thing
+
+221
+00:08:36,010 --> 00:08:37,860
+used by a lot of different interfaces.
+
+222
+00:08:39,270 --> 00:08:39,659
+And if
+
+223
+00:08:39,659 --> 00:08:41,339
+you add Lumino a different
+
+224
+00:08:41,339 --> 00:08:43,350
+Jupyter project and a bunch of other
+
+225
+00:08:43,350 --> 00:08:46,980
+things you can end up with Jupyter
+Lab in interface for the notebook.
+
+226
+00:08:47,160 --> 00:08:47,670
+You also
+
+227
+00:08:47,670 --> 00:08:48,990
+have the documentation with
+
+228
+00:08:48,990 --> 00:08:49,680
+this, right?
+
+229
+00:08:49,680 --> 00:08:53,280
+So we've already talked about like
+three different Jupyter projects.
+
+230
+00:08:53,730 --> 00:08:57,280
+And on top of that, we have
+RetroLab, which takes Jupyter
+
+231
+00:08:57,300 --> 00:09:01,260
+Lab components, pulls it apart a
+little and uses kind of the most.
+
+232
+00:09:02,400 --> 00:09:04,800
+But I want to say like the
+most foundational ones.
+
+233
+00:09:04,800 --> 00:09:06,750
+And so we have kind of
+the stripped down version.
+
+234
+00:09:06,990 --> 00:09:10,110
+Now we're at four projects and
+of course someone could actually
+
+235
+00:09:10,110 --> 00:09:13,380
+ignore JupyterLab entirely and
+just be working with a notebook in
+
+236
+00:09:14,370 --> 00:09:16,410
+so many more notebook interfaces.
+
+237
+00:09:16,620 --> 00:09:18,120
+And then we have a whole bunch of others.
+
+238
+00:09:18,150 --> 00:09:22,590
+So that is just one small section of
+the ecosystem to give you an example
+
+239
+00:09:22,590 --> 00:09:26,700
+of how this, how this works and why we
+are looking for accessibility solutions
+
+240
+00:09:26,700 --> 00:09:30,870
+that can cover kind of all of these
+pieces, all of these Lego blocks.
+
+241
+00:09:30,900 --> 00:09:34,590
+As I'm showing here to train,
+give that idea, Legos will never
+
+242
+00:09:34,590 --> 00:09:35,850
+stop being a good metaphor.
+
+243
+00:09:35,850 --> 00:09:36,780
+It's kind of amazing.
+
+244
+00:09:38,010 --> 00:09:40,440
+Accessibility is also
+happening now, right?
+
+245
+00:09:40,440 --> 00:09:42,480
+This is not something that
+we just want to talk about.
+
+246
+00:09:42,480 --> 00:09:45,960
+We are making some progress,
+some highlights from the past
+
+247
+00:09:45,960 --> 00:09:48,570
+year because we've had really
+awesome community members.
+
+248
+00:09:49,020 --> 00:09:53,040
+We've had regular meetings for a year,
+which has just been great for keeping
+
+249
+00:09:53,040 --> 00:09:56,250
+touch for helping one another, like
+people saying, I need to know this.
+
+250
+00:09:56,250 --> 00:09:56,610
+I need to know.
+
+251
+00:09:57,675 --> 00:09:58,935
+We'd also like community growth.
+
+252
+00:09:58,964 --> 00:10:01,844
+Like we've had a lot more people
+show up to these meetings, a
+
+253
+00:10:01,844 --> 00:10:03,375
+lot more people bringing ideas.
+
+254
+00:10:03,375 --> 00:10:09,944
+Some people I've never met in Jupyter
+before even we also had a WCAG-based
+
+255
+00:10:09,974 --> 00:10:14,025
+audits of multiple projects with
+related issues and PRS on GitHub
+
+256
+00:10:14,025 --> 00:10:15,555
+so that we can track the problems.
+
+257
+00:10:15,555 --> 00:10:18,314
+And we can also track what's
+works, has been done to fix them.
+
+258
+00:10:19,125 --> 00:10:23,895
+And we have a CZI Essential Open
+Source Software for Science grant.
+
+259
+00:10:23,895 --> 00:10:27,015
+We have one for Jupyter accessibility
+at the moment, which is awesome
+
+260
+00:10:27,045 --> 00:10:31,875
+because that funding allows us to
+pay people to work on this as their
+
+261
+00:10:31,875 --> 00:10:33,974
+job and not just rely on volunteers.
+
+262
+00:10:33,974 --> 00:10:37,694
+We have had some really amazing
+volunteers and I'm super grateful,
+
+263
+00:10:38,055 --> 00:10:41,145
+but this is, this is a big project.
+
+264
+00:10:41,204 --> 00:10:43,094
+So it's wonderful to have
+a little bit more going on.
+
+265
+00:10:44,444 --> 00:10:46,365
+I think that's oh, no way of future goals.
+
+266
+00:10:46,395 --> 00:10:48,855
+So some other things they're working
+on that haven't been touched on
+
+267
+00:10:48,855 --> 00:10:52,845
+yet automated tests, big thing,
+and open source projects, for sure.
+
+268
+00:10:52,845 --> 00:10:54,235
+And we really need them with Jupyter
+
+269
+00:10:54,255 --> 00:10:55,875
+to avoid our work
+
+270
+00:10:55,875 --> 00:10:56,655
+being undone.
+
+271
+00:10:57,315 --> 00:11:00,795
+We need to make sure that the notebook
+file format is accessible as can be, as
+
+272
+00:11:00,795 --> 00:11:02,565
+I kind of showed with those Legos, right?
+
+273
+00:11:02,565 --> 00:11:05,115
+That's the foundation of so
+many different projects and
+
+274
+00:11:05,115 --> 00:11:06,705
+even things outside of Project
+
+275
+00:11:06,705 --> 00:11:07,117
+Jupyter.
+
+276
+00:11:07,117 --> 00:11:08,355
+And we need
+
+277
+00:11:08,355 --> 00:11:08,805
+Isabela Presedo-Floyd (she/her):
+to update
+
+278
+00:11:08,805 --> 00:11:10,455
+improve the documentation,
+
+279
+00:11:10,455 --> 00:11:12,585
+both
+making the content more accessible
+
+280
+00:11:12,585 --> 00:11:14,235
+in the format that it's coming in.
+
+281
+00:11:15,315 --> 00:11:18,135
+Of course, we also want to
+get you more involved, but
+
+282
+00:11:18,165 --> 00:11:19,485
+we'll get more on that later.
+
+283
+00:11:19,485 --> 00:11:24,165
+There's tons of opportunity if you end
+up in joining today's event and yes,
+
+284
+00:11:24,225 --> 00:11:25,965
+that's what I have to say it for now.
+
+285
+00:11:26,295 --> 00:11:27,915
+Thank you for that overview.
+
+286
+00:11:27,945 --> 00:11:31,305
+I will be able to stop sharing
+my screen and be in chat now.
+
+287
+00:11:31,335 --> 00:11:34,455
+So if you have any questions,
+I'll do my best to answer them.
+
+288
+00:11:34,845 --> 00:11:40,455
+And I am here to pass it over
+to Frank Elavsky, a man who
+
+289
+00:11:40,455 --> 00:11:41,535
+Tania is going to introduce.
+
+290
+00:11:42,615 --> 00:11:43,095
+Yes.
+
+291
+00:11:43,485 --> 00:11:46,605
+Tony Fast (he/they): Wait let's take a,
+let's just take a quick delay real quick,
+
+292
+00:11:46,605 --> 00:11:49,665
+but there are a bunch of people, pretty
+much everybody here has heard of Jupyter.
+
+293
+00:11:50,115 --> 00:11:51,045
+So we're good on that.
+
+294
+00:11:51,375 --> 00:11:53,535
+I think we're going to have another
+poll coming out just to find
+
+295
+00:11:53,535 --> 00:11:55,005
+out how people are feeling about
+
+296
+00:11:55,005 --> 00:11:55,625
+accessibility.
+
+297
+00:11:55,625 --> 00:11:56,865
+The two
+
+298
+00:11:56,865 --> 00:11:58,305
+Tony Fast (he/they): things that
+we're putting together here.
+
+299
+00:11:58,305 --> 00:12:00,045
+So beyond look out in the chat for
+
+300
+00:12:00,045 --> 00:12:01,545
+that poll.
+
+301
+00:12:01,545 --> 00:12:02,295
+, and,
+
+302
+00:12:02,295 --> 00:12:03,885
+, Tony Fast (he/they): thank
+you all for the introduction.
+
+303
+00:12:03,915 --> 00:12:06,285
+And then I'm going to send
+it back over to Tania.
+
+304
+00:12:08,815 --> 00:12:11,485
+Tania Allard (she/her): Hi,
+y'all I am Tania, my pronouns.
+
+305
+00:12:11,515 --> 00:12:14,875
+Are she/her and I am a Latina woman.
+
+306
+00:12:15,175 --> 00:12:18,775
+With short purple hair and I'm
+wearing a black t-shirt
+
+307
+00:12:19,225 --> 00:12:21,025
+purple headphones and black
+
+308
+00:12:21,095 --> 00:12:21,941
+glasses.
+
+309
+00:12:21,941 --> 00:12:23,635
+It's an
+
+310
+00:12:23,635 --> 00:12:26,285
+honor to
+introduce our next speaker, Frank.
+
+311
+00:12:26,315 --> 00:12:27,505
+I am so, so, so
+
+312
+00:12:27,515 --> 00:12:28,195
+excited
+
+313
+00:12:28,195 --> 00:12:29,555
+about his
+
+314
+00:12:29,555 --> 00:12:32,285
+presentation,
+Frank, for those of you that don't know,
+
+315
+00:12:33,685 --> 00:12:37,375
+Is a software engineer, returned
+researcher, and his currently
+
+316
+00:12:37,375 --> 00:12:42,565
+pursuing a PhD at the intersection
+of accessibility and information
+
+317
+00:12:42,565 --> 00:12:44,455
+rich systems and Carnegie Mellon.
+
+318
+00:12:45,265 --> 00:12:52,195
+He's also the author of an amazing tool
+or library, called Chartability, which
+
+319
+00:12:52,195 --> 00:12:57,535
+helps us to actually to build more accessible
+data, experiences, graphics, and such.
+
+320
+00:12:57,595 --> 00:13:01,375
+And he'll be talking more about all
+of his fabulous work and research.
+
+321
+00:13:01,765 --> 00:13:07,525
+And I think this is the perfect
+timing to bring Frank onto
+
+322
+00:13:07,525 --> 00:13:10,292
+the stage.
+
+323
+00:13:10,292 --> 00:13:13,060
+Frank Elavsky (he/him): Hey everybody!
+My name is
+
+324
+00:13:13,060 --> 00:13:14,020
+Frank, pronouns.
+
+325
+00:13:14,050 --> 00:13:16,540
+He/him. I am a masculine
+
+326
+00:13:16,540 --> 00:13:19,120
+white man with
+my hair, pulled back in a bun and I'm
+
+327
+00:13:19,120 --> 00:13:21,860
+wearing a gray turtleneck.
+
+328
+00:13:21,910 --> 00:13:23,470
+Frank Elavsky (he/him):
+I'm also in a weirdly lit
+
+329
+00:13:23,470 --> 00:13:23,965
+room.
+
+330
+00:13:23,965 --> 00:13:25,450
+So I'm doing
+
+331
+00:13:25,450 --> 00:13:26,320
+my best with lighting
+
+332
+00:13:26,320 --> 00:13:27,148
+situation here.
+
+333
+00:13:27,562 --> 00:13:28,390
+I had to
+
+334
+00:13:28,390 --> 00:13:30,250
+move here because
+like the neighbors on the other side
+
+335
+00:13:30,250 --> 00:13:31,420
+of the house are doing construction.
+
+336
+00:13:31,420 --> 00:13:32,650
+So this is the
+
+337
+00:13:32,650 --> 00:13:33,970
+quietest room.
+
+338
+00:13:33,970 --> 00:13:35,290
+Yeah, super
+
+339
+00:13:35,290 --> 00:13:35,680
+glad to
+
+340
+00:13:35,680 --> 00:13:36,412
+be here.
+
+341
+00:13:36,412 --> 00:13:37,510
+I just want
+
+342
+00:13:37,510 --> 00:13:39,640
+Frank Elavsky (he/him): to,
+before I begin, give a massive
+
+343
+00:13:39,640 --> 00:13:40,690
+shout out to the folks who have
+
+344
+00:13:40,690 --> 00:13:43,120
+already spoken and,
+
+345
+00:13:43,120 --> 00:13:44,920
+Frank Elavsky (he/him): the folks
+who have already done work in
+
+346
+00:13:44,920 --> 00:13:46,090
+order to just make this happen.
+
+347
+00:13:47,020 --> 00:13:52,450
+I was, you know, Isabela reached
+out to me a months ago and said,
+
+348
+00:13:52,450 --> 00:13:53,500
+Hey, would you like to speak?
+
+349
+00:13:53,530 --> 00:13:56,850
+And as I've been preparing
+materials, I went and dug, I, I
+
+350
+00:13:56,850 --> 00:13:58,340
+wanted to know what is Jupyter
+
+351
+00:13:58,360 --> 00:14:00,190
+actually up to what's this
+
+352
+00:14:00,190 --> 00:14:01,000
+Frank Elavsky (he/him): community doing?
+
+353
+00:14:01,000 --> 00:14:01,930
+And I was honestly
+
+354
+00:14:01,980 --> 00:14:03,580
+surprised lots of
+
+355
+00:14:03,580 --> 00:14:04,450
+Frank Elavsky (he/him): advocacy work.
+
+356
+00:14:04,570 --> 00:14:05,020
+That's
+
+357
+00:14:05,360 --> 00:14:10,420
+exhausting work, really,
+and lots of trying to
+
+358
+00:14:10,420 --> 00:14:10,540
+Frank Elavsky (he/him): get
+
+359
+00:14:10,540 --> 00:14:11,180
+organized.
+
+360
+00:14:11,820 --> 00:14:12,460
+I noticed
+
+361
+00:14:12,460 --> 00:14:15,370
+Frank Elavsky (he/him): there's even
+an audit that I like it's, you know,
+
+362
+00:14:15,370 --> 00:14:18,310
+at least a link I think a student
+did and I kind of combed through
+
+363
+00:14:18,310 --> 00:14:20,830
+that and I'm really impressed.
+
+364
+00:14:20,860 --> 00:14:25,090
+I think there's also a lot of
+accessibility that already has like work
+
+365
+00:14:25,090 --> 00:14:29,080
+that already has been done at least,
+you know, from me poking under the hood
+
+366
+00:14:29,080 --> 00:14:31,060
+and digging around in some notebooks.
+
+367
+00:14:31,120 --> 00:14:33,610
+But at the same time, I think
+there's a lot of opportunities.
+
+368
+00:14:33,670 --> 00:14:36,340
+And so today I'm going to be talking about
+
+369
+00:14:36,340 --> 00:14:38,440
+things that advice.
+
+370
+00:14:38,440 --> 00:14:41,560
+Frank Elavsky (he/him): So my
+own experiences working in open
+
+371
+00:14:41,560 --> 00:14:42,700
+source communities, working with
+
+372
+00:14:43,600 --> 00:14:44,590
+accessibility,
+
+373
+00:14:44,620 --> 00:14:49,450
+and also specifically dealing
+with the complexities with what
+
+374
+00:14:49,450 --> 00:14:52,480
+I'm calling our data experiences,
+the complexities that data
+
+375
+00:14:52,480 --> 00:14:57,490
+experiences offer and the
+challenges making these
+
+376
+00:14:57,490 --> 00:14:57,760
+things
+
+377
+00:14:57,760 --> 00:14:58,682
+accessible.
+
+378
+00:14:58,682 --> 00:15:01,450
+So yeah, I
+
+379
+00:15:01,450 --> 00:15:03,130
+think that, that's sort of 
+the intro that I wanted
+
+380
+00:15:03,130 --> 00:15:03,880
+to give.
+
+381
+00:15:03,880 --> 00:15:05,380
+Thanks again for setting
+
+382
+00:15:05,380 --> 00:15:06,670
+me up and for bringing
+
+383
+00:15:06,670 --> 00:15:07,435
+me here.
+
+384
+00:15:07,435 --> 00:15:08,200
+I'm really
+
+385
+00:15:08,200 --> 00:15:08,620
+excited.
+
+386
+00:15:09,550 --> 00:15:10,540
+Tania Allard (she/her): 
+Okay, fabulous.
+
+387
+00:15:10,570 --> 00:15:15,700
+So we are going to leave the stage
+for Frank and he's going to be taking
+
+388
+00:15:15,700 --> 00:15:18,700
+questions, at the end of the presentation.
+
+389
+00:15:18,700 --> 00:15:23,140
+So if you have any questions, feel
+free to type them on the stage chat
+
+390
+00:15:23,260 --> 00:15:25,750
+and we'll pass them off to Frank.
+
+391
+00:15:26,200 --> 00:15:27,790
+So we'll see you a little bit.
+
+392
+00:15:31,830 --> 00:15:32,370
+Frank Elavsky (he/him): Great.
+
+393
+00:15:34,260 --> 00:15:35,310
+Let me get my screen up
+
+394
+00:15:38,510 --> 00:15:40,520
+and I'm going to make sure
+I share my system audio.
+
+395
+00:15:44,755 --> 00:15:45,205
+Okay.
+
+396
+00:15:46,675 --> 00:15:47,155
+It looks like we're
+
+397
+00:15:47,155 --> 00:15:49,088
+live.
+
+398
+00:15:49,088 --> 00:15:52,955
+So message.
+
+399
+00:15:52,955 --> 00:15:53,755
+Frank Elavsky (he/him): Thank you so much.
+
+400
+00:15:54,515 --> 00:15:55,226
+All right.
+
+401
+00:15:55,226 --> 00:15:56,648
+What do I do?
+
+402
+00:15:57,003 --> 00:15:57,715
+I kind of
+
+403
+00:15:57,715 --> 00:16:00,595
+have been intro'd already, but 
+I'll just talk about, I think
+
+404
+00:16:00,595 --> 00:16:02,935
+these parts of my background are relevant
+
+405
+00:16:03,185 --> 00:16:04,620
+for today.
+
+406
+00:16:04,620 --> 00:16:06,055
+I'm currently
+
+407
+00:16:06,055 --> 00:16:07,825
+Frank Elavsky (he/him): actually
+researching what I'm calling data
+
+408
+00:16:07,825 --> 00:16:12,105
+interaction or accessibility and
+information, rich systems and
+
+409
+00:16:12,105 --> 00:16:14,425
+go back and forth and exactly
+how I want to talk about it.
+
+410
+00:16:14,785 --> 00:16:17,485
+The work that I do, I want to encompass
+
+411
+00:16:17,535 --> 00:16:22,185
+the actual, I want to address
+
+412
+00:16:22,195 --> 00:16:24,925
+Frank Elavsky (he/him): what I
+largely refer to as communities
+
+413
+00:16:24,925 --> 00:16:30,985
+who do data work, and I want to
+make that work more accessible.
+
+414
+00:16:31,075 --> 00:16:32,475
+So not just for people who
+
+415
+00:16:33,235 --> 00:16:38,515
+are an audience member or a user of a
+chart or graph or interactive data system.
+
+416
+00:16:38,905 --> 00:16:41,035
+But also I want to make the work that
+
+417
+00:16:41,035 --> 00:16:43,855
+people do more accessible
+
+418
+00:16:43,855 --> 00:16:44,365
+as well.
+
+419
+00:16:44,785 --> 00:16:47,695
+So that's my research focus. In
+
+420
+00:16:47,695 --> 00:16:48,367
+the past,
+
+421
+00:16:48,367 --> 00:16:49,375
+and I currently
+
+422
+00:16:49,375 --> 00:16:53,095
+organize a group called 
+DataVizA11y, where a group
+
+423
+00:16:53,095 --> 00:16:57,085
+of people who do accessibility work
+specifically for data visualization.
+
+424
+00:16:57,085 --> 00:16:59,575
+We're all volunteers
+we've been meeting for two
+
+425
+00:16:59,575 --> 00:17:00,247
+something years.
+
+426
+00:17:00,247 --> 00:17:01,255
+We do little
+
+427
+00:17:01,255 --> 00:17:02,155
+Frank Elavsky (he/him):
+projects together on
+
+428
+00:17:02,155 --> 00:17:03,417
+the side.
+
+429
+00:17:03,417 --> 00:17:05,942
+Lots of advocacy work.
+
+430
+00:17:05,942 --> 00:17:07,204
+We partner
+
+431
+00:17:07,204 --> 00:17:08,815
+Frank Elavsky (he/him): with the
+Data Visualization Society if
+
+432
+00:17:08,815 --> 00:17:10,135
+anybody's familiar with them.
+
+433
+00:17:10,285 --> 00:17:10,675
+So really
+
+434
+00:17:10,675 --> 00:17:11,635
+big org.
+
+435
+00:17:11,635 --> 00:17:12,595
+That's like
+
+436
+00:17:12,595 --> 00:17:15,115
+Frank Elavsky (he/him): a,
+you know, collection of like
+
+437
+00:17:15,115 --> 00:17:16,704
+20,000 practitioners across
+
+438
+00:17:16,704 --> 00:17:17,353
+the world.
+
+439
+00:17:17,676 --> 00:17:18,325
+I also do
+
+440
+00:17:18,325 --> 00:17:19,525
+Frank Elavsky (he/him):
+industry consultations.
+
+441
+00:17:19,585 --> 00:17:23,005
+So between just these things, my hands are
+
+442
+00:17:23,005 --> 00:17:23,965
+full often.
+
+443
+00:17:23,965 --> 00:17:24,925
+My industry
+
+444
+00:17:24,925 --> 00:17:27,055
+Frank Elavsky (he/him):
+consultations include like auditing
+
+445
+00:17:27,055 --> 00:17:28,165
+engineering and all kinds of
+
+446
+00:17:28,165 --> 00:17:30,815
+stuff for you know,
+
+447
+00:17:30,865 --> 00:17:31,915
+big companies
+
+448
+00:17:31,915 --> 00:17:33,564
+out there.
+
+449
+00:17:33,564 --> 00:17:34,389
+Sometimes
+
+450
+00:17:34,389 --> 00:17:36,790
+Frank Elavsky (he/him): it's volunteer
+work, but most of the time it's not.
+
+451
+00:17:37,629 --> 00:17:42,340
+And previously I was a staff engineer
+on Visa data experience team.
+
+452
+00:17:42,520 --> 00:17:47,230
+And on the right, we see a bar chart and
+this is an example chart component that
+
+453
+00:17:47,230 --> 00:17:48,354
+we made.
+
+454
+00:17:48,354 --> 00:17:50,040
+And we did
+
+455
+00:17:50,080 --> 00:17:51,370
+Frank Elavsky (he/him):
+a design systems work.
+
+456
+00:17:51,370 --> 00:17:55,000
+So if any of you are familiar with
+what that kind of work entails, that's
+
+457
+00:17:55,000 --> 00:17:56,935
+what we did.
+
+458
+00:17:56,935 --> 00:17:57,580
+, and,
+
+459
+00:17:57,580 --> 00:18:00,700
+Frank Elavsky (he/him): yeah, I was the
+lead on the accessibility efforts there as
+
+460
+00:18:00,700 --> 00:18:02,130
+well as you know,
+
+461
+00:18:02,170 --> 00:18:04,120
+Frank Elavsky (he/him): one of
+the main engineers on the project
+
+462
+00:18:04,180 --> 00:18:05,500
+for all kinds of other stuff, too.
+
+463
+00:18:06,399 --> 00:18:09,129
+And of course, as already
+mentioned, I authored Chartability.
+
+464
+00:18:09,220 --> 00:18:11,320
+So in my own work, in the data
+
+465
+00:18:11,320 --> 00:18:14,139
+experience space I recognized
+
+466
+00:18:14,139 --> 00:18:15,520
+Frank Elavsky (he/him):
+that there were a lot.
+
+467
+00:18:16,105 --> 00:18:20,755
+Things that were unaddressed
+or ambiguous in web standards,
+
+468
+00:18:20,785 --> 00:18:21,865
+which isn't the fault web
+
+469
+00:18:21,865 --> 00:18:22,495
+standards.
+
+470
+00:18:22,495 --> 00:18:23,125
+Right,
+
+471
+00:18:23,125 --> 00:18:24,385
+it's just
+
+472
+00:18:24,385 --> 00:18:26,065
+Frank Elavsky (he/him): a
+recognition that the work of
+
+473
+00:18:26,065 --> 00:18:30,715
+accessibility is always
+ongoing and changes
+
+474
+00:18:30,715 --> 00:18:32,425
+Frank Elavsky (he/him): often,
+depending on our context, in the
+
+475
+00:18:32,425 --> 00:18:34,765
+way we use technology and in the
+
+476
+00:18:34,795 --> 00:18:36,805
+space of charts and
+
+477
+00:18:36,805 --> 00:18:37,435
+graphs
+
+478
+00:18:37,595 --> 00:18:39,505
+we needed a new set
+
+479
+00:18:39,505 --> 00:18:42,625
+Frank Elavsky (he/him): of
+heuristics for testing accessibility.
+
+480
+00:18:42,685 --> 00:18:46,225
+And so I looked at research, I looked
+at standards and I looked at communities
+
+481
+00:18:46,225 --> 00:18:50,005
+of practice to see what are people
+already doing and already have opinions
+
+482
+00:18:50,005 --> 00:18:52,255
+on and what are some needs out there.
+
+483
+00:18:52,465 --> 00:18:54,085
+And then I collected all of this into
+
+484
+00:18:54,487 --> 00:18:55,693
+a set of tests.
+
+485
+00:18:55,693 --> 00:18:56,095
+Frank Elavsky (he/him): It's
+
+486
+00:18:56,095 --> 00:18:57,265
+kind of an auditing system.
+
+487
+00:18:57,565 --> 00:18:59,425
+So we'll talk more about that later, but
+
+488
+00:18:59,425 --> 00:19:01,510
+that's me.
+
+489
+00:19:01,510 --> 00:19:03,595
+So yeah,
+
+490
+00:19:03,595 --> 00:19:07,855
+Frank Elavsky (he/him): my passion is
+obviously specifically, not just like
+
+491
+00:19:08,125 --> 00:19:13,555
+making data work accessible, but it's like
+charts and graphs and data visualizations.
+
+492
+00:19:14,350 --> 00:19:16,060
+We generally refer to them.
+
+493
+00:19:16,060 --> 00:19:20,200
+As on the screen here, I've
+demonstrated on the left.
+
+494
+00:19:20,200 --> 00:19:24,129
+We have a bar chart that kind of scales
+with negative bars up to positive
+
+495
+00:19:24,129 --> 00:19:28,930
+bars, and it ranges in color from red
+on the left, and it slowly becomes
+
+496
+00:19:28,930 --> 00:19:32,800
+yellow, then a light blue and then to
+a dark blue and with the scaling color,
+
+497
+00:19:32,800 --> 00:19:38,110
+we also have textures lines on these
+bars that are changing in angle and
+
+498
+00:19:38,110 --> 00:19:40,960
+thickness to redundantly
+
+499
+00:19:40,960 --> 00:19:41,919
+encode the
+
+500
+00:19:41,919 --> 00:19:42,925
+color scale.
+
+501
+00:19:42,925 --> 00:19:43,930
+That's a
+
+502
+00:19:43,930 --> 00:19:44,680
+Frank Elavsky (he/him): technique for
+
+503
+00:19:44,680 --> 00:19:45,460
+low vision.
+
+504
+00:19:45,460 --> 00:19:46,240
+And then
+
+505
+00:19:46,240 --> 00:19:46,870
+Frank Elavsky (he/him): on the right,
+
+506
+00:19:47,030 --> 00:19:49,030
+there's a really interesting
+
+507
+00:19:49,030 --> 00:19:49,540
+screenshot.
+
+508
+00:19:49,540 --> 00:19:54,879
+This is from an audit of like a red
+arrow pointing into a pie chart that is
+
+509
+00:19:54,879 --> 00:19:56,830
+labeled Google and the rest of ad tech.
+
+510
+00:19:57,159 --> 00:20:00,970
+And then a big screenshot that
+is a contrast checker, noting
+
+511
+00:20:01,000 --> 00:20:03,040
+that the pie chart has a contrast
+
+512
+00:20:03,040 --> 00:20:04,176
+failure.
+
+513
+00:20:04,176 --> 00:20:07,585
+So yeah, before
+
+514
+00:20:07,585 --> 00:20:08,485
+we start this,
+
+515
+00:20:08,545 --> 00:20:10,525
+this may be, accessibility
+
+516
+00:20:10,525 --> 00:20:12,445
+and especially attending 
+an accessibility
+
+517
+00:20:12,445 --> 00:20:14,155
+talk may be new to some of you.
+
+518
+00:20:14,155 --> 00:20:19,105
+And I just want to strongly stress,
+please share screenshots of this talk
+
+519
+00:20:19,295 --> 00:20:20,785
+and get you know,
+
+520
+00:20:20,785 --> 00:20:21,895
+Frank Elavsky (he/him):
+conversation going.
+
+521
+00:20:22,075 --> 00:20:26,515
+But when you do, if you share screenshots,
+make sure you add alt texts very
+
+522
+00:20:26,515 --> 00:20:26,985
+important.
+
+523
+00:20:27,455 --> 00:20:27,925
+I think
+
+524
+00:20:27,925 --> 00:20:30,295
+Frank Elavsky (he/him): almost every time
+I've given a talk, there has been one
+
+525
+00:20:30,295 --> 00:20:32,845
+person who has tagged me in a post without
+
+526
+00:20:32,845 --> 00:20:33,722
+alt texts.
+
+527
+00:20:33,722 --> 00:20:35,477
+, please don't be shy.
+
+528
+00:20:35,916 --> 00:20:36,355
+, I don't
+
+529
+00:20:36,355 --> 00:20:37,525
+Frank Elavsky (he/him): want
+to discourage you from sharing.
+
+530
+00:20:37,525 --> 00:20:38,695
+I really hope that you do.
+
+531
+00:20:38,755 --> 00:20:40,135
+In fact you know,
+
+532
+00:20:40,135 --> 00:20:41,895
+Frank Elavsky (he/him): you all
+can just get started, screenshot it
+
+533
+00:20:41,895 --> 00:20:44,295
+right now.
+
+534
+00:20:44,295 --> 00:20:45,495
+, and
+
+535
+00:20:45,505 --> 00:20:45,895
+, Frank Elavsky (he/him): already
+
+536
+00:20:45,895 --> 00:20:47,635
+defined or already
+
+537
+00:20:47,635 --> 00:20:50,365
+Frank Elavsky (he/him): kind of unpack a
+little bit is like, what is accessibility?
+
+538
+00:20:50,395 --> 00:20:54,745
+And I kind of want to, I want to talk
+really briefly about two ways we use
+
+539
+00:20:54,745 --> 00:20:57,225
+the word accessibility
+
+540
+00:20:57,235 --> 00:20:58,225
+Frank Elavsky (he/him): or accessible
+
+541
+00:20:58,225 --> 00:20:59,065
+or access.
+
+542
+00:20:59,065 --> 00:21:00,325
+, and I also
+
+543
+00:21:00,325 --> 00:21:03,535
+Frank Elavsky (he/him): want to note
+that if you ever see a 11 Y sometimes.
+
+544
+00:21:04,360 --> 00:21:09,040
+Allie. ally, eleventy like a nightmare
+
+545
+00:21:09,040 --> 00:21:12,250
+pronunciation that abbreviation
+
+546
+00:21:12,250 --> 00:21:16,030
+represents accessibility because 
+accessibility as a
+
+547
+00:21:16,030 --> 00:21:18,940
+word has the letter, a 11 letters and the
+
+548
+00:21:18,940 --> 00:21:21,100
+letter Y , I don't
+
+549
+00:21:21,100 --> 00:21:23,380
+know why we chose this as 
+a community, but
+
+550
+00:21:23,380 --> 00:21:26,350
+this, that, that little abbreviation
+is how we also refer to it.
+
+551
+00:21:26,710 --> 00:21:28,030
+So there's two definitions working
+
+552
+00:21:28,030 --> 00:21:30,040
+definitions that are
+
+553
+00:21:30,040 --> 00:21:31,120
+
+important to talk about.
+
+554
+00:21:31,780 --> 00:21:36,159
+There's one, which is the broad definition
+of accessibility, where we say, you
+
+555
+00:21:36,159 --> 00:21:40,270
+know, it's, it's about the qualities
+that make an experience open or usable to
+
+556
+00:21:40,270 --> 00:21:41,335
+all people.
+
+557
+00:21:41,335 --> 00:21:42,399
+And that's
+
+558
+00:21:42,399 --> 00:21:44,230
+Frank Elavsky (he/him):
+like general access, right?
+
+559
+00:21:44,230 --> 00:21:47,710
+So we have technological access issues.
+
+560
+00:21:47,710 --> 00:21:51,100
+Like there are access
+justice issues for people who
+
+561
+00:21:51,100 --> 00:21:53,470
+don't have, fast
+
+562
+00:21:53,470 --> 00:21:55,240
+bandwidth,
+internet connection, or any
+
+563
+00:21:55,240 --> 00:21:56,464
+internet at all.
+
+564
+00:21:56,464 --> 00:21:57,280
+That's an
+
+565
+00:21:57,280 --> 00:22:00,190
+Frank Elavsky (he/him): access justice
+issue, but we also have accessibility
+
+566
+00:22:00,190 --> 00:22:01,899
+issues specific to people with
+
+567
+00:22:01,899 --> 00:22:02,672
+disabilities.
+
+568
+00:22:02,672 --> 00:22:04,990
+And we want
+
+569
+00:22:04,990 --> 00:22:07,690
+Frank Elavsky (he/him): to, we, we're
+going to be working mostly in that second
+
+570
+00:22:07,690 --> 00:22:12,760
+definition, which is where we're defining
+it as the knowledge and skills to break
+
+571
+00:22:12,760 --> 00:22:15,399
+down barriers specifically for people with
+
+572
+00:22:15,399 --> 00:22:16,135
+disabilities.
+
+573
+00:22:16,135 --> 00:22:21,280
+So I want to say that this
+
+574
+00:22:21,280 --> 00:22:23,530
+is maybe my
+favorite graphic that I throw all around
+
+575
+00:22:23,530 --> 00:22:28,810
+all the time, because it, it does one
+thing that is powerful when you're
+
+576
+00:22:28,810 --> 00:22:30,550
+communicating disability, which is.
+
+577
+00:22:31,465 --> 00:22:31,855
+We're going to
+
+578
+00:22:31,855 --> 00:22:34,585
+kind of expand people's
+
+579
+00:22:34,585 --> 00:22:36,265
+paradigm of how we think 
+about what
+
+580
+00:22:36,265 --> 00:22:37,255
+disability is.
+
+581
+00:22:37,255 --> 00:22:38,245
+I've got
+
+582
+00:22:38,245 --> 00:22:40,465
+Frank Elavsky (he/him): a graphic
+here and it's got, it's kind
+
+583
+00:22:40,465 --> 00:22:41,965
+of represented like a table.
+
+584
+00:22:41,965 --> 00:22:43,535
+It has columns and rows
+
+585
+00:22:43,585 --> 00:22:46,825
+Frank Elavsky (he/him): and on each row
+is a, is a functional type of disability.
+
+586
+00:22:46,825 --> 00:22:50,005
+So they're labeled touch,
+see, hear, and speak.
+
+587
+00:22:50,395 --> 00:22:50,575
+And
+
+588
+00:22:50,575 --> 00:22:52,585
+then the columns are actually
+
+589
+00:22:52,585 --> 00:22:55,345
+Frank Elavsky (he/him): temporal
+dimensions of disability.
+
+590
+00:22:55,795 --> 00:22:59,275
+So how disability affects
+different people depending on time.
+
+591
+00:22:59,575 --> 00:23:01,945
+So some people have a
+permanent disability.
+
+592
+00:23:02,215 --> 00:23:02,995
+And for example, on the
+
+593
+00:23:02,995 --> 00:23:03,835
+touch column, that's
+
+594
+00:23:03,835 --> 00:23:05,635
+Frank Elavsky (he/him): somebody
+who just only has one arm.
+
+595
+00:23:06,205 --> 00:23:08,155
+Some people have a temporary disability.
+
+596
+00:23:08,245 --> 00:23:11,365
+And so then there's a person
+who just has an arm injury.
+
+597
+00:23:11,395 --> 00:23:14,365
+That means their arm, hopefully,
+will heal and then they will
+
+598
+00:23:14,365 --> 00:23:16,105
+have access to their second arm.
+
+599
+00:23:16,435 --> 00:23:16,825
+And then there's
+
+600
+00:23:16,825 --> 00:23:20,905
+situational, considerations.
+
+601
+00:23:20,905 --> 00:23:21,955
+Frank Elavsky (he/him): And in the
+
+602
+00:23:21,955 --> 00:23:23,735
+final column for touch,
+
+603
+00:23:23,785 --> 00:23:25,495
+Frank Elavsky (he/him): you
+might have like a parent holding
+
+604
+00:23:25,495 --> 00:23:28,970
+a child. And
+
+605
+00:23:29,020 --> 00:23:32,200
+when we think of
+something like a curb cuts, which we've
+
+606
+00:23:32,200 --> 00:23:34,450
+already talked about in a curb cut, we're
+
+607
+00:23:34,450 --> 00:23:37,630
+designing for you know,
+
+608
+00:23:37,630 --> 00:23:40,180
+Frank Elavsky (he/him): originally
+advocacy was done on behalf
+
+609
+00:23:40,540 --> 00:23:46,510
+and with, and by people who
+use wheelchairs, but it turns
+
+610
+00:23:46,510 --> 00:23:48,460
+out that cutting
+
+611
+00:23:48,460 --> 00:23:51,730
+Frank Elavsky (he/him): curbs and building
+ramps helps people with temporary and
+
+612
+00:23:51,730 --> 00:23:53,590
+situational limitations
+
+613
+00:23:53,590 --> 00:23:54,040
+Frank Elavsky (he/him): as well.
+
+614
+00:23:54,280 --> 00:23:54,850
+So there's kind
+
+615
+00:23:54,850 --> 00:23:57,310
+of this this way
+
+616
+00:23:57,310 --> 00:23:59,560
+that I want
+to frame disability, where we think
+
+617
+00:23:59,560 --> 00:24:05,170
+about the challenges that people with
+disabilities face as things that we could
+
+618
+00:24:05,170 --> 00:24:08,290
+also face and maybe also often face.
+
+619
+00:24:08,620 --> 00:24:10,750
+So the way that I phrase
+
+620
+00:24:10,750 --> 00:24:12,340
+this is I don't
+
+621
+00:24:12,340 --> 00:24:15,970
+want to
+say that we're like we are disabled
+
+622
+00:24:16,000 --> 00:24:18,940
+constantly by environmental variables.
+
+623
+00:24:18,940 --> 00:24:19,750
+We can be.
+
+624
+00:24:20,800 --> 00:24:24,700
+The right way to talk about this, as
+we've all already experienced a disabling
+
+625
+00:24:24,700 --> 00:24:29,080
+limitation at some point in our labs, even
+if it's just temporarily or situationally.
+
+626
+00:24:29,830 --> 00:24:34,330
+And that means that accessibility,
+the work of, of making things
+
+627
+00:24:34,330 --> 00:24:35,890
+accessible is personal to
+
+628
+00:24:35,890 --> 00:24:37,214
+all of us.
+
+629
+00:24:37,214 --> 00:24:37,655
+Absolutely,
+
+630
+00:24:37,655 --> 00:24:38,980
+number one, most
+
+631
+00:24:38,980 --> 00:24:39,670
+important thing to
+
+632
+00:24:39,670 --> 00:24:41,710
+consider for data
+
+633
+00:24:41,710 --> 00:24:44,500
+visualization is that virtually
+
+634
+00:24:44,500 --> 00:24:46,870
+everybody it is, we
+
+635
+00:24:46,870 --> 00:24:49,510
+have a very, very high rate
+of losing
+
+636
+00:24:49,540 --> 00:24:52,210
+our visual acuity as we age.
+
+637
+00:24:52,750 --> 00:24:55,000
+And this is just part of aging.
+
+638
+00:24:55,300 --> 00:24:58,690
+Everyone will face this and it
+is massively important for the
+
+639
+00:24:58,690 --> 00:25:00,070
+field of data visualization.
+
+640
+00:25:00,100 --> 00:25:01,300
+So it's not, we're not just
+
+641
+00:25:01,300 --> 00:25:03,350
+considering we're helping
+
+642
+00:25:03,400 --> 00:25:05,080
+other people who are 
+low vision.
+
+643
+00:25:05,230 --> 00:25:09,280
+No, it's very likely going to be
+us when we age we're going to need
+
+644
+00:25:09,280 --> 00:25:09,997
+access.
+
+645
+00:25:09,997 --> 00:25:12,865
+So I see some
+
+646
+00:25:12,865 --> 00:25:14,185
+Frank Elavsky (he/him):
+great things in the chat.
+
+647
+00:25:14,275 --> 00:25:16,765
+I may have suffered temporary
+or situational this morning.
+
+648
+00:25:16,795 --> 00:25:17,095
+Yeah.
+
+649
+00:25:17,125 --> 00:25:20,965
+One of the things for me, it's, if I
+have to like kind of pitch to somebody
+
+650
+00:25:20,965 --> 00:25:23,965
+really quickly, I show them something I'm
+like, oh, I had this really great thing.
+
+651
+00:25:23,965 --> 00:25:24,985
+I want to show you on my phone.
+
+652
+00:25:25,345 --> 00:25:27,505
+And I try and do this outsider
+and a bright location.
+
+653
+00:25:27,505 --> 00:25:31,015
+And I give them my phone and my contrast
+is intentionally as low as possible.
+
+654
+00:25:31,015 --> 00:25:34,495
+And they're like, I can't, what,
+what are you trying to show me?
+
+655
+00:25:34,495 --> 00:25:36,235
+And I'm like, oh, sorry.
+
+656
+00:25:36,385 --> 00:25:38,215
+And I turned the contrast
+up and then they can see.
+
+657
+00:25:38,545 --> 00:25:43,075
+And it's just a way to frame
+the fact that our environment
+
+658
+00:25:43,075 --> 00:25:45,505
+participates in disability.
+
+659
+00:25:45,895 --> 00:25:46,285
+Right.
+
+660
+00:25:46,345 --> 00:25:50,035
+And this is why it's important to
+think about the environments we
+
+661
+00:25:50,035 --> 00:25:55,735
+built as participating in disabling
+experiences and limitations for
+
+662
+00:25:55,735 --> 00:25:59,875
+other people are rebuilding an
+environment that is potentially
+
+663
+00:25:59,875 --> 00:26:02,395
+causing some limitation
+
+664
+00:26:02,395 --> 00:26:03,715
+for someone else's access.
+
+665
+00:26:03,925 --> 00:26:05,545
+That's really, really, really
+
+666
+00:26:05,545 --> 00:26:06,215
+important.
+
+667
+00:26:06,215 --> 00:26:07,555
+Also can
+
+668
+00:26:07,555 --> 00:26:09,235
+Frank Elavsky (he/him): someone,
+I think we started with.
+
+669
+00:26:10,030 --> 00:26:10,930
+At off time.
+
+670
+00:26:10,930 --> 00:26:14,770
+Can somebody tell me when, what
+time will the 30 minute mark
+
+671
+00:26:14,770 --> 00:26:16,780
+be from the start of my talk?
+
+672
+00:26:18,750 --> 00:26:21,030
+Just drop it in private
+chat or the comments?
+
+673
+00:26:21,900 --> 00:26:22,380
+Sorry about the
+
+674
+00:26:22,380 --> 00:26:24,770
+interruption.
+
+675
+00:26:24,770 --> 00:26:29,550
+Like, are
+
+676
+00:26:29,550 --> 00:26:32,430
+Frank Elavsky (he/him): we
+running until 30 after right now?
+
+677
+00:26:33,330 --> 00:26:34,890
+Is that what I'm supposed
+to be totally done?
+
+678
+00:26:36,270 --> 00:26:37,950
+I want to make sure we
+have time for questions.
+
+679
+00:26:37,950 --> 00:26:39,180
+I actually have questions for the
+
+680
+00:26:39,180 --> 00:26:40,046
+community.
+
+681
+00:26:40,046 --> 00:26:41,780
+And then
+
+682
+00:26:41,820 --> 00:26:43,590
+Frank Elavsky (he/him): I hope
+to also receive questions.
+
+683
+00:26:44,220 --> 00:26:44,880
+I think that's good.
+
+684
+00:26:45,240 --> 00:26:45,540
+Okay.
+
+685
+00:26:45,540 --> 00:26:46,920
+So great.
+
+686
+00:26:47,220 --> 00:26:47,550
+I'll keep
+
+687
+00:26:47,550 --> 00:26:49,480
+rolling.
+
+688
+00:26:49,480 --> 00:26:51,410
+Sorry.
+
+689
+00:26:51,410 --> 00:26:53,340
+So
+
+690
+00:26:53,340 --> 00:26:56,580
+Frank Elavsky (he/him): intention
+with everything I just said, right?
+
+691
+00:26:57,570 --> 00:26:58,350
+Keeping in mind that
+
+692
+00:26:58,350 --> 00:27:00,680
+we can be experienced
+
+693
+00:27:00,680 --> 00:27:03,600
+Frank Elavsky (he/him): like disabling
+limitations or temporary limitations.
+
+694
+00:27:03,600 --> 00:27:04,260
+I just want to say.
+
+695
+00:27:05,005 --> 00:27:08,665
+The specific barriers that people who
+live with disabilities or have permanent
+
+696
+00:27:08,665 --> 00:27:13,705
+disabilities, the barriers that they face
+can't be substituted by our experiences.
+
+697
+00:27:13,975 --> 00:27:17,455
+So just because we can put on
+a blindfold and pretend to be
+
+698
+00:27:17,455 --> 00:27:19,345
+blind, that absolutely does not
+
+699
+00:27:19,345 --> 00:27:21,735
+mean that our experience
+
+700
+00:27:21,745 --> 00:27:24,295
+Frank Elavsky (he/him): of
+simulating or experiencing
+
+701
+00:27:24,295 --> 00:27:26,425
+temporary disabling
+
+702
+00:27:26,425 --> 00:27:29,575
+Frank Elavsky (he/him): limitations
+is in any way the same as the
+
+703
+00:27:29,575 --> 00:27:30,955
+experiences that actual people with
+
+704
+00:27:30,955 --> 00:27:33,490
+disabilities face.
+
+705
+00:27:33,490 --> 00:27:36,025
+So something
+
+706
+00:27:36,025 --> 00:27:37,615
+that I like
+to do is just kind of frame the
+
+707
+00:27:37,615 --> 00:27:40,615
+relevance from a data perspective,
+especially when I talked to data people,
+
+708
+00:27:40,615 --> 00:27:41,245
+they love numbers.
+
+709
+00:27:41,245 --> 00:27:41,665
+So we're
+
+710
+00:27:41,665 --> 00:27:42,025
+Frank Elavsky (he/him): just going to go
+
+711
+00:27:42,025 --> 00:27:42,925
+through some numbers.
+
+712
+00:27:42,925 --> 00:27:43,225
+The
+
+713
+00:27:43,225 --> 00:27:44,995
+Frank Elavsky (he/him): world
+health organization recognizes
+
+714
+00:27:44,995 --> 00:27:46,225
+that, you know, globally
+
+715
+00:27:46,225 --> 00:27:53,815
+vision is a significant like a
+global health issue , uncorrected
+
+716
+00:27:53,815 --> 00:27:57,385
+Frank Elavsky (he/him): or uncorrectable,
+moderate to severe visual impairment,
+
+717
+00:27:57,385 --> 00:28:01,015
+which we kind of loosely refer to as
+low vision, depending on who defines it
+
+718
+00:28:01,065 --> 00:28:03,281
+affects , near.
+
+719
+00:28:03,281 --> 00:28:04,390
+30%
+
+720
+00:28:04,390 --> 00:28:04,720
+Frank Elavsky (he/him): of people
+
+721
+00:28:04,720 --> 00:28:05,155
+globally.
+
+722
+00:28:05,590 --> 00:28:06,460
+A lot of
+
+723
+00:28:06,460 --> 00:28:06,850
+Frank Elavsky (he/him): that is
+
+724
+00:28:06,850 --> 00:28:09,590
+preventable by healthcare,
+
+725
+00:28:09,640 --> 00:28:11,620
+Frank Elavsky (he/him): but what
+we're looking at today is just
+
+726
+00:28:11,840 --> 00:28:14,597
+from a pure numbers perspective.
+
+727
+00:28:14,597 --> 00:28:15,700
+Low vision
+
+728
+00:28:15,700 --> 00:28:18,130
+Frank Elavsky (he/him): considerations
+for accessibility are one of the most
+
+729
+00:28:18,130 --> 00:28:22,600
+important things we can do to improve
+global access to our interactive
+
+730
+00:28:22,600 --> 00:28:23,480
+systems.
+
+731
+00:28:23,480 --> 00:28:25,240
+And the
+
+732
+00:28:25,240 --> 00:28:27,520
+graphic that
+I'm showing here is just an example
+
+733
+00:28:27,580 --> 00:28:34,810
+of a set of bars that are very low
+contrast on the left using light gray.
+
+734
+00:28:34,810 --> 00:28:39,640
+On top of the other light grays, the
+text is light gray on black or on white.
+
+735
+00:28:39,940 --> 00:28:44,200
+And then to the right is just
+a use of much darker gray for
+
+736
+00:28:44,200 --> 00:28:46,113
+the text.
+
+737
+00:28:46,113 --> 00:28:47,070
+And
+
+738
+00:28:47,080 --> 00:28:48,400
+then a dark gray
+
+739
+00:28:48,450 --> 00:28:50,890
+on white instead
+
+740
+00:28:50,890 --> 00:28:51,940
+of light gray on light gray.
+
+741
+00:28:52,570 --> 00:28:53,770
+So improving the way
+
+742
+00:28:53,770 --> 00:28:56,620
+we design color and
+
+743
+00:28:56,620 --> 00:28:58,540
+contrast is hugely important.
+
+744
+00:28:58,540 --> 00:28:59,710
+Plus other techniques for local.
+
+745
+00:29:00,910 --> 00:29:02,650
+Motor impairment and
+functional disability.
+
+746
+00:29:02,650 --> 00:29:03,340
+This is big.
+
+747
+00:29:03,340 --> 00:29:06,490
+So just in the United States alone,
+motor impairment and functional
+
+748
+00:29:06,490 --> 00:29:09,820
+disability can, you know, it affects
+between 13 and 15% of people.
+
+749
+00:29:09,820 --> 00:29:12,190
+This is self-reported data from the CDC.
+
+750
+00:29:12,340 --> 00:29:15,910
+So, you know, a lot of our data
+visualization interaction paradigms
+
+751
+00:29:15,940 --> 00:29:19,150
+use a mouse like you're hovering
+on things you're clicking, right?
+
+752
+00:29:19,210 --> 00:29:19,870
+We are very
+
+753
+00:29:19,870 --> 00:29:22,440
+mouse driven people in
+
+754
+00:29:22,480 --> 00:29:25,240
+Frank Elavsky (he/him): analytical
+spaces, but a lot of people
+
+755
+00:29:25,240 --> 00:29:27,100
+who have motor impairments
+
+756
+00:29:27,100 --> 00:29:27,550
+or functional
+
+757
+00:29:27,550 --> 00:29:33,160
+disabilities use assistive
+technology like switches
+
+758
+00:29:33,160 --> 00:29:34,120
+or keyboard
+
+759
+00:29:34,120 --> 00:29:36,880
+interfaces to interact
+
+760
+00:29:36,880 --> 00:29:39,610
+with things and
+almost everything from, from a technical
+
+761
+00:29:39,610 --> 00:29:41,830
+perspective uses what's
+
+762
+00:29:41,830 --> 00:29:44,110
+Frank Elavsky (he/him): called the
+keyboard API or the keyboard interface.
+
+763
+00:29:44,740 --> 00:29:48,430
+So we need to make sure that
+our mouse driven interactives
+
+764
+00:29:48,460 --> 00:29:50,200
+are also keyboard accessible.
+
+765
+00:29:50,200 --> 00:29:51,130
+This is hugely
+
+766
+00:29:51,130 --> 00:29:52,018
+important
+
+767
+00:29:52,018 --> 00:29:55,570
+access issue also cognitive
+
+768
+00:29:55,570 --> 00:29:56,290
+and attention
+
+769
+00:29:56,510 --> 00:29:57,356
+impairment.
+
+770
+00:29:57,356 --> 00:29:59,050
+You know,
+
+771
+00:29:59,050 --> 00:29:59,620
+Frank Elavsky (he/him): this includes
+
+772
+00:29:59,620 --> 00:30:03,460
+ADHD, autism a wide range
+
+773
+00:30:03,460 --> 00:30:05,320
+Frank Elavsky (he/him): of other,
+you know, intellectual, developmental
+
+774
+00:30:05,320 --> 00:30:06,400
+disabilities, wide range of
+
+775
+00:30:06,400 --> 00:30:08,020
+other things affects
+
+776
+00:30:08,020 --> 00:30:09,520
+Frank Elavsky (he/him):
+between 11 and 13% of all
+
+777
+00:30:09,520 --> 00:30:10,240
+people.
+
+778
+00:30:10,240 --> 00:30:12,400
+And you know,
+
+779
+00:30:12,400 --> 00:30:16,480
+Frank Elavsky (he/him): we really have
+almost no guidance on how to have, we have
+
+780
+00:30:16,480 --> 00:30:21,070
+this huge potential, right in interactive
+systems, interactive technical systems to
+
+781
+00:30:21,520 --> 00:30:24,310
+scale, or let user set their preference.
+
+782
+00:30:24,310 --> 00:30:25,990
+How much explanation do you want?
+
+783
+00:30:26,020 --> 00:30:29,170
+How much clarity do you
+want in text, how much text
+
+784
+00:30:29,170 --> 00:30:30,142
+you want?
+
+785
+00:30:30,142 --> 00:30:31,600
+And I think
+
+786
+00:30:31,600 --> 00:30:32,770
+Frank Elavsky (he/him): that
+there's a huge potential for
+
+787
+00:30:32,770 --> 00:30:34,210
+our field to kind of explore
+
+788
+00:30:34,210 --> 00:30:36,070
+how can we you know,
+
+789
+00:30:36,070 --> 00:30:38,470
+Frank Elavsky (he/him): convert
+complex language into plain
+
+790
+00:30:38,470 --> 00:30:38,931
+language.
+
+791
+00:30:38,931 --> 00:30:42,160
+What can  we do to to make
+
+792
+00:30:42,160 --> 00:30:42,340
+more
+
+793
+00:30:42,340 --> 00:30:45,490
+accessible data experiences
+
+794
+00:30:45,490 --> 00:30:46,480
+Frank Elavsky (he/him): for, for
+
+795
+00:30:46,510 --> 00:30:48,025
+these folks?
+
+796
+00:30:48,025 --> 00:30:49,540
+And deep in
+
+797
+00:30:49,540 --> 00:30:50,230
+Frank Elavsky (he/him): my talk.
+
+798
+00:30:50,590 --> 00:30:53,560
+I just want to like revisit data
+
+799
+00:30:53,560 --> 00:30:54,655
+visualization.
+
+800
+00:30:54,655 --> 00:30:56,845
+Now that
+
+801
+00:30:56,845 --> 00:30:58,345
+Frank Elavsky (he/him): you've
+kind of seen me throw data,
+
+802
+00:30:58,345 --> 00:31:00,415
+visualization data experiences.
+
+803
+00:31:00,445 --> 00:31:04,435
+Haven't actually said data representations
+yet that sometimes at this point in
+
+804
+00:31:04,435 --> 00:31:08,935
+the talk I've mentioned it, but I'm
+talking about data visualizations
+
+805
+00:31:08,935 --> 00:31:12,115
+because this is the field that
+I've worked in for a long time.
+
+806
+00:31:12,325 --> 00:31:13,735
+And I'm really equipped, I think,
+
+807
+00:31:13,735 --> 00:31:16,255
+to engage a lot of
+
+808
+00:31:16,255 --> 00:31:16,825
+Frank Elavsky (he/him): the issues in
+
+809
+00:31:16,825 --> 00:31:18,985
+this space not just
+
+810
+00:31:18,985 --> 00:31:20,305
+Frank Elavsky (he/him): from an
+accessibility standpoint, right?
+
+811
+00:31:20,305 --> 00:31:23,095
+Like I'm a data vis
+practitioner, so I can refer
+
+812
+00:31:23,095 --> 00:31:23,935
+to myself.
+
+813
+00:31:23,935 --> 00:31:24,775
+So data
+
+814
+00:31:24,775 --> 00:31:26,995
+Frank Elavsky (he/him): visualization,
+sometimes abbreviated data is with a
+
+815
+00:31:26,995 --> 00:31:30,835
+Z or data is with an S is presenting
+data in a structured symbolic.
+
+816
+00:31:31,660 --> 00:31:35,620
+And the structure and semantics
+of these things, we create
+
+817
+00:31:35,620 --> 00:31:38,470
+actually go far beyond the visual.
+
+818
+00:31:38,980 --> 00:31:43,180
+And so I prefer to call these data
+experiences or representations because
+
+819
+00:31:43,180 --> 00:31:46,360
+that's a little more inclusive when
+we're trying to do inclusive work, right.
+
+820
+00:31:46,540 --> 00:31:50,290
+We should use inclusive language
+and talking about experiences or
+
+821
+00:31:50,290 --> 00:31:54,340
+representations is a little more of
+an accurate way to talk about the work
+
+822
+00:31:54,340 --> 00:31:58,270
+we're really doing under the hood to make
+something say, screen reader accessible.
+
+823
+00:31:58,300 --> 00:32:01,930
+Well, you know, the person with a
+screen reeader may or may not even
+
+824
+00:32:02,090 --> 00:32:05,740
+see the, the
+
+825
+00:32:05,740 --> 00:32:09,670
+Frank Elavsky (he/him): chart, but they're
+going to be perceiving the underlying
+
+826
+00:32:09,670 --> 00:32:11,710
+structure of it as they interact with it.
+
+827
+00:32:12,100 --> 00:32:13,960
+And that, that different type of
+
+828
+00:32:13,960 --> 00:32:16,850
+perception is you know,
+
+829
+00:32:16,900 --> 00:32:17,950
+we need to be able to talk about it
+
+830
+00:32:17,980 --> 00:32:18,970
+more than just what the word
+
+831
+00:32:18,970 --> 00:32:19,690
+visualization.
+
+832
+00:32:20,410 --> 00:32:21,850
+I love this
+
+833
+00:32:21,850 --> 00:32:22,240
+demo.
+
+834
+00:32:22,240 --> 00:32:24,220
+Sarah's a very good friend of mine.
+
+835
+00:32:24,280 --> 00:32:25,660
+Somebody who I respect
+
+836
+00:32:25,660 --> 00:32:28,420
+greatly, they recorded
+
+837
+00:32:28,420 --> 00:32:29,200
+themselves.
+
+838
+00:32:29,290 --> 00:32:30,310
+They audited a
+
+839
+00:32:30,310 --> 00:32:33,000
+bunch of
+
+840
+00:32:33,000 --> 00:32:34,345
+election
+
+841
+00:32:34,345 --> 00:32:36,625
+graphics,
+which are, it's important data, right?
+
+842
+00:32:36,655 --> 00:32:40,375
+We need to make sure that data
+about our elections, especially more
+
+843
+00:32:40,375 --> 00:32:42,205
+and more we've been representing
+them in charts and graphs.
+
+844
+00:32:42,805 --> 00:32:43,495
+We need to make sure that
+
+845
+00:32:43,495 --> 00:32:44,515
+they are, they're
+
+846
+00:32:44,515 --> 00:32:45,025
+Frank Elavsky (he/him): accessible.
+
+847
+00:32:45,025 --> 00:32:50,965
+So this is, you know, just one of many
+experiences that Sarah captured of
+
+848
+00:32:50,965 --> 00:32:54,865
+what it's like for somebody who uses a
+screen reader on their mobile device to
+
+849
+00:32:54,865 --> 00:32:58,675
+interact with a a map, an
+
+850
+00:32:58,675 --> 00:33:05,515
+election map. Linked video: image, 
+image, image, image,
+
+851
+00:33:06,505 --> 00:33:14,125
+image, image, image, image.
+
+852
+00:33:15,465 --> 00:33:16,365
+Frank Elavsky (he/him): I'm going to 
+pause it here.
+
+853
+00:33:16,365 --> 00:33:16,845
+So
+
+854
+00:33:17,395 --> 00:33:19,755
+we just Sarah is
+
+855
+00:33:19,755 --> 00:33:23,295
+just swiping and
+the keyboard focus, which is this kind of
+
+856
+00:33:23,295 --> 00:33:27,405
+white outline around each state is moving
+between states, which is fascinating.
+
+857
+00:33:27,405 --> 00:33:28,965
+Somebody did the work of making
+
+858
+00:33:29,335 --> 00:33:30,032
+keyboard.
+
+859
+00:33:30,032 --> 00:33:33,520
+Or you know non mouse
+
+860
+00:33:33,520 --> 00:33:37,120
+driven access work, that 
+technicality, that
+
+861
+00:33:37,120 --> 00:33:42,700
+functionality is there under the hood,
+but what's missing quite importantly, is
+
+862
+00:33:42,730 --> 00:33:46,300
+all the data about what each state who did
+
+863
+00:33:46,300 --> 00:33:47,650
+Biden or Trump, win the
+
+864
+00:33:47,650 --> 00:33:49,900
+state? Is it a win, is it a lead?
+
+865
+00:33:49,930 --> 00:33:52,210
+Is it a flip what's, what's the status?
+
+866
+00:33:52,210 --> 00:33:53,320
+And what's even the state.
+
+867
+00:33:53,350 --> 00:33:55,300
+What state are we currently
+on as we navigate?
+
+868
+00:33:55,630 --> 00:33:57,790
+So really important data itself.
+
+869
+00:33:57,790 --> 00:34:01,300
+I always say this data is really painful,
+but visualization shouldn't be right.
+
+870
+00:34:01,330 --> 00:34:02,680
+The whole point of visualization is
+
+871
+00:34:02,680 --> 00:34:04,570
+kind of it performs
+
+872
+00:34:04,570 --> 00:34:04,690
+this
+
+873
+00:34:04,690 --> 00:34:06,250
+other task.
+
+874
+00:34:06,250 --> 00:34:07,810
+And why
+
+875
+00:34:07,810 --> 00:34:09,670
+Frank Elavsky (he/him): am I talking
+about data visualization and not
+
+876
+00:34:09,670 --> 00:34:11,470
+like just broadly data stuff like
+
+877
+00:34:11,470 --> 00:34:12,145
+notebooks?
+
+878
+00:34:12,145 --> 00:34:14,170
+Well I already
+
+879
+00:34:14,200 --> 00:34:15,130
+Frank Elavsky (he/him):
+sort of spoiled it.
+
+880
+00:34:15,160 --> 00:34:17,140
+It's like my specialty,
+
+881
+00:34:17,150 --> 00:34:18,425
+my field,
+
+882
+00:34:18,425 --> 00:34:19,700
+but also
+
+883
+00:34:19,750 --> 00:34:22,480
+Frank Elavsky (he/him): this
+is where I like to reframe how
+
+884
+00:34:22,480 --> 00:34:24,070
+we think about visualization.
+
+885
+00:34:24,580 --> 00:34:26,860
+Visualization is actually
+already in assistive
+
+886
+00:34:26,860 --> 00:34:27,610
+technology.
+
+887
+00:34:27,610 --> 00:34:29,110
+When we
+
+888
+00:34:29,110 --> 00:34:31,480
+Frank Elavsky (he/him): take data,
+something that's hard to understand
+
+889
+00:34:31,720 --> 00:34:35,920
+and we turn it into a representation
+or experience, that's easier to
+
+890
+00:34:35,920 --> 00:34:38,080
+understand that is an assistive
+
+891
+00:34:38,110 --> 00:34:38,928
+act.
+
+892
+00:34:38,928 --> 00:34:39,747
+Right?
+
+893
+00:34:39,747 --> 00:34:43,840
+And we are already building
+
+894
+00:34:43,840 --> 00:34:45,010
+assistive technology.
+
+895
+00:34:45,010 --> 00:34:47,830
+So my challenge then is to everybody.
+
+896
+00:34:47,830 --> 00:34:48,550
+Why, why do we
+
+897
+00:34:48,550 --> 00:34:49,465
+stop there?
+
+898
+00:34:49,922 --> 00:34:50,380
+I think
+
+899
+00:34:50,380 --> 00:34:52,150
+datavisualizations are really 
+helpful starting
+
+900
+00:34:52,150 --> 00:34:56,050
+point because we're already kind of
+trying to break down cognitive barriers.
+
+901
+00:34:56,410 --> 00:34:59,290
+And then my main question
+is just why not stop?
+
+902
+00:34:59,320 --> 00:35:00,250
+Why not keep going?
+
+903
+00:35:00,250 --> 00:35:01,780
+Why not continue to do what we're
+
+904
+00:35:01,780 --> 00:35:02,710
+already doing
+
+905
+00:35:02,710 --> 00:35:03,640
+and try
+
+906
+00:35:03,640 --> 00:35:07,240
+and make stuff
+that's really difficult, not quite as
+
+907
+00:35:07,240 --> 00:35:07,930
+difficult?
+
+908
+00:35:07,930 --> 00:35:09,310
+And, and
+
+909
+00:35:09,310 --> 00:35:11,380
+ultimatelyaccess is about 
+breaking down
+
+910
+00:35:11,380 --> 00:35:13,300
+barriers and assistive
+
+911
+00:35:13,300 --> 00:35:14,290
+Frank Elavsky (he/him): technology is an
+
+912
+00:35:14,290 --> 00:35:16,150
+attempt to you know,
+
+913
+00:35:16,150 --> 00:35:17,350
+overcome barriers using
+
+914
+00:35:17,350 --> 00:35:17,896
+technology.
+
+915
+00:35:17,896 --> 00:35:20,080
+So I want us
+
+916
+00:35:20,080 --> 00:35:20,800
+to continue this
+
+917
+00:35:20,800 --> 00:35:26,045
+work and When I frame
+
+918
+00:35:26,045 --> 00:35:27,815
+things with data representation 
+and data
+
+919
+00:35:27,815 --> 00:35:30,335
+experience I'm talking
+
+920
+00:35:30,335 --> 00:35:34,595
+about, because
+we're using this, this new inclusive
+
+921
+00:35:34,595 --> 00:35:38,705
+language, we're going to be talking about
+like functional parts of visualization.
+
+922
+00:35:38,705 --> 00:35:42,515
+Like, how does it work when you
+interact with it in different ways,
+
+923
+00:35:42,695 --> 00:35:44,195
+semantically, what does it mean?
+
+924
+00:35:44,195 --> 00:35:45,005
+What are we talking about?
+
+925
+00:35:45,005 --> 00:35:46,145
+What's a bar on a
+
+926
+00:35:46,145 --> 00:35:47,240
+bar chart?
+
+927
+00:35:47,240 --> 00:35:48,335
+And, and
+
+928
+00:35:48,335 --> 00:35:50,915
+how do points
+on scatterplots relate to each other?
+
+929
+00:35:50,915 --> 00:35:51,245
+Are there
+
+930
+00:35:51,275 --> 00:35:51,915
+outliers?
+
+931
+00:35:51,915 --> 00:35:53,195
+we're also
+
+932
+00:35:53,195 --> 00:35:55,115
+talking structurally, like how have we
+
+933
+00:35:55,115 --> 00:36:02,705
+prepared this data to be,
+ navigated or experienced?
+
+934
+00:36:02,705 --> 00:36:03,815
+Frank Elavsky (he/him): Is it tabular?
+
+935
+00:36:03,815 --> 00:36:05,105
+Is it non tabular?
+
+936
+00:36:05,105 --> 00:36:06,365
+Is it nested or
+
+937
+00:36:06,365 --> 00:36:06,955
+hierarchical?
+
+938
+00:36:06,955 --> 00:36:08,135
+And then
+
+939
+00:36:08,135 --> 00:36:09,965
+also when we're thinking 
+about interactivity,
+
+940
+00:36:09,995 --> 00:36:11,405
+both kinds of interactivity, right?
+
+941
+00:36:11,405 --> 00:36:11,675
+Like.
+
+942
+00:36:13,945 --> 00:36:17,905
+Interacting using a keyboard to
+navigate interacting by like,
+
+943
+00:36:17,935 --> 00:36:21,445
+you know, selecting something,
+but also interactive experiences.
+
+944
+00:36:21,475 --> 00:36:25,495
+Like you get in a notebook where you put
+in code, you get some kind of output,
+
+945
+00:36:25,495 --> 00:36:27,325
+that's an interactive experience, right.
+
+946
+00:36:27,325 --> 00:36:28,510
+That's a loop.
+
+947
+00:36:28,510 --> 00:36:29,695
+And so when
+
+948
+00:36:29,695 --> 00:36:31,675
+we talk about
+data representation and data experiences,
+
+949
+00:36:31,675 --> 00:36:35,845
+we're actually encompassing like the
+whole picture of what it means to interact
+
+950
+00:36:35,845 --> 00:36:37,233
+with data.
+
+951
+00:36:37,233 --> 00:36:39,315
+And so here's,
+
+952
+00:36:39,355 --> 00:36:41,035
+here's a question I have for everybody,
+
+953
+00:36:42,005 --> 00:36:45,755
+which is and we'll
+
+954
+00:36:45,805 --> 00:36:46,825
+Frank Elavsky (he/him): spend
+a couple of minutes on this.
+
+955
+00:36:46,825 --> 00:36:50,245
+Please put, put your answers
+in chat, try and have somebody
+
+956
+00:36:50,245 --> 00:36:52,255
+in mind who asks
+
+957
+00:36:52,255 --> 00:36:53,185
+you this question.
+
+958
+00:36:53,575 --> 00:36:55,435
+Not me, but somebody, right.
+
+959
+00:36:55,435 --> 00:36:57,025
+Somebody you really want to convince.
+
+960
+00:36:57,355 --> 00:37:00,535
+And they say, how can we make open
+source data work more accessible?
+
+961
+00:37:00,775 --> 00:37:03,625
+Maybe there's somebody really important,
+or somebody with a lot of power or
+
+962
+00:37:03,625 --> 00:37:07,465
+somebody who's funding, something
+you have like one to two sentences to
+
+963
+00:37:07,465 --> 00:37:10,015
+like, just say, like, here's my answer.
+
+964
+00:37:10,015 --> 00:37:10,375
+Here's what
+
+965
+00:37:10,375 --> 00:37:12,076
+we can do.
+
+966
+00:37:12,076 --> 00:37:13,210
+Throw it
+
+967
+00:37:13,210 --> 00:37:13,690
+in chat.
+
+968
+00:37:13,750 --> 00:37:16,090
+I really just want to see
+what everybody's ideas are.
+
+969
+00:37:16,150 --> 00:37:20,440
+And maybe some of you will have
+good ideas that, you know, these
+
+970
+00:37:20,440 --> 00:37:21,610
+are things we actually should say.
+
+971
+00:37:21,640 --> 00:37:27,820
+So I've got the comment screen
+open, please drop this you're
+
+972
+00:37:27,820 --> 00:37:40,175
+answering chat.
+
+973
+00:37:40,175 --> 00:37:52,530
+Frank Elavsky (he/him):  So there
+
+974
+00:37:52,530 --> 00:37:53,580
+are a couple up in the thread.
+
+975
+00:37:55,140 --> 00:37:55,410
+Oh yeah.
+
+976
+00:37:55,440 --> 00:37:58,920
+Cause I asked it earlier just
+as a test of the chat system.
+
+977
+00:38:03,380 --> 00:38:03,710
+Hmm.
+
+978
+00:38:03,860 --> 00:38:04,370
+Thank you.
+
+979
+00:38:06,020 --> 00:38:07,520
+Established channel for feedback.
+
+980
+00:38:12,040 --> 00:38:12,280
+Hm.
+
+981
+00:38:12,340 --> 00:38:13,540
+Cameron also said something.
+
+982
+00:38:14,440 --> 00:38:14,650
+Yeah.
+
+983
+00:38:21,190 --> 00:38:21,580
+Great.
+
+984
+00:38:48,190 --> 00:38:48,350
+Yeah.
+
+985
+00:38:48,480 --> 00:38:52,050
+So I'm just going to speak
+these out loud while folks still
+
+986
+00:38:52,359 --> 00:38:55,277
+try and add their own input.
+
+987
+00:38:55,277 --> 00:38:55,763
+Okay.
+
+988
+00:38:55,763 --> 00:38:56,250
+So
+
+989
+00:38:56,250 --> 00:38:59,550
+starting all the
+way back, Anette said first thought
+
+990
+00:39:00,000 --> 00:39:03,690
+established channels for feedback
+from folks with disabilities, as
+
+991
+00:39:03,690 --> 00:39:05,820
+they say nothing about us without us.
+
+992
+00:39:07,255 --> 00:39:07,795
+Cameron:
+
+993
+00:39:07,885 --> 00:39:13,165
+I am, I'm newer to data work, but perhaps
+even some simple things like making sure
+
+994
+00:39:13,165 --> 00:39:14,725
+there's good documentation and
+
+995
+00:39:14,725 --> 00:39:16,375
+making sure visualizations
+are accessible as a start.
+
+996
+00:39:16,465 --> 00:39:16,825
+Yes.
+
+997
+00:39:16,915 --> 00:39:17,305
+Love that.
+
+998
+00:39:21,925 --> 00:39:22,315
+Let's see,
+
+999
+00:39:26,125 --> 00:39:30,345
+make it part of a standard review
+process that was Isabela posting
+
+1000
+00:39:30,345 --> 00:39:38,075
+as Tania, then Cameron said, make
+sure that we use the tools we use
+
+1001
+00:39:38,075 --> 00:39:39,485
+to do data work are accessible.
+
+1002
+00:39:39,995 --> 00:39:44,645
+Annette said, figure out how to
+enable sonification. Peyton educate
+
+1003
+00:39:44,645 --> 00:39:50,705
+the broader community. More training
+on how to make data work accessible.
+
+1004
+00:39:51,665 --> 00:39:57,425
+R Ely said include accessibility,
+best practices in tutorial
+
+1005
+00:39:57,425 --> 00:40:04,115
+instructions. Gabriel: hire people,
+but maybe in tension with open source.
+
+1006
+00:40:04,145 --> 00:40:05,765
+Yes, that is a huge tension in 
+open source.
+
+1007
+00:40:07,280 --> 00:40:10,730
+Thinking about the practice
+known as dog fooding.
+
+1008
+00:40:11,000 --> 00:40:12,320
+Oh, I don't know what that is.
+
+1009
+00:40:13,130 --> 00:40:17,300
+Might when we get to open
+discussion at the end, it might
+
+1010
+00:40:17,300 --> 00:40:18,380
+be great to hear more about that.
+
+1011
+00:40:19,310 --> 00:40:23,330
+Rose create a system of questions
+or considerations to iterate through.
+
+1012
+00:40:23,570 --> 00:40:23,870
+Hmm.
+
+1013
+00:40:24,410 --> 00:40:24,740
+That's good.
+
+1014
+00:40:26,300 --> 00:40:26,870
+Mars:
+
+1015
+00:40:26,930 --> 00:40:28,970
+Agree on making
+accessibility part of review.
+
+1016
+00:40:29,060 --> 00:40:29,750
+Yeah.
+
+1017
+00:40:30,000 --> 00:40:31,190
+Part of the cultural expectation.
+
+1018
+00:40:31,190 --> 00:40:31,580
+I like that.
+
+1019
+00:40:31,820 --> 00:40:32,930
+That's been said twice now.
+
+1020
+00:40:32,990 --> 00:40:33,530
+Yes.
+
+1021
+00:40:34,160 --> 00:40:34,340
+Okay.
+
+1022
+00:40:34,340 --> 00:40:36,470
+Tania: sort of a chicken and
+egg, but also making sure our
+
+1023
+00:40:36,470 --> 00:40:37,730
+communities are more inclusive.
+
+1024
+00:40:37,910 --> 00:40:38,390
+Oh yeah.
+
+1025
+00:40:38,420 --> 00:40:42,080
+That is the big chicken and
+egg problem in communities.
+
+1026
+00:40:42,890 --> 00:40:46,970
+It's like, it's like there was a
+community organizing meeting that
+
+1027
+00:40:46,970 --> 00:40:51,710
+I went to, where they were trying
+to, like, they had identified
+
+1028
+00:40:51,710 --> 00:40:52,760
+members of the community who had
+
+1029
+00:40:52,760 --> 00:40:55,920
+mobility , disabilities
+
+1030
+00:40:55,970 --> 00:40:58,400
+and the building that everybody was
+
+1031
+00:40:58,400 --> 00:40:59,630
+meeting in was not accessible.
+
+1032
+00:41:00,260 --> 00:41:00,530
+There was
+
+1033
+00:41:00,530 --> 00:41:02,587
+no ramp.
+
+1034
+00:41:02,587 --> 00:41:04,645
+Rose more
+
+1035
+00:41:04,645 --> 00:41:07,375
+specific improved
+command line, terminal interfaces.
+
+1036
+00:41:07,435 --> 00:41:07,945
+Ooh,
+
+1037
+00:41:07,975 --> 00:41:08,770
+interesting.
+
+1038
+00:41:08,770 --> 00:41:11,155
+I'm really interested.
+
+1039
+00:41:11,950 --> 00:41:12,745
+I think
+
+1040
+00:41:12,745 --> 00:41:15,265
+maybe that could be an interesting 
+discussion later.
+
+1041
+00:41:15,265 --> 00:41:19,675
+Most folks I know who are blind or low
+vision and use a screen reader actually
+
+1042
+00:41:19,675 --> 00:41:23,875
+prefer command line interfaces to every
+other kind of graphical user interface or
+
+1043
+00:41:23,875 --> 00:41:25,408
+anything else.
+
+1044
+00:41:25,408 --> 00:41:26,175
+because
+
+1045
+00:41:26,215 --> 00:41:27,595
+to them it's just
+
+1046
+00:41:27,595 --> 00:41:28,540
+pure text.
+
+1047
+00:41:28,540 --> 00:41:29,485
+But I'd
+
+1048
+00:41:29,485 --> 00:41:30,925
+love to normalize no mouse days.
+
+1049
+00:41:30,955 --> 00:41:31,495
+Yes.
+
+1050
+00:41:32,275 --> 00:41:33,325
+I love using no mouse.
+
+1051
+00:41:33,355 --> 00:41:33,805
+Yes.
+
+1052
+00:41:33,835 --> 00:41:34,808
+Okay, cool.
+
+1053
+00:41:34,808 --> 00:41:35,295
+That's,
+
+1054
+00:41:35,305 --> 00:41:35,815
+Frank Elavsky (he/him): that's plenty.
+
+1055
+00:41:35,815 --> 00:41:36,760
+That's a lot.
+
+1056
+00:41:37,075 --> 00:41:37,705
+I hope you
+
+1057
+00:41:37,705 --> 00:41:39,205
+Frank Elavsky (he/him): all
+keep this conversation going.
+
+1058
+00:41:39,505 --> 00:41:41,695
+And I think we had some
+really good answers in here.
+
+1059
+00:41:41,725 --> 00:41:44,665
+I was wondering if anybody would
+try and be super ambitious and big
+
+1060
+00:41:44,695 --> 00:41:47,905
+and some of these are big, but I
+would actually say you all did a
+
+1061
+00:41:47,905 --> 00:41:49,855
+good job of keeping these winable.
+
+1062
+00:41:50,530 --> 00:41:52,000
+These are things you could really
+
+1063
+00:41:52,000 --> 00:41:52,600
+do.
+
+1064
+00:41:52,600 --> 00:41:54,400
+And now I'm
+
+1065
+00:41:54,400 --> 00:41:56,350
+going to kind of dig into, I have 
+a background in
+
+1066
+00:41:56,350 --> 00:41:59,920
+community organizing, and I have some
+advice that I want to give to you all.
+
+1067
+00:41:59,920 --> 00:42:01,570
+So here's like 10 strategies.
+
+1068
+00:42:01,660 --> 00:42:04,150
+I'm going to talk a little more
+about the first four, and then
+
+1069
+00:42:04,240 --> 00:42:07,720
+I'll just let you have that kind
+of structural advice for your own
+
+1070
+00:42:07,720 --> 00:42:09,255
+stewing.
+
+1071
+00:42:09,255 --> 00:42:10,790
+But,
+
+1072
+00:42:10,840 --> 00:42:12,100
+let's break into the things that
+
+1073
+00:42:12,100 --> 00:42:14,020
+you as an individual can do.
+
+1074
+00:42:14,050 --> 00:42:16,060
+Four things that I think
+are really good to keep
+
+1075
+00:42:16,060 --> 00:42:17,710
+in mind on the quest
+
+1076
+00:42:17,710 --> 00:42:17,800
+for
+
+1077
+00:42:17,800 --> 00:42:18,332
+accessibility.
+
+1078
+00:42:18,865 --> 00:42:19,930
+I just want
+
+1079
+00:42:19,930 --> 00:42:21,940
+to preface that not all action is
+
+1080
+00:42:21,940 --> 00:42:23,170
+solved by individuals alone.
+
+1081
+00:42:23,170 --> 00:42:23,290
+And
+
+1082
+00:42:23,290 --> 00:42:25,530
+in fact very little
+
+1083
+00:42:25,570 --> 00:42:28,690
+is especially
+if we're really thinking about how
+
+1084
+00:42:28,720 --> 00:42:30,250
+connected we are to our work and our
+
+1085
+00:42:30,250 --> 00:42:30,850
+environment.
+
+1086
+00:42:30,850 --> 00:42:32,050
+So much
+
+1087
+00:42:32,050 --> 00:42:34,180
+of what we do is dependent and 
+interactive
+
+1088
+00:42:34,180 --> 00:42:35,560
+with others.
+
+1089
+00:42:35,560 --> 00:42:36,250
+Especially
+
+1090
+00:42:36,250 --> 00:42:36,700
+in open source.
+
+1091
+00:42:37,955 --> 00:42:41,075
+So I'm always, always, always
+keep in mind the structural
+
+1092
+00:42:41,075 --> 00:42:43,355
+picture of, of things
+
+1093
+00:42:43,355 --> 00:42:43,565
+that are
+
+1094
+00:42:43,565 --> 00:42:45,755
+happening beyond just
+
+1095
+00:42:45,755 --> 00:42:46,595
+you as a person.
+
+1096
+00:42:46,865 --> 00:42:50,315
+And the first thing I want to say
+is, you know, learn how to evaluate,
+
+1097
+00:42:50,405 --> 00:42:53,435
+I've been in this space for a very
+long time, check out Chartability.
+
+1098
+00:42:53,435 --> 00:42:57,545
+If you haven't check out WCAG, which
+is Web Content Accessibility Guidelines,
+
+1099
+00:42:57,815 --> 00:42:59,825
+just kind of learn. Like don't reinvent
+
+1100
+00:42:59,825 --> 00:43:00,715
+the wheel.
+
+1101
+00:43:00,715 --> 00:43:01,605
+And you
+
+1102
+00:43:01,655 --> 00:43:03,695
+certainly don't
+want to invite people with disabilities
+
+1103
+00:43:03,695 --> 00:43:06,095
+to kind of help you in your quest.
+
+1104
+00:43:06,125 --> 00:43:08,435
+If you haven't done what
+I consider to be the
+
+1105
+00:43:08,435 --> 00:43:10,095
+bare minimum, which is
+
+1106
+00:43:10,145 --> 00:43:11,765
+evaluate your own systems and
+
+1107
+00:43:11,795 --> 00:43:13,475
+try and, you
+
+1108
+00:43:13,475 --> 00:43:15,575
+know, meet a decent standard of
+
+1109
+00:43:15,575 --> 00:43:16,745
+access according to those
+
+1110
+00:43:16,745 --> 00:43:17,415
+standards.
+
+1111
+00:43:17,415 --> 00:43:18,755
+That's step
+
+1112
+00:43:18,755 --> 00:43:19,085
+one.
+
+1113
+00:43:19,115 --> 00:43:20,555
+This is my itself,
+
+1114
+00:43:21,015 --> 00:43:23,315
+quite a long quest.
+
+1115
+00:43:23,315 --> 00:43:25,615
+So but get started.
+
+1116
+00:43:25,615 --> 00:43:26,765
+And I'd
+
+1117
+00:43:26,765 --> 00:43:29,495
+love feedback on Chartability too, 
+as you all interact with
+
+1118
+00:43:29,495 --> 00:43:32,585
+it, more and more folks using it would be
+really helpful because it's an open source
+
+1119
+00:43:32,585 --> 00:43:36,085
+project too. This next
+
+1120
+00:43:36,085 --> 00:43:38,305
+one is huge and open source.
+
+1121
+00:43:38,305 --> 00:43:41,845
+The tension is like you're
+trying to do everything for free.
+
+1122
+00:43:41,905 --> 00:43:45,985
+And often people with disabilities
+are asked to do work for free
+
+1123
+00:43:46,055 --> 00:43:47,070
+too much.
+
+1124
+00:43:47,070 --> 00:43:48,085
+Cause everybody
+
+1125
+00:43:48,085 --> 00:43:48,625
+wants them.
+
+1126
+00:43:48,865 --> 00:43:53,125
+So one of the best pieces of advice that
+I have is obviously invite people to join
+
+1127
+00:43:53,125 --> 00:43:56,905
+you, but also just find where they're
+already talking about stuff like Liz Hare.
+
+1128
+00:43:56,905 --> 00:43:57,655
+I love Liz.
+
+1129
+00:43:57,685 --> 00:43:58,825
+Liz is amazing, really
+
+1130
+00:43:58,825 --> 00:43:59,365
+outspoken.
+
+1131
+00:43:59,365 --> 00:44:00,985
+Has a
+
+1132
+00:44:00,985 --> 00:44:02,605
+lot of interesting things to say on
+
+1133
+00:44:02,605 --> 00:44:03,385
+Twitter.
+
+1134
+00:44:03,385 --> 00:44:04,945
+Really outspoken
+
+1135
+00:44:04,945 --> 00:44:05,395
+in the R
+
+1136
+00:44:05,395 --> 00:44:08,905
+community and. So find
+
+1137
+00:44:08,905 --> 00:44:10,435
+where they're already speaking, right?
+
+1138
+00:44:10,465 --> 00:44:14,725
+Like that's a way to help them
+avoid like doing redundant work.
+
+1139
+00:44:15,085 --> 00:44:17,035
+They're already doing the work
+of trying to educate people.
+
+1140
+00:44:17,035 --> 00:44:19,965
+So like go to wherever they're at
+and just join their communities.
+
+1141
+00:44:19,975 --> 00:44:20,965
+It doesn't have to be Twitter,
+
+1142
+00:44:21,185 --> 00:44:21,720
+you know?
+
+1143
+00:44:21,720 --> 00:44:22,255
+There are
+
+1144
+00:44:22,255 --> 00:44:22,975
+lots of places you
+
+1145
+00:44:22,975 --> 00:44:24,355
+could go.
+
+1146
+00:44:24,355 --> 00:44:25,045
+Another
+
+1147
+00:44:25,045 --> 00:44:26,845
+thing that I want to say is pace yourself, work
+
+1148
+00:44:26,845 --> 00:44:29,065
+on just a single new thing at a time.
+
+1149
+00:44:30,430 --> 00:44:31,840
+I have done this.
+
+1150
+00:44:31,840 --> 00:44:35,200
+And honestly, I think it's the only
+way I've survived certain periods
+
+1151
+00:44:35,200 --> 00:44:39,880
+of my life on the quest towards
+anything but especially accessibility.
+
+1152
+00:44:39,910 --> 00:44:44,770
+So right now I'm like digging into like
+touch and keyboard interaction, paradigms.
+
+1153
+00:44:46,045 --> 00:44:50,515
+Thinking about how we structure data to
+like, make those interaction paradigms,
+
+1154
+00:44:50,515 --> 00:44:53,095
+like really seamless and powerful and
+
+1155
+00:44:53,095 --> 00:44:53,605
+empowering.
+
+1156
+00:44:53,605 --> 00:44:54,625
+And that's
+
+1157
+00:44:54,625 --> 00:44:57,025
+just where I'm at right now, digging 
+into these issues.
+
+1158
+00:44:57,025 --> 00:45:01,015
+So like even, even me, I'm always
+working on just one thing at a time.
+
+1159
+00:45:01,075 --> 00:45:04,465
+And if you overwhelm yourself with
+trying to solve all of accessibility
+
+1160
+00:45:04,465 --> 00:45:07,225
+at once that's not that's not
+
+1161
+00:45:07,225 --> 00:45:09,145
+sustainable for an open source 
+community, right?
+
+1162
+00:45:09,205 --> 00:45:12,715
+The advantage of open source is that
+if you're going to do one thing, you're
+
+1163
+00:45:12,715 --> 00:45:15,355
+going to really hope that somebody else
+is going to be doing their thing too.
+
+1164
+00:45:15,475 --> 00:45:19,405
+And if we all do that, there might be
+a chance to really engage something
+
+1165
+00:45:19,405 --> 00:45:20,665
+at scale with a bunch
+
+1166
+00:45:20,665 --> 00:45:22,435
+of broad and difficult problems.
+
+1167
+00:45:23,095 --> 00:45:26,605
+And then this one, this is, this is
+really from my community organizing
+
+1168
+00:45:26,605 --> 00:45:29,755
+background, which is break issues
+into smaller, manageable parts.
+
+1169
+00:45:29,785 --> 00:45:30,505
+I found an
+
+1170
+00:45:30,505 --> 00:45:33,695
+audit online of,
+
+1171
+00:45:33,745 --> 00:45:36,025
+I think a student did have something
+
+1172
+00:45:36,025 --> 00:45:37,525
+in Jupyter and it's great.
+
+1173
+00:45:37,525 --> 00:45:40,165
+It's like a full WCAG
+audit, but there's a lot in
+
+1174
+00:45:40,165 --> 00:45:41,211
+there.
+
+1175
+00:45:41,211 --> 00:45:44,350
+And , I would
+
+1176
+00:45:44,350 --> 00:45:46,420
+say that if you ever end up 
+in a situation
+
+1177
+00:45:46,420 --> 00:45:51,070
+like this, try and break anything
+into the smallest pieces you can so
+
+1178
+00:45:51,070 --> 00:45:53,470
+that you can get small wins quickly.
+
+1179
+00:45:53,740 --> 00:45:57,790
+That is so important in open source
+and especially volunteer communities
+
+1180
+00:45:57,790 --> 00:45:59,140
+because people will burn out
+
+1181
+00:45:59,140 --> 00:45:59,860
+otherwise.
+
+1182
+00:45:59,860 --> 00:46:02,020
+And you
+
+1183
+00:46:02,020 --> 00:46:04,390
+know, I, I think that broadly 
+the organizing
+
+1184
+00:46:04,390 --> 00:46:06,070
+community has a lot
+
+1185
+00:46:06,070 --> 00:46:06,340
+Frank Elavsky (he/him): that could
+
+1186
+00:46:06,340 --> 00:46:08,110
+teach us about open
+
+1187
+00:46:08,110 --> 00:46:10,840
+source work that we really, you 
+know, most open
+
+1188
+00:46:10,840 --> 00:46:13,750
+source communities don't pay attention
+to, but especially with something
+
+1189
+00:46:13,750 --> 00:46:15,220
+important and related
+
+1190
+00:46:15,220 --> 00:46:15,760
+to justice,
+
+1191
+00:46:15,760 --> 00:46:19,930
+like access you know,
+Jupyter has has a chance
+
+1192
+00:46:19,930 --> 00:46:22,960
+to negotiate access in a way that
+
+1193
+00:46:22,960 --> 00:46:24,970
+like Plotly couldn't right.
+
+1194
+00:46:25,540 --> 00:46:29,770
+You all are the platform that most
+people come together on to do their work.
+
+1195
+00:46:30,070 --> 00:46:33,400
+And say, for example,
+you just had, you know, a
+
+1196
+00:46:33,400 --> 00:46:35,920
+really simple requirement
+
+1197
+00:46:35,920 --> 00:46:37,840
+that, you know, libraries need to be
+
+1198
+00:46:37,840 --> 00:46:40,130
+able to provide like, need you need.
+
+1199
+00:46:41,200 --> 00:46:44,020
+Be able to provide a way for
+users to add alt text to all
+
+1200
+00:46:44,020 --> 00:46:46,698
+of your charts and graphs.
+
+1201
+00:46:46,698 --> 00:46:47,770
+That's not
+
+1202
+00:46:47,770 --> 00:46:48,520
+ a problem we want
+
+1203
+00:46:48,520 --> 00:46:49,345
+to solve.
+
+1204
+00:46:49,345 --> 00:46:50,170
+You need
+
+1205
+00:46:50,170 --> 00:46:51,220
+to be able to do it and here's when
+
+1206
+00:46:51,220 --> 00:46:52,210
+we need it by or something.
+
+1207
+00:46:52,360 --> 00:46:52,720
+I don't know.
+
+1208
+00:46:52,810 --> 00:46:55,900
+I don't know if that's actually winnable,
+but it's an example of like one small
+
+1209
+00:46:55,900 --> 00:46:58,330
+thing then you can do as a community with
+
+1210
+00:46:58,330 --> 00:46:59,770
+your power.
+
+1211
+So yeah.
+
+1212
+00:47:01,210 --> 00:47:02,650
+And then
+
+1213
+00:47:02,650 --> 00:47:04,510
+there's structural strategies.
+
+1214
+00:47:04,690 --> 00:47:07,930
+Maybe just take a screenshot of
+this, save it, stew on it later.
+
+1215
+00:47:08,170 --> 00:47:10,240
+I'm not going to like kind
+of walk through all of this.
+
+1216
+00:47:10,240 --> 00:47:14,890
+The first five are like really common
+to like strategies for implementing
+
+1217
+00:47:14,890 --> 00:47:16,630
+accessibility and organizations.
+
+1218
+00:47:16,660 --> 00:47:17,560
+And I would add,
+
+1219
+00:47:17,580 --> 00:47:19,030
+I added number six because
+
+1220
+00:47:19,030 --> 00:47:19,750
+it's important for
+
+1221
+00:47:19,750 --> 00:47:22,120
+volunteer and like open
+
+1222
+00:47:22,120 --> 00:47:24,130
+source work, which is celebrate your wins.
+
+1223
+00:47:24,430 --> 00:47:26,470
+Like very intentionally.
+
+1224
+00:47:26,470 --> 00:47:32,290
+So like, I hope that by the end of today,
+everybody, except the people who organized
+
+1225
+00:47:32,950 --> 00:47:36,580
+all of you, it's your job to put together
+an event where you thank the people
+
+1226
+00:47:36,730 --> 00:47:38,170
+who have done all the work until now.
+
+1227
+00:47:38,260 --> 00:47:40,150
+Like, please, please,
+please celebrate them.
+
+1228
+00:47:41,435 --> 00:47:45,935
+Like learn their names, send
+them emails, thank them for what
+
+1229
+00:47:45,935 --> 00:47:46,910
+they've done.
+
+1230
+00:47:46,910 --> 00:47:47,885
+That is
+
+1231
+00:47:47,885 --> 00:47:52,775
+hugely important because burnout is, 
+is real and it is so
+
+1232
+00:47:52,775 --> 00:47:53,549
+stressful.
+
+1233
+00:47:53,549 --> 00:47:56,645
+Anxiety inducing. The pressure
+
+1234
+00:47:56,645 --> 00:47:58,865
+is real in this work and people 
+who are doing
+
+1235
+00:47:58,865 --> 00:48:02,585
+the work you know,
+celebrate them and celebrate
+
+1236
+00:48:02,585 --> 00:48:03,695
+yourself too for what you've
+
+1237
+00:48:03,695 --> 00:48:04,762
+done.
+
+1238
+00:48:04,762 --> 00:48:07,965
+So I think
+
+1239
+00:48:08,015 --> 00:48:09,275
+let's see
+for the sake of time, I'm gonna
+
+1240
+00:48:09,275 --> 00:48:11,615
+maybe like, just briefly talk about
+
+1241
+00:48:11,615 --> 00:48:13,505
+evaluation because
+
+1242
+00:48:13,505 --> 00:48:14,525
+I think it's step one.
+
+1243
+00:48:14,525 --> 00:48:15,365
+It's what everybody
+
+1244
+00:48:15,365 --> 00:48:16,415
+should learn.
+
+1245
+00:48:16,415 --> 00:48:18,515
+And then we'll just
+
+1246
+00:48:18,515 --> 00:48:20,255
+Open things up
+for discussion with the time we have
+
+1247
+00:48:20,255 --> 00:48:21,785
+left.
+
+1248
+00:48:21,785 --> 00:48:24,845
+So learning
+
+1249
+00:48:24,845 --> 00:48:27,155
+how to evaluate
+is something that anyone can do.
+
+1250
+00:48:27,155 --> 00:48:29,795
+You can be a designer, you can
+be an engineer, you can be an
+
+1251
+00:48:29,795 --> 00:48:31,875
+analyst an auditor.
+
+1252
+00:48:31,925 --> 00:48:32,675
+Obviously auditors
+
+1253
+00:48:32,675 --> 00:48:33,665
+audit, right?
+
+1254
+00:48:33,665 --> 00:48:34,655
+But even
+
+1255
+00:48:34,655 --> 00:48:37,445
+managers, everybody should have like an
+
+1256
+00:48:37,475 --> 00:48:38,313
+instinct.
+
+1257
+00:48:38,313 --> 00:48:39,990
+And you
+
+1258
+00:48:39,990 --> 00:48:42,990
+get instincts like that looks 
+like it's low contrast.
+
+1259
+00:48:42,990 --> 00:48:46,410
+You get an instinct like that when you
+just have a set of standards that you
+
+1260
+00:48:46,410 --> 00:48:48,269
+regularly rely on and, you know, right?
+
+1261
+00:48:48,269 --> 00:48:51,359
+So you got to build that system, or
+you've got to build that knowledge and
+
+1262
+00:48:51,359 --> 00:48:53,669
+experience in order
+
+1263
+00:48:53,669 --> 00:48:56,129
+to be able to just have an instinct, 
+I can look at something
+
+1264
+00:48:56,189 --> 00:48:58,740
+now and say that it looks low contrast.
+
+1265
+00:48:58,740 --> 00:48:59,459
+Let's, let's
+
+1266
+00:48:59,459 --> 00:49:01,786
+check it.
+
+1267
+00:49:01,786 --> 00:49:02,949
+And,
+
+1268
+00:49:02,999 --> 00:49:04,709
+looking to standards is the best first
+
+1269
+00:49:04,709 --> 00:49:08,339
+step, because standards are
+going to be consistent, right?
+
+1270
+00:49:08,399 --> 00:49:09,930
+Standards change very slowly.
+
+1271
+00:49:09,930 --> 00:49:11,339
+So it's a good step one for
+
+1272
+00:49:11,339 --> 00:49:11,939
+evaluating.
+
+1273
+00:49:12,540 --> 00:49:13,140
+I always
+
+1274
+00:49:13,140 --> 00:49:16,559
+talk about how, you know, thousands 
+of years ago, people
+
+1275
+00:49:16,559 --> 00:49:21,149
+use stilled wood fasteners, or like
+screws by hand, and none of them were
+
+1276
+00:49:21,149 --> 00:49:21,809
+interchangeable.
+
+1277
+00:49:21,809 --> 00:49:23,129
+They would
+
+1278
+00:49:23,129 --> 00:49:24,390
+break down easily.
+
+1279
+00:49:24,689 --> 00:49:27,990
+It takes forever to build and
+data visualization is like that.
+
+1280
+00:49:28,049 --> 00:49:29,849
+It takes a long time to
+build a lot of stuff.
+
+1281
+00:49:29,849 --> 00:49:31,919
+What we do from scratch is from scratch.
+
+1282
+00:49:31,979 --> 00:49:35,069
+It feels pretty flimsy, but
+when you look the standards
+
+1283
+00:49:35,069 --> 00:49:36,720
+like the Phillips screw standard
+
+1284
+00:49:36,939 --> 00:49:38,447
+revolutionized
+
+1285
+00:49:38,447 --> 00:49:39,954
+fasteners
+
+1286
+00:49:39,954 --> 00:49:42,744
+as an industry and it enabled us to 
+have automobiles
+
+1287
+00:49:42,744 --> 00:49:44,064
+and a whole bunch of other things, right.
+
+1288
+00:49:44,484 --> 00:49:47,124
+You can go to a hardware store and get a
+Phillips screw and you expect it to work
+
+1289
+00:49:47,125 --> 00:49:48,301
+pretty well.
+
+1290
+00:49:48,301 --> 00:49:50,065
+And I want
+
+1291
+00:49:50,065 --> 00:49:52,945
+that for data
+visualization, at least at a low level.
+
+1292
+00:49:52,945 --> 00:49:55,165
+And especially for things
+like accessibility, I want an
+
+1293
+00:49:55,165 --> 00:49:56,815
+accessible, interchangeable
+
+1294
+00:49:56,815 --> 00:49:59,395
+experience across across environments,
+
+1295
+00:49:59,395 --> 00:50:00,055
+across the world.
+
+1296
+00:50:00,055 --> 00:50:02,605
+And in order to get there, we
+all have to get on the same page
+
+1297
+00:50:02,605 --> 00:50:04,285
+with how we're evaluating things.
+
+1298
+00:50:04,915 --> 00:50:06,475
+So look at
+
+1299
+00:50:06,475 --> 00:50:08,035
+WCAG, if somebody
+
+1300
+00:50:08,035 --> 00:50:09,985
+hasn't dropped the homepage and 
+chat the link
+
+1301
+00:50:09,985 --> 00:50:12,835
+for just Web Content Accessibility
+Guidelines, that'd be great.
+
+1302
+00:50:12,835 --> 00:50:13,495
+Just drop it in.
+
+1303
+00:50:13,795 --> 00:50:16,225
+It informs policy by
+
+1304
+00:50:16,225 --> 00:50:20,825
+governments that you know represent
+
+1305
+00:50:20,875 --> 00:50:23,005
+like more than half of the world's 
+population.
+
+1306
+00:50:23,004 --> 00:50:25,474
+So it's and it's
+
+1307
+00:50:25,524 --> 00:50:28,464
+anticipated to be adopted at a 
+policy by
+
+1308
+00:50:28,464 --> 00:50:30,834
+2025, I think 90% of the world's
+
+1309
+00:50:30,834 --> 00:50:31,918
+population.
+
+1310
+00:50:31,918 --> 00:50:34,084
+So like,
+
+1311
+00:50:34,134 --> 00:50:36,174
+yeah, at least get on the same 
+page with WCAG.
+
+1312
+00:50:37,869 --> 00:50:41,529
+And then there's tons of
+research that shows that what
+
+1313
+00:50:41,529 --> 00:50:42,879
+WCAG does not go far enough.
+
+1314
+00:50:42,879 --> 00:50:43,179
+Right?
+
+1315
+00:50:43,179 --> 00:50:46,269
+And talk to anybody who's
+interacted with a compliant system.
+
+1316
+00:50:46,269 --> 00:50:48,249
+Who's disabled, they'll
+have feedback still.
+
+1317
+00:50:48,279 --> 00:50:48,579
+Right.
+
+1318
+00:50:49,119 --> 00:50:53,379
+So after you do your due diligence, this
+is the last note I really want to end
+
+1319
+00:50:53,379 --> 00:50:57,879
+on, which is please involve people with
+disabilities and yes, you should probably
+
+1320
+00:50:57,879 --> 00:50:58,699
+pay them.
+
+1321
+00:50:59,109 --> 00:50:59,929
+I know that's
+
+1322
+00:50:59,979 --> 00:51:02,139
+in tension with open-source, but you have to
+
+1323
+00:51:02,139 --> 00:51:03,879
+incentivize things even in an open source
+
+1324
+00:51:03,879 --> 00:51:06,729
+community and. and
+
+1325
+00:51:06,729 --> 00:51:07,269
+try and make it
+
+1326
+00:51:07,269 --> 00:51:07,797
+fair.
+
+1327
+00:51:07,797 --> 00:51:09,909
+So I have some
+
+1328
+00:51:09,909 --> 00:51:12,309
+advice on making your collaborative 
+collaborators lives
+
+1329
+00:51:12,309 --> 00:51:13,449
+easier, then I'm just going to breeze
+
+1330
+00:51:13,449 --> 00:51:14,709
+through number one, invite
+
+1331
+00:51:14,709 --> 00:51:14,919
+them to
+
+1332
+00:51:14,919 --> 00:51:15,354
+discussions.
+
+1333
+00:51:15,354 --> 00:51:16,659
+Number two, find
+
+1334
+00:51:16,659 --> 00:51:17,379
+where they're at
+
+1335
+00:51:17,509 --> 00:51:19,039
+enjoying them.
+
+1336
+00:51:19,039 --> 00:51:20,569
+That's powerful.
+
+1337
+00:51:20,619 --> 00:51:21,339
+Frank Elavsky (he/him):
+Not for many people
+
+1338
+00:51:21,339 --> 00:51:22,359
+do that.
+
+1339
+00:51:22,359 --> 00:51:23,379
+Three: try
+
+1340
+00:51:23,379 --> 00:51:26,829
+and write up issues on your repo with 
+them or for them.
+
+1341
+00:51:26,859 --> 00:51:30,309
+Don't always just expect like people
+to come to you with problems, like be
+
+1342
+00:51:30,309 --> 00:51:32,529
+proactive empower
+
+1343
+00:51:32,529 --> 00:51:32,619
+them
+
+1344
+00:51:33,289 --> 00:51:35,409
+to help drive design
+
+1345
+00:51:35,409 --> 00:51:36,429
+decisions that affect them.
+
+1346
+00:51:36,429 --> 00:51:39,099
+So if you're like, Ooh, we have this tough
+issue with low vision, do you want to
+
+1347
+00:51:39,099 --> 00:51:40,239
+help us?
+
+1348
+00:51:40,239 --> 00:51:41,379
+That's powerful
+
+1349
+00:51:41,379 --> 00:51:42,519
+if they
+
+1350
+00:51:42,519 --> 00:51:42,939
+get to be a
+
+1351
+00:51:42,939 --> 00:51:44,869
+co-designer right.
+
+1352
+00:51:44,869 --> 00:51:48,729
+And then if you're
+
+1353
+00:51:48,729 --> 00:51:50,199
+Frank Elavsky (he/him): going to
+pay anybody in the whole process
+
+1354
+00:51:50,199 --> 00:51:54,069
+of open source, I like to just argue
+you pay people with disabilities
+
+1355
+00:51:54,249 --> 00:51:55,959
+because their expertise is very rare.
+
+1356
+00:51:55,959 --> 00:51:56,829
+It's very demand.
+
+1357
+00:51:56,859 --> 00:52:00,159
+And from a justice perspective,
+they're often, far too often
+
+1358
+00:52:00,159 --> 00:52:01,749
+asked to do things for free.
+
+1359
+00:52:02,079 --> 00:52:04,329
+I am asked to do things for free all
+
+1360
+00:52:04,329 --> 00:52:07,272
+the time and my disabilities.
+
+1361
+00:52:07,861 --> 00:52:08,449
+I navigate
+
+1362
+00:52:08,499 --> 00:52:09,189
+through life.
+
+1363
+00:52:09,189 --> 00:52:10,719
+So I'm always thankful
+
+1364
+00:52:10,719 --> 00:52:12,909
+when people compensate
+
+1365
+00:52:12,909 --> 00:52:14,649
+me for work or for speaking or for
+
+1366
+00:52:14,649 --> 00:52:15,319
+anything.
+
+1367
+00:52:15,319 --> 00:52:16,659
+I'm hugely
+
+1368
+00:52:16,659 --> 00:52:17,019
+grateful
+
+1369
+00:52:17,019 --> 00:52:17,769
+for that.
+
+1370
+00:52:17,769 --> 00:52:18,519
+But everybody's
+
+1371
+00:52:18,519 --> 00:52:19,539
+going to have a different level of
+
+1372
+00:52:19,539 --> 00:52:21,609
+commitment and experience and
+
+1373
+00:52:21,609 --> 00:52:25,929
+expectation and
+starting with you know,
+
+1374
+00:52:25,929 --> 00:52:26,739
+a standard.
+
+1375
+00:52:27,504 --> 00:52:32,154
+A rate that you hope to pay people
+before you talk to them and offer
+
+1376
+00:52:32,154 --> 00:52:34,074
+that upfront is the best way
+
+1377
+00:52:34,074 --> 00:52:34,812
+to do it.
+
+1378
+00:52:34,812 --> 00:52:35,304
+So that
+
+1379
+00:52:35,304 --> 00:52:36,414
+you don't expect them to
+
+1380
+00:52:36,414 --> 00:52:37,449
+ask you.
+
+1381
+00:52:37,449 --> 00:52:38,484
+And then
+
+1382
+00:52:38,484 --> 00:52:41,784
+the last advice I have is try to 
+use what
+
+1383
+00:52:41,784 --> 00:52:47,004
+already exists, both to integrate
+into your own work, but also just as
+
+1384
+00:52:47,004 --> 00:52:48,954
+inspiration, the number one place
+
+1385
+00:52:48,954 --> 00:52:50,424
+I always point to is Highcharts.
+
+1386
+00:52:51,084 --> 00:52:52,704
+I, I
+
+1387
+00:52:52,704 --> 00:52:54,284
+love them.
+
+1388
+00:52:54,284 --> 00:52:55,074
+Oystein
+
+1389
+00:52:55,074 --> 00:52:59,994
+is a good friend and you know, his 
+work with Ted
+
+1390
+00:53:00,324 --> 00:53:04,494
+at Elsevier, they have created what I
+think is one of the most impressive and
+
+1391
+00:53:04,494 --> 00:53:07,014
+accessible libraries
+
+1392
+00:53:07,014 --> 00:53:08,754
+out there for doing data visualization.
+
+1393
+00:53:08,934 --> 00:53:10,494
+And you can just go
+
+1394
+00:53:10,494 --> 00:53:12,354
+to their accessibility
+
+1395
+00:53:12,354 --> 00:53:14,274
+page and just dig into the richness 
+that they have
+
+1396
+00:53:14,274 --> 00:53:15,526
+to offer.
+
+1397
+00:53:15,526 --> 00:53:18,654
+So that's it I forgot
+
+1398
+00:53:18,654 --> 00:53:19,434
+to send slides.
+
+1399
+00:53:19,464 --> 00:53:20,124
+So I think I
+
+1400
+00:53:20,344 --> 00:53:23,094
+emailed Isabela
+
+1401
+00:53:23,094 --> 00:53:24,804
+right before my talk started.
+
+1402
+00:53:24,834 --> 00:53:26,874
+And hopefully we can get
+the slides to everybody.
+
+1403
+00:53:26,934 --> 00:53:27,324
+I don't know how
+
+1404
+00:53:27,325 --> 00:53:35,154
+we put up put up
+stuff, but yeah, it'd
+
+1405
+00:53:35,154 --> 00:53:36,504
+be great if you could all get the 
+slides so you can
+
+1406
+00:53:36,504 --> 00:53:37,884
+get the resources and stuff and that's
+
+1407
+00:53:37,884 --> 00:53:39,322
+it.
+
+1408
+00:53:39,322 --> 00:53:40,759
+Thanks.
+
+1409
+00:53:40,759 --> 00:53:43,634
+Tony Fast (he/they): Frank, that
+
+1410
+00:53:43,634 --> 00:53:44,955
+was, that was incredible.
+
+1411
+00:53:45,645 --> 00:53:46,004
+Frank Elavsky (he/him): Thank you
+
+1412
+00:53:46,004 --> 00:53:47,285
+so much.
+
+1413
+00:53:47,285 --> 00:53:48,564
+Tony Fast (he/they):  It really
+
+1414
+00:53:48,564 --> 00:53:50,874
+reinforces how important the advocacy work is.
+
+1415
+00:53:50,904 --> 00:53:55,374
+Like you definitely left with things that
+organizations can take and really empower
+
+1416
+00:53:55,374 --> 00:53:55,954
+accessibility.
+
+1417
+00:53:55,954 --> 00:53:57,115
+Thank you
+
+1418
+00:53:57,115 --> 00:53:59,214
+so much right now.
+
+1419
+00:53:59,214 --> 00:54:00,325
+Let's take some questions.
+
+1420
+00:54:00,325 --> 00:54:00,834
+I hope you all
+
+1421
+00:54:00,834 --> 00:54:02,095
+have been hanging
+
+1422
+00:54:02,095 --> 00:54:03,265
+out, getting ready for
+
+1423
+00:54:03,265 --> 00:54:04,297
+this time.
+
+1424
+00:54:04,297 --> 00:54:05,845
+If you want
+
+1425
+00:54:05,845 --> 00:54:09,024
+to throw your questions into
+
+1426
+00:54:09,055 --> 00:54:13,704
+the chat you know praise and
+
+1427
+00:54:13,704 --> 00:54:16,615
+kind words will also find their way 
+there that we
+
+1428
+00:54:16,615 --> 00:54:17,979
+can share.
+
+1429
+00:54:17,979 --> 00:54:19,345
+But yeah,
+
+1430
+00:54:19,345 --> 00:54:19,974
+Isabela, I'm
+
+1431
+00:54:19,974 --> 00:54:21,115
+curious while we're
+
+1432
+00:54:21,115 --> 00:54:23,634
+waiting for questions to roll in, 
+are there
+
+1433
+00:54:23,634 --> 00:54:26,454
+any questions that came to mind
+to you while you were watching
+
+1434
+00:54:26,454 --> 00:54:27,234
+Frank's talk?
+
+1435
+00:54:30,370 --> 00:54:32,589
+Isabela Presedo-Floyd (she/her):
+I mean, yes, but I'm trying
+
+1436
+00:54:32,589 --> 00:54:33,879
+to filter what's useful.
+
+1437
+00:54:34,089 --> 00:54:34,450
+I know
+
+1438
+00:54:34,450 --> 00:54:35,950
+one that brought
+
+1439
+00:54:35,950 --> 00:54:38,470
+up kind of at the end was about 
+specifications.
+
+1440
+00:54:38,470 --> 00:54:38,799
+Right.
+
+1441
+00:54:38,950 --> 00:54:43,359
+Which is something that's on my mind a
+lot, because especially with, I am, since
+
+1442
+00:54:43,359 --> 00:54:47,979
+I'm not really a code contributor to open
+source projects, I'm not the main one.
+
+1443
+00:54:49,240 --> 00:54:49,870
+What am I going to say?
+
+1444
+00:54:50,290 --> 00:54:53,140
+I'm not going to be the main one,
+writing the guts of the things.
+
+1445
+00:54:53,140 --> 00:54:56,200
+And so it really matters to me trying
+to set up something so that people
+
+1446
+00:54:56,200 --> 00:54:57,819
+can figure out what they need to do.
+
+1447
+00:54:57,850 --> 00:54:58,149
+Right.
+
+1448
+00:54:58,149 --> 00:54:59,950
+And that's how I see specifications too.
+
+1449
+00:54:59,950 --> 00:55:06,249
+So with that, I guess I would want to ask,
+like, what, how do you prioritize that?
+
+1450
+00:55:06,249 --> 00:55:06,430
+Right.
+
+1451
+00:55:06,430 --> 00:55:10,120
+You have Chartability kind of
+has a specification going on.
+
+1452
+00:55:10,120 --> 00:55:11,529
+How do you sort those things?
+
+1453
+00:55:11,529 --> 00:55:13,209
+How do you prioritize things?
+
+1454
+00:55:14,080 --> 00:55:14,319
+Frank Elavsky (he/him): Good
+
+1455
+00:55:14,319 --> 00:55:14,836
+question.
+
+1456
+00:55:14,836 --> 00:55:16,899
+So 18F is
+
+1457
+00:55:16,899 --> 00:55:18,939
+a government agency and they 
+actually have
+
+1458
+00:55:18,939 --> 00:55:22,240
+like this super rad like list of
+like accessibility priorities.
+
+1459
+00:55:22,390 --> 00:55:26,560
+So if you want to like offload
+prioritization to somebody else, like
+
+1460
+00:55:26,560 --> 00:55:28,229
+look at what they, how they prioritize.
+
+1461
+00:55:29,170 --> 00:55:34,029
+The, the reason I say this big is
+because when you make question,
+
+1462
+00:55:34,060 --> 00:55:35,350
+you make a decision about
+
+1463
+00:55:35,350 --> 00:55:37,870
+priorities especially
+
+1464
+00:55:37,870 --> 00:55:38,020
+in the
+
+1465
+00:55:38,020 --> 00:55:39,550
+accessibility space,
+
+1466
+00:55:39,550 --> 00:55:41,080
+it's, it's
+
+1467
+00:55:41,080 --> 00:55:45,100
+Frank Elavsky (he/him): difficult
+to be fair and know what's fair.
+
+1468
+00:55:45,670 --> 00:55:49,509
+And I point to 18F because
+they're a government agency,
+
+1469
+00:55:49,930 --> 00:55:52,750
+a lot of decision-making
+went into their own list of
+
+1470
+00:55:52,750 --> 00:55:53,390
+priorities.
+
+1471
+00:55:53,390 --> 00:55:55,309
+So for like
+
+1472
+00:55:55,359 --> 00:55:56,230
+specifically web
+
+1473
+00:55:56,230 --> 00:55:57,819
+content they have
+
+1474
+00:55:57,819 --> 00:55:58,779
+like a great breakdown.
+
+1475
+00:55:59,230 --> 00:56:02,529
+I would all tab and go find it, but
+maybe somebody can go quick and drop it
+
+1476
+00:56:02,529 --> 00:56:05,176
+in chat.
+
+1477
+00:56:05,176 --> 00:56:06,499
+But
+
+1478
+00:56:06,549 --> 00:56:10,480
+also another thing that you should keep 
+intention with like a
+
+1479
+00:56:10,700 --> 00:56:13,209
+priorities list that's like,
+
+1480
+00:56:13,209 --> 00:56:16,329
+top-down is always allow the community
+
+1481
+00:56:16,329 --> 00:56:17,829
+to disrupt your priorities.
+
+1482
+00:56:18,009 --> 00:56:21,549
+If somebody comes to you and they're
+like, Hey, I need this thing.
+
+1483
+00:56:21,549 --> 00:56:24,429
+And I'm like doing this
+thing, honestly, like if
+
+1484
+00:56:24,429 --> 00:56:25,524
+you have
+
+1485
+00:56:25,524 --> 00:56:26,619
+like
+
+1486
+00:56:26,619 --> 00:56:28,119
+an open source community in place
+
+1487
+00:56:28,119 --> 00:56:29,799
+that can support feedback
+
+1488
+00:56:29,799 --> 00:56:30,774
+like that.
+
+1489
+00:56:30,774 --> 00:56:31,749
+And you
+
+1490
+00:56:31,749 --> 00:56:35,949
+have bandwidth to flex, like help 
+people as they
+
+1491
+00:56:35,949 --> 00:56:39,699
+come to you because that's powerful
+and there's going to be traction.
+
+1492
+00:56:39,699 --> 00:56:43,179
+Anytime a person comes to you
+with an issue that you're not,
+
+1493
+00:56:43,449 --> 00:56:44,529
+it's going to be hard to generate.
+
+1494
+00:56:44,529 --> 00:56:48,009
+It's hard to generate traction
+from your own list of priorities.
+
+1495
+00:56:48,009 --> 00:56:50,649
+It's very easy to generate
+traction when somebody comes
+
+1496
+00:56:50,649 --> 00:56:53,229
+to you and is like, Hey, I need
+
+1497
+00:56:53,229 --> 00:56:54,384
+this thing.
+
+1498
+00:56:54,384 --> 00:56:55,539
+So yeah,
+
+1499
+00:56:55,539 --> 00:56:57,279
+that's kind of my advice on that.
+
+1500
+00:57:00,849 --> 00:57:02,679
+Isabela Presedo-Floyd (she/her):
+That's yeah, that's really,
+
+1501
+00:57:03,229 --> 00:57:05,885
+that's a good summary.
+
+1502
+00:57:05,885 --> 00:57:06,549
+That
+
+1503
+00:57:06,549 --> 00:57:06,669
+was
+
+1504
+00:57:06,669 --> 00:57:07,099
+awesome.
+
+1505
+00:57:07,099 --> 00:57:07,959
+Tony Fast (he/they): It looks
+
+1506
+00:57:07,959 --> 00:57:09,519
+like we do have some questions or
+
+1507
+00:57:09,519 --> 00:57:10,089
+comments.
+
+1508
+00:57:10,089 --> 00:57:14,079
+Mars pjped in saying that she found
+
+1509
+00:57:14,079 --> 00:57:16,269
+out about free pik through this talk.
+
+1510
+00:57:16,299 --> 00:57:19,209
+So she's going to use those
+stylish factors that people, but
+
+1511
+00:57:19,209 --> 00:57:23,109
+I'm also going to share a post
+that Mars wrote for Quansight Labs
+
+1512
+00:57:23,329 --> 00:57:25,489
+about making NumPy accessible.
+
+1513
+00:57:25,539 --> 00:57:26,979
+She's been doing tons of work on
+
+1514
+00:57:26,979 --> 00:57:28,189
+NumPy's documentation,
+
+1515
+00:57:28,189 --> 00:57:29,949
+making things accessible, and she
+
+1516
+00:57:29,949 --> 00:57:31,719
+wrote a really rad blog post
+
+1517
+00:57:31,769 --> 00:57:32,987
+as to why.
+
+1518
+00:57:32,987 --> 00:57:33,799
+So that's,
+
+1519
+00:57:33,849 --> 00:57:35,289
+that's gonna, that's shared in the chat
+
+1520
+00:57:35,289 --> 00:57:36,129
+right now.
+
+1521
+00:57:36,129 --> 00:57:39,069
+And then  let's see we got this
+
+1522
+00:57:39,069 --> 00:57:40,299
+link to 18F shared.
+
+1523
+00:57:40,299 --> 00:57:41,289
+I wasn't aware of that.
+
+1524
+00:57:41,289 --> 00:57:42,009
+Thank you for bringing
+
+1525
+00:57:42,009 --> 00:57:43,943
+that up.
+
+1526
+00:57:43,943 --> 00:57:44,909
+Ely,
+
+1527
+00:57:44,919 --> 00:57:47,079
+Ely ran an awesome accessibility,
+
+1528
+00:57:47,109 --> 00:57:48,489
+community accessibility workshop
+
+1529
+00:57:48,539 --> 00:57:49,413
+last year.
+
+1530
+00:57:49,413 --> 00:57:51,159
+She said she's going
+
+1531
+00:57:51,159 --> 00:57:51,339
+to be
+
+1532
+00:57:51,339 --> 00:57:52,959
+using the argument that data
+
+1533
+00:57:52,959 --> 00:57:55,299
+representation and visualizations is 
+already a form
+
+1534
+00:57:55,299 --> 00:57:57,699
+of accessibility, which I kind of love
+
+1535
+00:57:58,539 --> 00:57:58,979
+Frank Elavsky (he/him): Credit.
+
+1536
+00:57:58,989 --> 00:57:59,439
+I'm going to type.
+
+1537
+00:58:00,219 --> 00:58:04,179
+The very first person who coined
+that is a super good friend of mine.
+
+1538
+00:58:04,209 --> 00:58:04,689
+Probably.
+
+1539
+00:58:04,749 --> 00:58:08,379
+I dunno, I don't want to be corny, but
+maybe my best friend in this space.
+
+1540
+00:58:08,949 --> 00:58:09,579
+His name is Doug
+
+1541
+00:58:09,579 --> 00:58:10,539
+Shepherds,
+
+1542
+00:58:10,539 --> 00:58:12,459
+he's been
+
+1543
+00:58:12,459 --> 00:58:14,859
+in, he used to work at W3C.
+
+1544
+00:58:14,859 --> 00:58:16,509
+He's been in web standards for years.
+
+1545
+00:58:16,509 --> 00:58:18,009
+He's a data visualization guy.
+
+1546
+00:58:18,009 --> 00:58:19,359
+He cares a lot about this stuff.
+
+1547
+00:58:19,569 --> 00:58:21,519
+I don't know if he'll say this
+out loud, but he's one of the
+
+1548
+00:58:21,519 --> 00:58:23,589
+reasons we have SVG on the web as a
+
+1549
+00:58:23,589 --> 00:58:24,069
+standard.
+
+1550
+00:58:24,069 --> 00:58:25,989
+So I love Doug.
+
+1551
+00:58:25,989 --> 00:58:26,649
+He's the first
+
+1552
+00:58:26,649 --> 00:58:28,839
+one who I ever heard
+
+1553
+00:58:28,839 --> 00:58:31,929
+say that statement and like, I 
+have workshopped
+
+1554
+00:58:31,929 --> 00:58:35,469
+it a little bit into my own, like
+how I like to phrase it, but yeah,
+
+1555
+00:58:35,499 --> 00:58:36,729
+he's the inspiration for that.
+
+1556
+00:58:38,109 --> 00:58:38,649
+I love Doug.
+
+1557
+00:58:39,589 --> 00:58:40,709
+Tony Fast (he/they): That's great.
+
+1558
+00:58:41,269 --> 00:58:41,829
+I, Frank, you
+
+1559
+00:58:41,829 --> 00:58:41,949
+want
+
+1560
+00:58:41,949 --> 00:58:43,299
+to take a have a look
+
+1561
+00:58:43,299 --> 00:58:44,619
+at Annette's comment here.
+
+1562
+00:58:44,619 --> 00:58:47,739
+I don't know if you want to add
+any color to this about data
+
+1563
+00:58:47,739 --> 00:58:51,476
+spatialization. Frank Elavsky (he/him): Yeah.
+
+1564
+00:58:51,476 --> 00:58:53,344
+Yup.
+
+1565
+00:58:53,394 --> 00:58:55,614
+I have a blind friend who refers to datavis
+
+1566
+00:58:55,614 --> 00:58:59,034
+as spatialization
+because the spatial component is
+
+1567
+00:58:59,034 --> 00:59:01,164
+what he sees as distinguishing it.
+
+1568
+00:59:01,164 --> 00:59:03,744
+I wonder what is the difference
+between spatialization and
+
+1569
+00:59:03,744 --> 00:59:08,184
+experiences, which is broader and
+making me think, yeah, super good
+
+1570
+00:59:08,184 --> 00:59:09,342
+question.
+
+1571
+00:59:10,500 --> 00:59:13,974
+I am, I come
+
+1572
+00:59:13,974 --> 00:59:16,314
+from, because I come from the 
+visualization community.
+
+1573
+00:59:16,314 --> 00:59:19,764
+When we talk about a spatial
+visualization, to me that is actually
+
+1574
+00:59:19,764 --> 00:59:21,204
+different than something that might be an
+
+1575
+00:59:21,234 --> 00:59:25,334
+abstract or , geometric-
+
+1576
+00:59:25,344 --> 00:59:27,864
+only kind of representation like 
+a bar chart.
+
+1577
+00:59:28,749 --> 00:59:33,849
+We wouldn't say it's spatial because
+the bars don't represent real space.
+
+1578
+00:59:34,119 --> 00:59:34,779
+They represent
+
+1579
+00:59:34,779 --> 00:59:35,943
+abstract space.
+
+1580
+00:59:35,943 --> 00:59:37,689
+And so it's
+
+1581
+00:59:37,689 --> 00:59:40,059
+a symbolic representation of something 
+that's
+
+1582
+00:59:40,059 --> 00:59:43,419
+not like out there in the world, but a
+spatial visualization would be like a
+
+1583
+00:59:43,419 --> 00:59:47,709
+map where the, the, the pixels or the
+things you see on an X and Y coordinate
+
+1584
+00:59:47,709 --> 00:59:51,519
+represents something real that's out there
+or some approximation of the realness.
+
+1585
+00:59:51,969 --> 00:59:56,979
+So when we say spatial, that's usually
+how I refer to it is that there is a.
+
+1586
+00:59:57,984 --> 01:00:00,024
+There's like a real thing out
+there, but you know, what's
+
+1587
+01:00:00,024 --> 01:00:01,584
+interesting that I think is
+
+1588
+01:00:01,584 --> 01:00:03,054
+great about a blind
+
+1589
+01:00:03,054 --> 01:00:05,154
+friend referring it to it as 
+spatialization
+
+1590
+01:00:05,174 --> 01:00:09,624
+is when you work with a tactile
+interface, it becomes spatial, all
+
+1591
+01:00:09,624 --> 01:00:11,994
+abstract visualizations become spatial.
+
+1592
+01:00:12,024 --> 01:00:15,894
+They become real things in reality
+where their X and Y have like a
+
+1593
+01:00:15,894 --> 01:00:18,174
+tangible meaning and existence.
+
+1594
+01:00:18,354 --> 01:00:19,824
+So I think that that's fascinating.
+
+1595
+01:00:19,974 --> 01:00:23,484
+I think that, you know, that's great
+when I use experiences, that's my catch-
+
+1596
+01:00:23,484 --> 01:00:27,804
+all for the most, the broadest way I could
+possibly talk about what we do, which is
+
+1597
+01:00:27,804 --> 01:00:32,574
+turning data into something. Representation
+has, like data representation,
+
+1598
+01:00:32,574 --> 01:00:34,104
+has this assumption that
+
+1599
+01:00:34,104 --> 01:00:38,484
+the data is like trying to become 
+something, but
+
+1600
+01:00:38,484 --> 01:00:42,324
+in experience is actually like framed
+for you interacting with the thing.
+
+1601
+01:00:42,354 --> 01:00:42,654
+Right.
+
+1602
+01:00:42,684 --> 01:00:44,844
+And so I prefer to frame it that way.
+
+1603
+01:00:44,844 --> 01:00:49,344
+Maybe it's to postmodern of me, but
+when we come to data and we have some
+
+1604
+01:00:49,344 --> 01:00:51,924
+kind of experience, that is the space,
+
+1605
+01:00:51,984 --> 01:00:53,244
+it's very human-centered
+
+1606
+01:00:53,244 --> 01:00:53,454
+that I
+
+1607
+01:00:53,454 --> 01:00:55,524
+like to, that I like
+
+1608
+01:00:55,524 --> 01:00:57,624
+to frame things around as opposed to data
+
+1609
+01:00:57,624 --> 01:01:01,704
+representation, which is sort of framing
+it around the data, not necessarily
+
+1610
+01:01:01,704 --> 01:01:06,184
+the person first. 
+Tony Fast (he/they): That was beautiful.
+
+1611
+01:01:06,964 --> 01:01:09,094
+Also, made me think of a tactile maps.
+
+1612
+01:01:09,544 --> 01:01:09,814
+Frank Elavsky (he/him): Yep.
+
+1613
+01:01:10,084 --> 01:01:12,664
+So they're the, they're the
+oldest form of accessible stuff.
+
+1614
+01:01:12,694 --> 01:01:14,644
+Perkins School for the
+Blind has like a great
+
+1615
+01:01:14,644 --> 01:01:15,012
+catalog.
+
+1616
+01:01:15,012 --> 01:01:16,114
+So if you
+
+1617
+01:01:16,114 --> 01:01:17,854
+have a blind friend who wants to go on a
+
+1618
+01:01:17,854 --> 01:01:22,534
+pilgrimage to go to Perkins, they can
+like check out and touch maps that
+
+1619
+01:01:22,534 --> 01:01:24,154
+are like 200-something years old.
+
+1620
+01:01:25,414 --> 01:01:26,404
+Tony Fast (he/they): Oh, that's so neat.
+
+1621
+01:01:26,704 --> 01:01:27,634
+That's so neat. Data,
+
+1622
+01:01:27,754 --> 01:01:28,654
+I mean, maps are,
+
+1623
+01:01:28,654 --> 01:01:32,674
+the pioneering element data
+visualization effectively, right?
+
+1624
+01:01:33,034 --> 01:01:33,694
+Frank Elavsky (he/him): I think so.
+
+1625
+01:01:33,754 --> 01:01:34,144
+Yeah,
+
+1626
+01:01:34,194 --> 01:01:34,676
+absolutely.
+
+1627
+01:01:34,676 --> 01:01:35,158
+Yeah.
+
+1628
+01:01:35,158 --> 01:01:36,604
+Tony Fast (he/they): So we got
+
+1629
+01:01:36,604 --> 01:01:37,564
+another, we got another comment
+
+1630
+01:01:37,564 --> 01:01:39,064
+from Ely.
+
+1631
+01:01:39,064 --> 01:01:39,814
+So,
+
+1632
+01:01:39,814 --> 01:01:40,264
+we've been
+
+1633
+01:01:40,264 --> 01:01:42,704
+running these I made,
+
+1634
+01:01:42,754 --> 01:01:44,494
+I mentioned
+these earlier to you, but we've
+
+1635
+01:01:44,494 --> 01:01:45,634
+been running these low code
+
+1636
+01:01:45,634 --> 01:01:49,239
+workshops that bring people
+
+1637
+01:01:49,239 --> 01:01:50,049
+into the project, right?
+
+1638
+01:01:50,049 --> 01:01:52,869
+We do acknowledge community's
+important for accessibility.
+
+1639
+01:01:53,169 --> 01:01:57,489
+One of the ones that's been great is we
+can get people to edit RST and Markdown
+
+1640
+01:01:57,489 --> 01:01:59,889
+and HTML and add some alt text to the docs.
+
+1641
+01:02:00,249 --> 01:02:03,699
+But we've been hard pressed to find
+some other places where people can
+
+1642
+01:02:03,699 --> 01:02:04,884
+come in.
+
+1643
+01:02:04,884 --> 01:02:06,069
+So we're
+
+1644
+01:02:06,069 --> 01:02:08,769
+curious if you have any other ways 
+that you
+
+1645
+01:02:08,769 --> 01:02:12,939
+can think about accessibility
+being a door into the community.
+
+1646
+01:02:13,419 --> 01:02:13,719
+Frank Elavsky (he/him): Yeah.
+
+1647
+01:02:13,749 --> 01:02:16,959
+My favorite one to teach
+people beyond alt text.
+
+1648
+01:02:17,049 --> 01:02:20,259
+And by the way, if you
+want to upgrade your alt
+
+1649
+01:02:20,259 --> 01:02:22,659
+text game look into
+
+1650
+01:02:22,659 --> 01:02:25,119
+image descriptions, which is the next level.
+
+1651
+01:02:25,239 --> 01:02:27,039
+Alt text is a specific technology.
+
+1652
+01:02:27,039 --> 01:02:30,459
+We use to provide an image
+description to something, and alt
+
+1653
+01:02:30,459 --> 01:02:31,749
+text is like behind the scenes.
+
+1654
+01:02:31,749 --> 01:02:32,079
+Right.
+
+1655
+01:02:32,409 --> 01:02:36,729
+But in image description more broadly is
+also visually you can see the discriptive
+
+1656
+01:02:37,464 --> 01:02:38,364
+of the image.
+
+1657
+01:02:38,694 --> 01:02:39,024
+And I
+
+1658
+01:02:39,024 --> 01:02:40,284
+think that when you
+
+1659
+01:02:40,284 --> 01:02:41,394
+Frank Elavsky (he/him): look
+into research by like the
+
+1660
+01:02:41,394 --> 01:02:43,614
+Diagram Center their research
+
+1661
+01:02:43,614 --> 01:02:47,544
+showed that providing visually a table, 
+you can see as
+
+1662
+01:02:47,544 --> 01:02:49,194
+well as a summary is one
+
+1663
+01:02:49,194 --> 01:02:51,084
+of the best things you could do for 
+accessibility, for
+
+1664
+01:02:51,084 --> 01:02:53,604
+cognitive and vision-related impairments.
+
+1665
+01:02:53,604 --> 01:02:58,584
+So yeah, if you want to like go next
+level with just  alt texts, go to
+
+1666
+01:02:58,584 --> 01:03:01,524
+image descriptions, which is like
+kind of broader impacts more people.
+
+1667
+01:03:01,824 --> 01:03:03,534
+But if you want something different to mix
+
+1668
+01:03:03,534 --> 01:03:05,154
+things up teach people
+
+1669
+01:03:05,154 --> 01:03:05,874
+how to analyze
+
+1670
+01:03:05,874 --> 01:03:06,339
+contrast.
+
+1671
+01:03:06,339 --> 01:03:07,734
+So you get
+
+1672
+01:03:07,734 --> 01:03:10,854
+a little dropper tool, you dropper on 
+a color, you dropper
+
+1673
+01:03:10,854 --> 01:03:12,414
+on the color that surrounds it.
+
+1674
+01:03:12,624 --> 01:03:16,284
+You get a little contrast
+ratio, like a rating between
+
+1675
+01:03:16,284 --> 01:03:17,094
+the two.
+
+1676
+01:03:17,094 --> 01:03:17,904
+And that's
+
+1677
+01:03:17,904 --> 01:03:20,724
+a great way to give people that kind 
+of instinct
+
+1678
+01:03:20,754 --> 01:03:22,704
+that when they look at something
+they're like, Ooh, that looks a little
+
+1679
+01:03:22,704 --> 01:03:22,901
+low contrast.
+
+1680
+01:03:22,901 --> 01:03:23,884
+Can we bump that up?
+
+1681
+01:03:23,934 --> 01:03:25,104
+Because we just need more people
+
+1682
+01:03:25,104 --> 01:03:27,594
+aware of that because that I
+
+1683
+01:03:27,624 --> 01:03:29,724
+argue that's number two, as
+
+1684
+01:03:29,724 --> 01:03:30,264
+far as broad
+
+1685
+01:03:30,264 --> 01:03:32,124
+impact behind textual
+
+1686
+01:03:32,124 --> 01:03:32,364
+district.
+
+1687
+01:03:34,549 --> 01:03:35,899
+Tony Fast (he/they): One of
+the points I really loved when
+
+1688
+01:03:35,899 --> 01:03:38,839
+you were talking was, you know,
+learn how to audit your own stuff.
+
+1689
+01:03:38,889 --> 01:03:39,549
+Right.
+
+1690
+01:03:39,549 --> 01:03:43,509
+So last year during the event
+
+1691
+01:03:43,509 --> 01:03:43,599
+that
+
+1692
+01:03:43,639 --> 01:03:46,069
+Ely ran we had breakout
+
+1693
+01:03:46,069 --> 01:03:47,419
+sessions where we
+
+1694
+01:03:47,419 --> 01:03:50,539
+installed WAVE and
+
+1695
+01:03:50,539 --> 01:03:53,449
+we had conversations
+around learning how to use WAVE.
+
+1696
+01:03:54,049 --> 01:03:58,279
+And, you know, it was a really nice way
+from like almost a top-down experience
+
+1697
+01:03:58,279 --> 01:04:00,889
+there, you know, you got, we wound
+up talking about color, contrast and
+
+1698
+01:04:00,889 --> 01:04:04,579
+navigability, but it's kind of a really
+good, like splash into getting started.
+
+1699
+01:04:04,579 --> 01:04:07,069
+So I'm going to just share
+that WAVE extension on there.
+
+1700
+01:04:07,069 --> 01:04:08,449
+I don't know if you have any
+
+1701
+01:04:08,449 --> 01:04:09,559
+feelings plus or
+
+1702
+01:04:09,559 --> 01:04:10,249
+minus on,
+
+1703
+01:04:10,319 --> 01:04:11,259
+on WAVE,
+
+1704
+01:04:11,259 --> 01:04:12,199
+but it's
+
+1705
+01:04:12,199 --> 01:04:13,939
+Tony Fast (he/they): something
+we've been advocating for.
+
+1706
+01:04:14,399 --> 01:04:15,384
+Frank Elavsky (he/him): Yeah.
+
+1707
+01:04:15,384 --> 01:04:18,339
+There's, my old
+
+1708
+01:04:18,349 --> 01:04:20,809
+laptop actually crashed just earlier 
+this week, so I'm
+
+1709
+01:04:20,809 --> 01:04:22,249
+using a new laptop or I'd pull up my
+
+1710
+01:04:22,249 --> 01:04:22,879
+extension.
+
+1711
+01:04:22,879 --> 01:04:25,399
+It's , oh, I forget
+
+1712
+01:04:25,399 --> 01:04:25,909
+the name of it.
+
+1713
+01:04:26,029 --> 01:04:27,139
+HTML something.
+
+1714
+01:04:27,139 --> 01:04:28,969
+So WAVE catches, most things.
+
+1715
+01:04:28,969 --> 01:04:29,089
+It's
+
+1716
+01:04:29,089 --> 01:04:30,199
+pretty good.
+
+1717
+01:04:30,754 --> 01:04:31,309
+I consider
+
+1718
+01:04:31,309 --> 01:04:31,489
+it the
+
+1719
+01:04:31,489 --> 01:04:32,722
+middle ground
+
+1720
+01:04:32,722 --> 01:04:33,954
+of automated
+
+1721
+01:04:33,954 --> 01:04:35,034
+Frank Elavsky (he/him): tools for the web.
+
+1722
+01:04:35,724 --> 01:04:39,174
+What I think is the absolute best
+is a little behind the scenes.
+
+1723
+01:04:39,174 --> 01:04:43,704
+So it's not as approachable for everybody,
+but it's axe dev tools. Axe, dev tools.
+
+1724
+01:04:43,704 --> 01:04:48,204
+It runs in like you go to developer
+tools and it'll be a tab there once
+
+1725
+01:04:48,204 --> 01:04:52,584
+you install it without a doubt,
+the best like their approach rules.
+
+1726
+01:04:52,914 --> 01:04:53,604
+It's very good.
+
+1727
+01:04:53,604 --> 01:04:53,964
+It's super
+
+1728
+01:04:53,964 --> 01:04:54,614
+comprehensive.
+
+1729
+01:04:54,614 --> 01:04:55,914
+So that's
+
+1730
+01:04:55,914 --> 01:04:56,334
+at one end of
+
+1731
+01:04:56,334 --> 01:04:57,324
+the spectrum, but on the
+
+1732
+01:04:57,324 --> 01:04:57,774
+easy end of
+
+1733
+01:04:57,774 --> 01:04:58,884
+the spectrum, and it's
+
+1734
+something that catches things that 
+WAVE doesn't sometimes
+
+1735
+01:05:01,314 --> 01:05:04,194
+is I think it's HTML code checker.
+
+1736
+01:05:04,284 --> 01:05:04,854
+I don't know.
+
+1737
+01:05:05,154 --> 01:05:06,894
+It's old, it's really old, but
+
+1738
+01:05:06,894 --> 01:05:07,506
+it's good.
+
+1739
+01:05:07,506 --> 01:05:08,424
+And it also
+
+1740
+01:05:08,424 --> 01:05:10,704
+has some HTML standards that WAVE
+
+1741
+01:05:10,704 --> 01:05:11,784
+doesn't, isn't necessarily
+
+1742
+01:05:11,784 --> 01:05:12,528
+looking for
+
+1743
+01:05:12,528 --> 01:05:13,644
+and it also
+
+1744
+01:05:13,644 --> 01:05:16,674
+does a little better on SVG, so I 
+wish I could remember
+
+1745
+01:05:16,674 --> 01:05:17,327
+it.
+
+1746
+01:05:17,327 --> 01:05:17,979
+Sorry.
+
+1747
+01:05:17,979 --> 01:05:19,284
+But yeah,
+
+1748
+01:05:19,284 --> 01:05:20,754
+axe is my short answer, I guess.
+
+1749
+01:05:22,734 --> 01:05:25,644
+Isabela Presedo-Floyd (she/her): Yeah, 
+definitely, definitely agree with axe.
+
+1750
+01:05:25,654 --> 01:05:27,114
+I was going to say with, I mentioned
+
+1751
+01:05:27,114 --> 01:05:28,344
+earlier, we were looking into testing stuff.
+
+1752
+01:05:29,334 --> 01:05:32,364
+And that has been one of the main things
+we've been trying to figure out how to
+
+1753
+01:05:32,394 --> 01:05:35,094
+basically put all the things together.
+
+1754
+01:05:35,124 --> 01:05:36,474
+There's a lot of good resources.
+
+1755
+01:05:36,474 --> 01:05:39,924
+It's figuring out how they're going
+to play nice with some of the,
+
+1756
+01:05:40,374 --> 01:05:40,644
+yeah,
+
+1757
+01:05:40,674 --> 01:05:41,394
+Jupyter stuff.
+
+1758
+01:05:41,874 --> 01:05:41,964
+Tony Fast (he/they): Yeah.
+
+1759
+01:05:41,994 --> 01:05:42,954
+Well, and it's so nice.
+
+1760
+01:05:42,954 --> 01:05:46,674
+The Deque labs is open source and they
+have their consulting service too.
+
+1761
+01:05:46,674 --> 01:05:47,004
+Right.
+
+1762
+01:05:47,004 --> 01:05:50,214
+So, you know, it hits that sweet
+spot of what we're all trying to
+
+1763
+01:05:50,214 --> 01:05:51,129
+do here.
+
+1764
+01:05:51,129 --> 01:05:52,044
+So you
+
+1765
+01:05:52,044 --> 01:05:53,814
+know, teaming up with other communities,
+
+1766
+01:05:53,814 --> 01:05:55,194
+amplified each other's efforts.
+
+1767
+01:05:55,194 --> 01:06:00,204
+Like I see writing tests as a future
+opportunity, better test tools for
+
+1768
+01:06:00,204 --> 01:06:02,844
+accessibility as a community opportunity.
+
+1769
+01:06:03,114 --> 01:06:03,954
+Frank Elavsky (he/him):
+We need that badly.
+
+1770
+01:06:03,954 --> 01:06:04,254
+Right?
+
+1771
+01:06:04,254 --> 01:06:04,434
+Like
+
+1772
+01:06:04,434 --> 01:06:05,664
+the, the number one thing.
+
+1773
+01:06:05,664 --> 01:06:08,004
+So we interviewed a lot of people 
+with Chartability
+
+1774
+01:06:08,004 --> 01:06:12,984
+and like pretty much every single
+accessibility expert who we interviewed
+
+1775
+01:06:13,014 --> 01:06:17,934
+with Chartability, about Chartability,
+who tried it out, said, okay, these rule.
+
+1776
+01:06:17,934 --> 01:06:19,734
+And like half of these could be automated.
+
+1777
+01:06:19,914 --> 01:06:22,314
+Like we need somebody to build that stuff.
+
+1778
+01:06:22,614 --> 01:06:24,804
+And so, yeah, like even
+just Chartability.
+
+1779
+01:06:25,749 --> 01:06:28,989
+We, we could use, like, there's
+a bunch of things that you could
+
+1780
+01:06:28,989 --> 01:06:29,529
+measure.
+
+1781
+01:06:29,529 --> 01:06:33,309
+And we aren't yet. As a note
+
+1782
+01:06:33,309 --> 01:06:35,139
+about automated tooling, for those that
+
+1783
+01:06:35,139 --> 01:06:36,999
+don't know, Deqie actually
+
+1784
+01:06:36,999 --> 01:06:40,479
+did like a, an aggregate study of all 
+of their audits.
+
+1785
+01:06:40,479 --> 01:06:42,339
+It's just like some
+enormous amount of data.
+
+1786
+01:06:42,339 --> 01:06:45,999
+And they found that in general,
+automated testing, even the best stuff,
+
+1787
+01:06:46,029 --> 01:06:49,179
+which is theirs, found finds about two
+
+1788
+01:06:49,179 --> 01:06:52,239
+thirds of errors according
+
+1789
+01:06:52,239 --> 01:06:53,649
+to standards, right?
+
+1790
+01:06:53,769 --> 01:06:59,799
+So it's about 67% of all possible things
+they found using automated testing.
+
+1791
+01:07:00,489 --> 01:07:03,849
+And to take one thing, like imagine
+a stacked bar chart, or like a tree
+
+1792
+01:07:03,849 --> 01:07:05,229
+map, you've got a little subset.
+
+1793
+01:07:05,229 --> 01:07:05,469
+Okay.
+
+1794
+01:07:05,469 --> 01:07:08,259
+Here's the things automated
+testing can confidently find.
+
+1795
+01:07:08,559 --> 01:07:14,019
+That's a smaller set of all the things
+that exist in standards and standards is a
+
+1796
+01:07:14,019 --> 01:07:16,419
+smaller set of all possible accessibility
+
+1797
+01:07:16,419 --> 01:07:16,982
+problems.
+
+1798
+01:07:16,982 --> 01:07:17,544
+Right.
+
+1799
+01:07:17,544 --> 01:07:18,669
+So somebody
+
+1800
+01:07:18,669 --> 01:07:20,709
+did a study of just with blind people 
+back in like
+
+1801
+01:07:20,709 --> 01:07:23,379
+2011, Chris Power and found, I think.
+
+1802
+01:07:24,324 --> 01:07:30,414
+About that WCAG addresses is about
+60% of the needs of people who use screen
+
+1803
+01:07:30,414 --> 01:07:32,394
+readers and that's just screen reader use.
+
+1804
+01:07:32,394 --> 01:07:32,694
+Right.
+
+1805
+01:07:33,054 --> 01:07:34,194
+So think
+
+1806
+01:07:34,194 --> 01:07:35,694
+of like automated
+
+1807
+01:07:35,694 --> 01:07:37,524
+testing is just a little tool in your belt.
+
+1808
+01:07:37,524 --> 01:07:38,574
+That's super helpful.
+
+1809
+01:07:38,574 --> 01:07:42,294
+It saves you bajillions of hours of
+time, but also definitely not the end game.
+
+1810
+01:07:43,914 --> 01:07:44,064
+Tony Fast (he/they): Right.
+
+1811
+01:07:44,064 --> 01:07:47,364
+This is, this has been such
+a contention with our work.
+
+1812
+01:07:47,364 --> 01:07:47,694
+Right.
+
+1813
+01:07:48,054 --> 01:07:50,754
+Cause we've been going to a lot of
+accessibility meetings and they're
+
+1814
+01:07:50,754 --> 01:07:54,114
+like manual testing and it's like,
+we know, we know, we know, but like
+
+1815
+01:07:54,144 --> 01:07:57,474
+we're an open source project and
+we're already getting some regressions
+
+1816
+01:07:57,774 --> 01:07:59,454
+by not having automated testing.
+
+1817
+01:07:59,454 --> 01:07:59,724
+Right.
+
+1818
+01:07:59,934 --> 01:08:05,244
+So for us, like the automated testing
+is also also a community contract that
+
+1819
+01:08:05,244 --> 01:08:07,764
+helps us ensure that accessibility
+
+1820
+01:08:07,764 --> 01:08:09,324
+stays there.
+
+1821
+01:08:09,324 --> 01:08:10,104
+Gabriel
+
+1822
+01:08:10,104 --> 01:08:11,934
+Tony Fast (he/they): had her,
+oh yeah, go ahead, Isabela.
+
+1823
+01:08:12,024 --> 01:08:12,204
+Yeah.
+
+1824
+01:08:12,294 --> 01:08:13,614
+Isabela Presedo-Floyd (she/her):
+I was going to say, I think the
+
+1825
+01:08:13,614 --> 01:08:15,534
+process is a different expectation.
+
+1826
+01:08:15,564 --> 01:08:19,314
+I think that they're totally right
+about accuracy, but we can't actually
+
+1827
+01:08:19,314 --> 01:08:24,354
+guarantee who or when or what
+is going to be reviewed or how they're
+
+1828
+01:08:24,354 --> 01:08:27,804
+going to review it on a open source
+project has been the problem.
+
+1829
+01:08:28,254 --> 01:08:32,454
+So yeah, that's, that's where I also agree
+with Tony that I really think we need
+
+1830
+01:08:32,454 --> 01:08:37,664
+some degree of automation just to catch
+at all, but it is very tricky because
+
+1831
+01:08:38,709 --> 01:08:41,229
+I worry about where that
+puts us at the same time.
+
+1832
+01:08:42,099 --> 01:08:42,429
+Frank Elavsky (he/him): Yeah.
+
+1833
+01:08:42,459 --> 01:08:46,059
+One of the nice things about
+automation in open source communities
+
+1834
+01:08:46,089 --> 01:08:52,779
+is if you run a report and you
+get, you know, 200 errors, some of
+
+1835
+01:08:52,779 --> 01:08:54,879
+them may be opportunities
+
+1836
+01:08:54,879 --> 01:08:56,579
+for new contributors who are ready to go
+
+1837
+01:08:56,599 --> 01:08:59,859
+the next level and actually like dig
+into code and fix some semantics or
+
+1838
+01:08:59,859 --> 01:09:00,579
+something.
+
+1839
+01:09:00,579 --> 01:09:01,299
+Because
+
+1840
+01:09:01,299 --> 01:09:03,639
+it's not like, a lot of errors are
+
+1841
+01:09:03,639 --> 01:09:05,979
+at the rendered HTML end.
+
+1842
+01:09:06,009 --> 01:09:08,799
+They're not like under the hood,
+you've got some logic issue
+
+1843
+01:09:08,829 --> 01:09:10,869
+sometimes, but that's like
+
+1844
+01:09:10,869 --> 01:09:11,889
+super approachable,
+
+1845
+01:09:11,889 --> 01:09:13,429
+code-light.
+
+1846
+01:09:13,429 --> 01:09:14,969
+Yeah, I,
+
+1847
+01:09:14,999 --> 01:09:17,319
+definitely see a really important
+
+1848
+01:09:17,319 --> 01:09:19,059
+role for automated
+
+1849
+01:09:19,059 --> 01:09:20,799
+testing to play in open source.
+
+1850
+01:09:21,939 --> 01:09:22,029
+Tony Fast (he/they): So,
+
+1851
+01:09:22,079 --> 01:09:23,559
+so this this brings
+
+1852
+01:09:23,559 --> 01:09:26,109
+another challenge
+that we're seeing with Jupyter, which
+
+1853
+01:09:26,109 --> 01:09:27,369
+is like a lot of these guidelines.
+
+1854
+01:09:28,194 --> 01:09:30,354
+They're not for data
+visualization right. They're.
+
+1855
+01:09:30,644 --> 01:09:32,544
+They're not for web applications.
+
+1856
+01:09:32,544 --> 01:09:32,904
+Right.
+
+1857
+01:09:33,114 --> 01:09:35,124
+And we don't have a
+normal website, you know?
+
+1858
+01:09:35,124 --> 01:09:39,804
+So sometimes where we feel like
+we're in uncharted territory.
+
+1859
+01:09:40,194 --> 01:09:40,434
+Yes.
+
+1860
+01:09:40,434 --> 01:09:41,994
+WCAG does continue to grow.
+
+1861
+01:09:42,264 --> 01:09:45,054
+Hey, we get new color
+contrast rules in a couple of
+
+1862
+01:09:45,054 --> 01:09:45,964
+years.
+
+1863
+01:09:45,964 --> 01:09:46,874
+Right.
+
+1864
+01:09:46,874 --> 01:09:47,784
+Yeah,
+
+1865
+01:09:47,784 --> 01:09:50,094
+Tony Fast (he/they): in the short term,
+we might actually even have to start
+
+1866
+01:09:50,094 --> 01:09:54,984
+going through, maybe even working a
+little bit closer with Chartability and
+
+1867
+01:09:54,984 --> 01:09:56,544
+thinking about this data experience.
+
+1868
+01:09:56,544 --> 01:09:56,784
+Right.
+
+1869
+01:09:56,784 --> 01:10:00,624
+Because it really be like, if
+you're generating data, right.
+
+1870
+01:10:00,624 --> 01:10:04,104
+Like if you walk into Jupyter and you're
+like, I'm going to plot something, it's a
+
+1871
+01:10:04,104 --> 01:10:05,784
+data experience that you haven't made yet.
+
+1872
+01:10:05,814 --> 01:10:06,084
+Right.
+
+1873
+01:10:06,084 --> 01:10:09,444
+And now you have to figure out
+that whole path and journey to get
+
+1874
+01:10:09,444 --> 01:10:09,864
+there.
+
+1875
+01:10:09,864 --> 01:10:11,124
+And yeah, it's
+
+1876
+01:10:11,124 --> 01:10:12,024
+Tony Fast (he/they): an
+interesting challenge.
+
+1877
+01:10:12,684 --> 01:10:14,784
+Isabela Presedo-Floyd (she/her): Let alone
+can you get in the notebook in the first place.
+
+1878
+01:10:14,784 --> 01:10:15,144
+Like, I
+
+1879
+01:10:15,144 --> 01:10:16,464
+mean, you assumed that that
+
+1880
+01:10:16,464 --> 01:10:17,184
+was possible,
+
+1881
+01:10:17,184 --> 01:10:17,544
+Tony,
+
+1882
+01:10:17,544 --> 01:10:18,744
+that's not always the case.
+
+1883
+01:10:19,404 --> 01:10:19,434
+Frank Elavsky (he/him): I
+
+1884
+01:10:19,444 --> 01:10:21,984
+definitely found when I dug
+
+1885
+01:10:21,984 --> 01:10:23,604
+under the hood, one of the first things 
+I looked at was.
+
+1886
+01:10:24,819 --> 01:10:28,749
+I think it was like selecting Python or
+Python three, there was like a row of
+
+1887
+01:10:28,749 --> 01:10:31,269
+square looking buttons and they are divs.
+
+1888
+01:10:31,299 --> 01:10:32,169
+They are not buttons.
+
+1889
+01:10:33,369 --> 01:10:36,129
+And they had like a tab index on
+them and I'm like, Hmm, well, that's
+
+1890
+01:10:36,489 --> 01:10:39,009
+just change that to a button you're
+already more accessible, but yeah.
+
+1891
+01:10:39,039 --> 01:10:41,199
+There's lots of little
+opportunities everywhere.
+
+1892
+01:10:41,589 --> 01:10:41,859
+Somebody.
+
+1893
+01:10:42,099 --> 01:10:42,249
+Tony Fast (he/they): Yeah.
+
+1894
+01:10:42,249 --> 01:10:45,489
+But wait, till you hear about the
+head and keyboard manager underneath
+
+1895
+01:10:45,489 --> 01:10:47,049
+of the whole thing. Isabela Presedo-Floyd (she/her): 
+I don't think we have,
+
+1896
+01:10:50,739 --> 01:10:52,119
+there are some short, there are some
+
+1897
+01:10:52,119 --> 01:10:53,713
+small wins.
+
+1898
+01:10:53,713 --> 01:10:54,509
+And,
+
+1899
+01:10:54,519 --> 01:10:55,629
+Tony Fast (he/they): you know,
+one of the things that you
+
+1900
+01:10:55,629 --> 01:10:57,159
+mentioned was making the problems smaller.
+
+1901
+01:10:58,209 --> 01:11:02,229
+The cool thing about Jupyter is that it's
+evolved into this pluggable ecosystem.
+
+1902
+01:11:02,259 --> 01:11:04,079
+Everything's an extension, right?
+
+1903
+01:11:04,079 --> 01:11:04,389
+Right.
+
+1904
+01:11:04,629 --> 01:11:09,629
+So now we're able to focus on a more
+paired down version of the newest Jupyter,
+
+1905
+01:11:09,629 --> 01:11:11,019
+which is just the notebook experience.
+
+1906
+01:11:11,019 --> 01:11:11,229
+Right.
+
+1907
+01:11:11,349 --> 01:11:14,869
+You can actually take the same components
+that we're building in JupyterLab,
+
+1908
+01:11:15,639 --> 01:11:19,869
+improve JupyterLab's, accessibility, and
+a simpler experience at the same time.
+
+1909
+01:11:20,049 --> 01:11:24,009
+So we're starting to run into like the
+super modular components and access
+
+1910
+01:11:24,039 --> 01:11:26,499
+they're already internationalized, right?
+
+1911
+01:11:26,739 --> 01:11:30,399
+So we have multiple languages and
+coverage and multiple languages.
+
+1912
+01:11:30,609 --> 01:11:36,189
+So now we have to go and do a
+multi-lingual alt text and we have to
+
+1913
+01:11:36,189 --> 01:11:40,479
+start making sure that this experience
+is inclusive across nationalities too.
+
+1914
+01:11:42,339 --> 01:11:44,429
+Frank Elavsky (he/him):  Yeah, I, I wanted
+
+1915
+01:11:44,429 --> 01:11:44,759
+to say
+
+1916
+01:11:44,759 --> 01:11:46,859
+that on.
+
+1917
+01:11:46,859 --> 01:11:48,959
+So yeah,
+
+1918
+01:11:48,959 --> 01:11:50,429
+that brings up a bunch of thoughts that
+
+1919
+01:11:50,429 --> 01:11:53,039
+I have, but also other thoughts.
+
+1920
+01:11:53,399 --> 01:11:55,129
+Oh, are we at time or.
+
+1921
+01:11:56,064 --> 01:11:59,004
+I want to be respectful of everybody
+here actually, before I keep
+
+1922
+01:11:59,004 --> 01:12:01,344
+talking, what were we going to?
+
+1923
+01:12:01,344 --> 01:12:02,064
+45,000.
+
+1924
+01:12:03,024 --> 01:12:03,474
+Tony Fast (he/they): We're good.
+
+1925
+01:12:03,534 --> 01:12:06,864
+Let's just, let's, let's continue
+a conversation as long as possible,
+
+1926
+01:12:07,194 --> 01:12:12,234
+or as long as you're up until like
+about 10 or so, or the hour up into
+
+1927
+01:12:12,234 --> 01:12:12,939
+the hour.
+
+1928
+01:12:12,939 --> 01:12:13,644
+, and then
+
+1929
+01:12:13,644 --> 01:12:16,884
+Tony Fast (he/they): we'll switch into
+the breakout rooms and just spend the rest
+
+1930
+01:12:16,884 --> 01:12:18,354
+of the time talking with the audience.
+
+1931
+01:12:18,594 --> 01:12:18,984
+Frank Elavsky (he/him): Yay.
+
+1932
+01:12:19,014 --> 01:12:19,644
+Okay, cool.
+
+1933
+01:12:19,644 --> 01:12:20,544
+So I want him to
+
+1934
+01:12:20,544 --> 01:12:22,104
+say that first off,
+
+1935
+01:12:22,104 --> 01:12:25,854
+I love that both of you, Tony and Gabriel 
+have used
+
+1936
+01:12:25,854 --> 01:12:30,534
+the phrase uncharted territory because
+I it's very corny and I love it so much
+
+1937
+01:12:30,534 --> 01:12:31,674
+because that's where we're at, right?
+
+1938
+01:12:31,674 --> 01:12:35,424
+Like where, when you get into
+accessible data experiences, it's
+
+1939
+01:12:35,424 --> 01:12:37,644
+like it's uncharted space, right.
+
+1940
+01:12:38,124 --> 01:12:39,564
+In both, both senses of
+
+1941
+01:12:39,564 --> 01:12:40,428
+the word.
+
+1942
+And on the
+
+1943
+01:12:41,724 --> 01:12:43,194
+note about what
+
+1944
+01:12:43,194 --> 01:12:46,854
+keg and I, I really,
+
+1945
+01:12:46,854 --> 01:12:49,074
+really, really hope to frame standards in
+
+1946
+01:12:49,074 --> 01:12:51,834
+the right way to folks, because
+for me, this was difficult.
+
+1947
+01:12:53,034 --> 01:12:57,384
+As, as a way of thinking about what
+standards are for, I didn't really
+
+1948
+01:12:57,384 --> 01:12:59,124
+realize it at first, but standards are a
+
+1949
+01:12:59,124 --> 01:13:01,834
+political document. Standards
+
+1950
+01:13:01,884 --> 01:13:05,934
+like, and that shapes how we should approach 
+them, right.
+
+1951
+01:13:06,114 --> 01:13:07,434
+Standards are developed.
+
+1952
+01:13:07,464 --> 01:13:12,774
+They are developed and adopted with
+like political bodies influencing them.
+
+1953
+01:13:12,804 --> 01:13:13,164
+Right?
+
+1954
+01:13:13,434 --> 01:13:17,124
+So like the only reason standards
+got adopted is because I think
+
+1955
+01:13:17,124 --> 01:13:18,354
+there was early negotiations.
+
+1956
+01:13:18,354 --> 01:13:22,014
+I think Japan really did a lot
+of pushback against the U.S.
+
+1957
+01:13:22,014 --> 01:13:24,234
+And then there were some
+European players involved.
+
+1958
+01:13:24,624 --> 01:13:29,184
+And so it became, standards are a
+body of consensus before they are an
+
+1959
+01:13:29,184 --> 01:13:31,554
+effective way of building accessibility.
+
+1960
+01:13:31,554 --> 01:13:31,884
+Right?
+
+1961
+01:13:32,434 --> 01:13:34,584
+Like the number one thing
+
+1962
+01:13:34,584 --> 01:13:36,654
+you need to keep in mind is that standards
+
+1963
+01:13:36,684 --> 01:13:41,994
+will never be fully sufficient
+for creating accessible stuff.
+
+1964
+01:13:42,264 --> 01:13:46,964
+It is simply a very good starting
+point to bring people together for.
+
+1965
+01:13:47,709 --> 01:13:51,609
+Talking about the same thing, because
+otherwise it's just this nightmarish
+
+1966
+01:13:51,609 --> 01:13:55,119
+mass of like, we don't know how to
+measure things together and whatever.
+
+1967
+01:13:55,329 --> 01:13:58,449
+So as long as you keep that in
+mind about standards, that it's a
+
+1968
+01:13:58,449 --> 01:13:59,769
+political document built
+
+1969
+01:13:59,769 --> 01:13:59,889
+on
+
+1970
+01:13:59,889 --> 01:14:02,709
+consensus that you know,
+
+1971
+01:14:02,709 --> 01:14:05,619
+the real real quest for accessibility 
+is actually far
+
+1972
+01:14:05,619 --> 01:14:07,104
+beyond that,
+
+1973
+01:14:07,104 --> 01:14:08,589
+then you're
+
+1974
+01:14:08,589 --> 01:14:08,919
+good.
+
+1975
+01:14:09,099 --> 01:14:15,279
+And I also like to preface, like following
+standards or meeting compliance is an
+
+1976
+01:14:15,309 --> 01:14:17,409
+exercise in avoiding getting sued.
+
+1977
+01:14:17,979 --> 01:14:21,429
+It's not an exercise in providing
+a good accessible experience.
+
+1978
+01:14:21,729 --> 01:14:23,049
+It's just a one step along the way.
+
+1979
+01:14:23,049 --> 01:14:23,349
+Right.
+
+1980
+01:14:23,349 --> 01:14:29,109
+It's just like trying to mitigate your
+risk of like, you know, getting sued.
+
+1981
+01:14:29,139 --> 01:14:30,099
+That's really the goal
+
+1982
+01:14:30,099 --> 01:14:30,903
+it serves.
+
+1983
+01:14:30,903 --> 01:14:32,109
+And if you
+
+1984
+01:14:32,109 --> 01:14:34,719
+really want to do a good job of like actually
+
+1985
+01:14:34,719 --> 01:14:36,099
+making an inclusive community
+
+1986
+01:14:36,129 --> 01:14:37,629
+then yeah,
+
+1987
+01:14:37,629 --> 01:14:38,379
+you're
+
+1988
+01:14:38,379 --> 01:14:39,849
+going to have to go beyond standards.
+
+1989
+01:14:39,969 --> 01:14:40,149
+And I
+
+1990
+01:14:40,149 --> 01:14:43,299
+think that something
+
+1991
+01:14:43,299 --> 01:14:46,149
+that is woefully under-discussed.
+
+1992
+01:14:46,914 --> 01:14:51,894
+That is perhaps from my perspective,
+the most hopeful thing about Jupyter is
+
+1993
+01:14:51,894 --> 01:14:56,274
+what has already been mentioned, which
+is that it's, it's within a modular
+
+1994
+01:14:56,274 --> 01:14:56,978
+ecosystem.
+
+1995
+01:14:56,978 --> 01:15:01,905
+And back in the day 12, 10,
+
+1996
+01:15:01,905 --> 01:15:02,634
+12 years
+
+1997
+01:15:02,634 --> 01:15:04,524
+ago now some really
+
+1998
+01:15:04,524 --> 01:15:08,334
+great papers started to come out at 
+the intersection
+
+1999
+01:15:08,334 --> 01:15:11,694
+of disability studies and assistive
+technology where people started
+
+2000
+01:15:11,694 --> 01:15:15,354
+to talk about what does it mean to
+build communities where people can
+
+2001
+01:15:15,354 --> 01:15:20,724
+self-advocate or where
+people can, have
+
+2002
+01:15:20,724 --> 01:15:20,874
+the
+
+2003
+01:15:20,874 --> 01:15:24,084
+power to DIY their
+
+2004
+01:15:24,084 --> 01:15:25,734
+own accessibility in real life.
+
+2005
+01:15:25,734 --> 01:15:29,934
+We, people who are disabled,
+we will often modularize our
+
+2006
+01:15:29,934 --> 01:15:31,174
+own house.
+
+2007
+01:15:31,174 --> 01:15:31,794
+Especially
+
+2008
+01:15:31,794 --> 01:15:32,694
+if we have mobility
+
+2009
+01:15:32,694 --> 01:15:35,934
+or like you know a physical
+
+2010
+01:15:35,934 --> 01:15:39,054
+disability, we improve the world around 
+us, but our
+
+2011
+01:15:39,054 --> 01:15:41,574
+technical systems are really surprisingly
+
+2012
+01:15:41,574 --> 01:15:42,499
+inflexible.
+
+2013
+01:15:42,499 --> 01:15:44,349
+Which they
+
+2014
+01:15:44,349 --> 01:15:45,009
+shouldn't be, right.
+
+2015
+01:15:45,009 --> 01:15:48,909
+It actually should be the opposite
+digital and, and, and virtual
+
+2016
+01:15:49,329 --> 01:15:53,589
+environments should be extremely
+malleable to the user's needs.
+
+2017
+01:15:54,009 --> 01:15:59,679
+And we are seeing, I think I like
+to believe the beginning of this new
+
+2018
+01:15:59,679 --> 01:16:04,719
+era of, of a time when people can,
+and we see this in notebooks, right?
+
+2019
+01:16:04,719 --> 01:16:07,179
+You pick how you want to visualize
+you, pick how you want to manage
+
+2020
+01:16:07,179 --> 01:16:09,819
+your data, how you want to clean your
+data, how you want to get it from
+
+2021
+01:16:10,029 --> 01:16:12,279
+some wild server into your notebook.
+
+2022
+01:16:12,309 --> 01:16:17,229
+Like all of that stuff is a choose
+your own adventure type of experience.
+
+2023
+01:16:17,409 --> 01:16:23,649
+And this is like, this is the most
+interesting space for accessibility to
+
+2024
+01:16:23,649 --> 01:16:29,109
+arise, and it is more important in my
+opinion, to get out of people's way and to
+
+2025
+01:16:29,109 --> 01:16:35,199
+to break down your barriers in how you
+allow a modular community to do its thing
+
+2026
+01:16:35,499 --> 01:16:37,899
+than it is about trying to actually solve.
+
+2027
+01:16:38,919 --> 01:16:43,899
+Making everything high contrast, which
+you really should aspire to do is how can
+
+2028
+01:16:43,899 --> 01:16:47,829
+we enable people to build the coolest,
+possible shit that they can bring in.
+
+2029
+01:16:47,859 --> 01:16:48,189
+Right.
+
+2030
+01:16:48,369 --> 01:16:49,269
+That, that's
+
+2031
+01:16:49,269 --> 01:16:49,817
+interesting.
+
+2032
+01:16:49,817 --> 01:16:51,459
+And yeah, I'm
+
+2033
+01:16:51,459 --> 01:16:52,569
+just really hopeful for that.
+
+2034
+01:16:52,599 --> 01:16:52,869
+Sorry.
+
+2035
+01:16:52,869 --> 01:16:55,959
+I ranted for like five minutes on
+this, but it's very exciting to me.
+
+2036
+01:16:57,909 --> 01:16:58,659
+Tony Fast (he/they): That was great.
+
+2037
+01:16:58,659 --> 01:17:02,289
+I mean, like in a lot of ways,
+accessibility is one of the last
+
+2038
+01:17:02,289 --> 01:17:03,729
+things to fall in line with Jupyter.
+
+2039
+01:17:04,029 --> 01:17:07,689
+It's a project built on open
+standards and open protocols, right?
+
+2040
+01:17:07,959 --> 01:17:12,099
+And we've been adding and adding
+standards and protocols to the
+
+2041
+01:17:12,099 --> 01:17:13,659
+ecosystem for a really long time.
+
+2042
+01:17:13,899 --> 01:17:16,029
+And accessibility is one of the last ones,
+
+2043
+01:17:16,369 --> 01:17:17,549
+you know?
+
+2044
+01:17:17,549 --> 01:17:18,729
+And for
+
+2045
+01:17:18,729 --> 01:17:22,659
+me, I personally
+identify, like, I love telling
+
+2046
+01:17:22,659 --> 01:17:23,889
+stories with Jupyter notebooks.
+
+2047
+01:17:23,889 --> 01:17:27,459
+Like I implicitly have communication
+challenges as a neurodiverse person.
+
+2048
+01:17:28,139 --> 01:17:31,914
+Jupyter notebooks to me
+often appear as a cognitive
+
+2049
+01:17:31,914 --> 01:17:33,744
+accessibility tool like implicitly.
+
+2050
+01:17:33,744 --> 01:17:37,884
+I see the notebook as an accessibility
+tool for telling stories that I
+
+2051
+01:17:37,884 --> 01:17:39,384
+wouldn't have been able to communicate
+
+2052
+01:17:39,384 --> 01:17:40,494
+otherwise.
+
+2053
+01:17:40,494 --> 01:17:41,604
+And,
+
+2054
+01:17:41,604 --> 01:17:44,214
+yeah, it's fantastic for me, for those reasons.
+
+2055
+01:17:45,354 --> 01:17:46,104
+Frank Elavsky (he/him): Mars had something
+
+2056
+01:17:46,104 --> 01:17:51,008
+interesting to say can I jump on this?
+
+2057
+01:17:51,008 --> 01:17:51,621
+Okay.
+
+2058
+01:17:51,621 --> 01:17:52,234
+Okay,
+
+2059
+01:17:52,284 --> 01:17:54,384
+How do you advocate for cultural shift to
+
+2060
+01:17:54,384 --> 01:17:57,504
+accessibility in a decentralized
+space such as open source?
+
+2061
+01:17:57,654 --> 01:17:58,194
+Yes.
+
+2062
+01:17:58,224 --> 01:17:59,124
+This is a very good
+
+2063
+01:17:59,124 --> 01:17:59,734
+question.
+
+2064
+01:17:59,734 --> 01:18:00,954
+If, for
+
+2065
+01:18:00,954 --> 01:18:01,524
+example, needing
+
+2066
+01:18:01,524 --> 01:18:03,924
+approval from some
+
+2067
+01:18:03,924 --> 01:18:06,624
+other, for a grant to hire people 
+with disabilities,
+
+2068
+01:18:06,804 --> 01:18:09,594
+I feel like there's still some
+cultural resistance that technology is
+
+2069
+01:18:09,594 --> 01:18:12,324
+neutral or against,
+
+2070
+01:18:12,324 --> 01:18:12,684
+Oops, sorry,
+
+2071
+01:18:12,684 --> 01:18:14,444
+chat moved.
+
+2072
+01:18:14,444 --> 01:18:16,204
+Or against,
+
+2073
+01:18:16,254 --> 01:18:16,824
+oh, sorry.
+
+2074
+01:18:16,824 --> 01:18:17,634
+I lost my space.
+
+2075
+01:18:18,894 --> 01:18:20,724
+Or against bringing cultural war.
+
+2076
+01:18:20,754 --> 01:18:21,054
+Yeah.
+
+2077
+01:18:21,084 --> 01:18:23,484
+Centralized spaces, such as
+companies or governments can
+
+2078
+01:18:23,484 --> 01:18:27,954
+implement top-down policies, the
+de-centralized spaces by nature.
+
+2079
+01:18:27,954 --> 01:18:28,704
+Can't do that.
+
+2080
+01:18:29,004 --> 01:18:32,004
+And this is exactly why I'm
+glad you asked, because now
+
+2081
+01:18:32,004 --> 01:18:33,114
+I can just say it straight.
+
+2082
+01:18:33,654 --> 01:18:38,484
+This is why I brought in community
+organizing as a, just a little hint
+
+2083
+01:18:38,484 --> 01:18:39,744
+that I gave earlier in my talk.
+
+2084
+01:18:39,744 --> 01:18:42,114
+You all should, I don't
+want to add to the pressure.
+
+2085
+01:18:42,114 --> 01:18:44,034
+You're all going to be learning
+a lot of new things and doing new
+
+2086
+01:18:44,034 --> 01:18:48,414
+things, but your job is to become
+organizers in a decentralized space.
+
+2087
+01:18:48,414 --> 01:18:49,734
+How do you get a community together to
+
+2088
+01:18:49,734 --> 01:18:51,964
+fight a slumlord? You organize.
+
+2089
+01:18:52,014 --> 01:18:53,874
+and you can't rely on the police.
+
+2090
+01:18:53,874 --> 01:18:55,254
+You can't rely on the mayor or whatever.
+
+2091
+01:18:55,254 --> 01:18:56,244
+They might be helpful.
+
+2092
+01:18:56,424 --> 01:19:01,644
+Centralized systems are still helpful
+when you're in a decentralized like micro
+
+2093
+01:19:01,644 --> 01:19:02,994
+ecosystem, right?
+
+2094
+01:19:02,994 --> 01:19:04,344
+You can
+
+2095
+01:19:04,344 --> 01:19:06,774
+partner with these big things and 
+sometimes they
+
+2096
+01:19:06,774 --> 01:19:11,394
+can do things for you, muscle things
+around, but when you're on the ground
+
+2097
+01:19:11,574 --> 01:19:14,634
+and you're working in a pretty flat space
+
+2098
+01:19:14,944 --> 01:19:15,891
+organized.
+
+2099
+01:19:15,891 --> 01:19:17,784
+And yeah,
+
+2100
+01:19:17,784 --> 01:19:21,594
+organizers have a long and rich history of like
+
+2101
+01:19:21,594 --> 01:19:24,534
+doing some pretty cool things that
+I think open-source communities can
+
+2102
+01:19:24,534 --> 01:19:25,534
+learn from.
+
+2103
+Because
+
+2104
+01:19:26,034 --> 01:19:27,984
+one of, you know, for example, one of 
+the things you
+
+2105
+01:19:27,984 --> 01:19:29,994
+can do is you know,
+
+2106
+01:19:29,994 --> 01:19:32,064
+there's cultural resistance that technology is
+
+2107
+01:19:32,064 --> 01:19:32,884
+neutral.
+
+2108
+01:19:32,884 --> 01:19:34,524
+In organizing,
+
+2109
+01:19:34,524 --> 01:19:36,504
+you know, you generally will try
+
+2110
+01:19:36,504 --> 01:19:38,064
+to avoid philosophical debates.
+
+2111
+01:19:38,064 --> 01:19:38,364
+Right?
+
+2112
+01:19:38,394 --> 01:19:40,554
+You'll bring people together
+on like, we care about, I care
+
+2113
+01:19:40,554 --> 01:19:41,484
+about this, you care about this.
+
+2114
+01:19:41,484 --> 01:19:41,784
+Right.
+
+2115
+01:19:42,024 --> 01:19:42,564
+Okay, good.
+
+2116
+01:19:42,564 --> 01:19:45,474
+Now that we agree it
+let's do it like, and the
+
+2117
+01:19:45,474 --> 01:19:48,244
+debate is you know,
+
+2118
+01:19:48,294 --> 01:19:50,184
+whether intentionally or not, it's one of the
+
+2119
+01:19:50,184 --> 01:19:52,104
+things that, that really slows down.
+
+2120
+01:19:53,629 --> 01:19:57,889
+And being really action oriented
+in a decentralized system is
+
+2121
+01:19:57,889 --> 01:19:58,599
+important.
+
+2122
+01:19:58,599 --> 01:20:00,019
+And there's
+
+2123
+01:20:00,019 --> 01:20:02,869
+a space for philosophy and then 
+there's a space
+
+2124
+01:20:02,869 --> 01:20:06,709
+for deeper discussion and it needs to
+happen, but it needs to happen in what
+
+2125
+01:20:06,709 --> 01:20:11,209
+you might call a caucus or a breakout
+group of people who you've designated
+
+2126
+01:20:11,209 --> 01:20:14,359
+this as a really safe space to kind
+of figure out what we believe in.
+
+2127
+01:20:14,779 --> 01:20:17,689
+And then we go to the
+larger community with
+
+2128
+01:20:17,689 --> 01:20:18,973
+just action.
+
+2129
+01:20:18,973 --> 01:20:20,899
+And it takes
+
+2130
+01:20:20,899 --> 01:20:21,649
+a lot of work.
+
+2131
+01:20:21,769 --> 01:20:24,319
+I, I burnt out from community
+organizing years ago.
+
+2132
+01:20:24,499 --> 01:20:25,129
+That's why I'm not
+
+2133
+01:20:25,129 --> 01:20:26,083
+doing it.
+
+2134
+01:20:26,083 --> 01:20:27,989
+It is very tiring,
+
+2135
+01:20:27,989 --> 01:20:29,419
+but I learned
+
+2136
+01:20:29,419 --> 01:20:30,289
+a lot of lessons from
+
+2137
+01:20:30,289 --> 01:20:31,594
+that space.
+
+2138
+01:20:31,594 --> 01:20:32,247
+Okay,
+
+2139
+01:20:32,247 --> 01:20:32,899
+Mars,
+
+2140
+01:20:32,899 --> 01:20:34,069
+continuing uncomfortable
+
+2141
+01:20:34,069 --> 01:20:35,209
+talking about advocacy, justice
+
+2142
+01:20:35,209 --> 01:20:37,099
+access and humanities spaces.
+
+2143
+01:20:37,099 --> 01:20:37,489
+Yeah.
+
+2144
+01:20:37,519 --> 01:20:37,609
+I
+
+2145
+01:20:37,609 --> 01:20:38,532
+love the humanities.
+
+2146
+01:20:38,839 --> 01:20:38,839
+I
+
+2147
+01:20:38,839 --> 01:20:39,229
+worked in
+
+2148
+01:20:39,229 --> 01:20:40,369
+digital humanities before
+
+2149
+01:20:40,369 --> 01:20:42,139
+I got a job in tech.
+
+2150
+01:20:43,129 --> 01:20:43,399
+It's my
+
+2151
+01:20:43,399 --> 01:20:44,374
+undergrad stuff.
+
+2152
+01:20:44,862 --> 01:20:45,349
+I think
+
+2153
+01:20:45,349 --> 01:20:47,059
+in some ways, decentralized is also a benefit.
+
+2154
+01:20:48,444 --> 01:20:51,024
+Over centralized in
+terms of changing things.
+
+2155
+01:20:51,024 --> 01:20:51,954
+Centralization.
+
+2156
+01:20:52,014 --> 01:20:52,404
+Yeah.
+
+2157
+01:20:52,434 --> 01:20:53,544
+Lots of bureaucracy.
+
+2158
+01:20:53,664 --> 01:20:54,444
+You gotta be lucky.
+
+2159
+01:20:54,744 --> 01:20:55,704
+I was lucky at Visa.
+
+2160
+01:20:56,004 --> 01:20:56,784
+Just top down.
+
+2161
+01:20:57,084 --> 01:20:57,864
+Nobody fought me.
+
+2162
+01:20:58,224 --> 01:20:59,034
+I was like, let's do this.
+
+2163
+01:20:59,034 --> 01:20:59,724
+They're like, okay.
+
+2164
+01:20:59,964 --> 01:21:00,804
+It's part of the mission.
+
+2165
+01:21:00,954 --> 01:21:01,284
+Sure.
+
+2166
+01:21:01,314 --> 01:21:02,184
+Stamp, stamp, stamp,
+
+2167
+01:21:02,184 --> 01:21:03,654
+stamp go.
+
+2168
+01:21:03,654 --> 01:21:05,859
+That's very rare.
+
+2169
+01:21:05,859 --> 01:21:06,594
+Right.
+
+2170
+01:21:06,594 --> 01:21:08,064
+One centralized
+
+2171
+01:21:08,064 --> 01:21:09,324
+groups reached critical mass.
+
+2172
+01:21:09,354 --> 01:21:10,374
+It can be easier to push forward.
+
+2173
+01:21:10,374 --> 01:21:10,584
+Yeah.
+
+2174
+01:21:10,584 --> 01:21:11,634
+That's exactly what
+
+2175
+01:21:11,634 --> 01:21:12,494
+happened.
+
+2176
+01:21:12,494 --> 01:21:13,354
+Yeah.
+
+2177
+01:21:13,354 --> 01:21:14,214
+Okay.
+
+2178
+01:21:14,214 --> 01:21:15,384
+Larger discussion on this.
+
+2179
+01:21:15,594 --> 01:21:16,464
+We have three minutes.
+
+2180
+01:21:16,674 --> 01:21:18,114
+Anybody else have comments or anything?
+
+2181
+01:21:21,854 --> 01:21:23,744
+Isabela Presedo-Floyd (she/her): I do
+think Rose's comment is interesting
+
+2182
+01:21:23,744 --> 01:21:26,864
+because spending all my time in a
+de-centralized space does not feel
+
+2183
+01:21:26,864 --> 01:21:28,934
+like it is faster action oriented.
+
+2184
+01:21:29,234 --> 01:21:32,504
+Although I see why it could
+seem that way, but go ahead.
+
+2185
+01:21:34,814 --> 01:21:36,824
+Tony Fast (he/they): Sometimes the
+open source feels like a parade.
+
+2186
+01:21:37,869 --> 01:21:40,269
+And I'm on the side of it, right.
+
+2187
+01:21:40,329 --> 01:21:42,759
+Where it's like, there are only
+certain people who can float
+
+2188
+01:21:43,089 --> 01:21:44,649
+some of these things, you know?
+
+2189
+01:21:44,649 --> 01:21:49,329
+So yeah, it really is a cha I mean,
+it's not even just like a decentralized
+
+2190
+01:21:49,329 --> 01:21:53,019
+system, like in the Jupyter, we're
+starting to see larger organizations
+
+2191
+01:21:53,019 --> 01:21:54,429
+gather around the project too.
+
+2192
+01:21:54,729 --> 01:21:58,929
+So it's almost like a decentralized
+in pseudo centralized philosophies
+
+2193
+01:21:59,539 --> 01:22:00,396
+interfering.
+
+2194
+01:22:00,396 --> 01:22:01,253
+Right.
+
+2195
+01:22:01,253 --> 01:22:02,109
+And
+
+2196
+01:22:02,109 --> 01:22:03,729
+I mean, after hearing you talk to you, I just
+
+2197
+01:22:03,729 --> 01:22:05,049
+want to go start a coup somewhere.
+
+2198
+01:22:05,199 --> 01:22:08,769
+I don't even know where, but like, I'm
+just like to go organize something.
+
+2199
+01:22:09,129 --> 01:22:11,749
+Oh no, look, it's tear
+down a stop sign somewhere.
+
+2200
+01:22:13,989 --> 01:22:16,389
+Isabela Presedo-Floyd (she/her):
+Like, just I'd love if you turn that
+
+2201
+01:22:16,389 --> 01:22:21,789
+energy into people, getting some
+code in on, to be honest with you.
+
+2202
+01:22:23,529 --> 01:22:26,079
+Frank Elavsky (he/him): The thing
+that I think entices people about
+
+2203
+01:22:26,079 --> 01:22:30,579
+organizing is overthrowing systems of
+power, but it turns out that that's a
+
+2204
+01:22:30,579 --> 01:22:34,269
+very small piece, largely organizing
+you, go and knock on someone's door.
+
+2205
+01:22:34,269 --> 01:22:35,829
+You check out, you learn your neighbor's name.
+
+2206
+01:22:36,609 --> 01:22:37,449
+You learn what their care
+
+2207
+01:22:37,449 --> 01:22:38,799
+about.
+
+2208
+You connect
+
+2209
+01:22:40,149 --> 01:22:42,699
+with them and you're doing almost
+
+2210
+01:22:42,699 --> 01:22:43,839
+no work for a very long time.
+
+2211
+01:22:43,839 --> 01:22:44,919
+It doesn't feel like work, right.
+
+2212
+01:22:44,949 --> 01:22:45,639
+It's a different kind
+
+2213
+01:22:45,639 --> 01:22:46,329
+of work.
+
+2214
+01:22:46,329 --> 01:22:47,019
+And then
+
+2215
+01:22:47,019 --> 01:22:49,899
+eventually when you reach a critical mass 
+of people and
+
+2216
+01:22:49,899 --> 01:22:54,309
+you all know, they care about the same
+thing you do, then boom, you can do an
+
+2217
+01:22:54,309 --> 01:22:54,744
+action.
+
+2218
+01:22:54,744 --> 01:22:56,049
+And if you've
+
+2219
+01:22:56,049 --> 01:22:58,149
+strategized correctly, you can do pretty
+
+2220
+01:22:58,149 --> 01:23:00,239
+amazing things.
+
+2221
+01:23:00,239 --> 01:23:02,329
+So yeah,
+
+2222
+01:23:02,379 --> 01:23:02,919
+Frank Elavsky (he/him): let's go,
+
+2223
+01:23:03,669 --> 01:23:05,019
+Isabela Presedo-Floyd (she/her):
+I'm really enjoying the turn.
+
+2224
+01:23:05,019 --> 01:23:05,769
+This has taken.
+
+2225
+01:23:05,769 --> 01:23:06,069
+This is not where I expected to go today.
+
+2226
+01:23:13,809 --> 01:23:14,319
+Frank Elavsky (he/him): The best talk I've ever 
+given today for sure.
+
+2227
+01:23:14,679 --> 01:23:15,609
+I love it with this way.
+
+2228
+01:23:15,639 --> 01:23:15,909
+Tony Fast (he/him): Yeah.
+
+2229
+01:23:16,959 --> 01:23:19,539
+Mars' picket signs are
+going to be the best and I
+
+2230
+01:23:19,539 --> 01:23:20,409
+promise you they're going to be
+
+2231
+01:23:20,409 --> 01:23:22,749
+the most accessible, like on her blog posts.
+
+2232
+01:23:22,809 --> 01:23:25,989
+Like people are like, these are
+the most accessible images, so I
+
+2233
+01:23:25,989 --> 01:23:27,669
+can't wait to see how she protests.
+
+2234
+01:23:28,299 --> 01:23:28,899
+Frank Elavsky (he/him): That's awesome.
+
+2235
+01:23:28,929 --> 01:23:29,664
+Yeah.
+
+2236
+01:23:29,664 --> 01:23:34,074
+There's , there's a whole And I'd
+
+2237
+01:23:34,074 --> 01:23:35,874
+love to remain part of that discussion
+
+2238
+01:23:35,874 --> 01:23:39,534
+too, just to be an ear or a fly on
+the wall if you will, but there's
+
+2239
+01:23:39,534 --> 01:23:44,484
+a whole unexplored, and by unexplored,
+
+2240
+01:23:44,484 --> 01:23:45,984
+Frank Elavsky (he/him): I don't
+mean theoretically people would talk
+
+2241
+01:23:45,984 --> 01:23:49,974
+about this in papers and whatnot, but
+there are, there are problems when
+
+2242
+01:23:49,974 --> 01:23:54,384
+it comes to picketing or advocating
+in digital spaces, because there
+
+2243
+01:23:54,384 --> 01:23:56,964
+actually is a, a really
+
+2244
+01:23:56,964 --> 01:24:01,164
+immovable inflexible nature, 
+by which, by how
+
+2245
+01:24:01,164 --> 01:24:04,314
+we've designed, you go to a website,
+you can't like protest the website
+
+2246
+01:24:04,314 --> 01:24:05,304
+in the same way that you could.
+
+2247
+01:24:05,304 --> 01:24:09,084
+If you stand outside a building
+and say, stop, whatever.
+
+2248
+01:24:09,114 --> 01:24:09,474
+Right.
+
+2249
+01:24:09,864 --> 01:24:15,264
+And so we lose our physical
+embodied agency in digital spaces.
+
+2250
+01:24:15,264 --> 01:24:18,924
+And there's this really interesting
+thing that happens then in how we
+
+2251
+01:24:18,924 --> 01:24:20,164
+organize.
+
+2252
+01:24:20,164 --> 01:24:22,644
+Yeah, let's
+
+2253
+01:24:22,644 --> 01:24:22,914
+go.
+
+2254
+01:24:23,004 --> 01:24:23,394
+Okay.
+
+2255
+01:24:23,454 --> 01:24:25,104
+So anyway, I'm reading chat again.
+
+2256
+01:24:26,424 --> 01:24:26,694
+Yeah.
+
+2257
+01:24:26,724 --> 01:24:30,414
+I just hope to leave you all with a
+sense of passion, that there's tons of
+
+2258
+01:24:30,414 --> 01:24:32,184
+things that different people could do.
+
+2259
+01:24:32,244 --> 01:24:34,674
+If you're interested, you
+don't have to write code.
+
+2260
+01:24:34,704 --> 01:24:37,014
+There's a huge space for
+just connecting with people.
+
+2261
+01:24:37,494 --> 01:24:41,934
+You need to connect and organize and
+congeal around actions you want to take.
+
+2262
+01:24:42,234 --> 01:24:44,544
+And then, you know, you just
+want to write code and have
+
+2263
+01:24:44,544 --> 01:24:45,354
+somebody tell you what to do.
+
+2264
+01:24:45,354 --> 01:24:48,804
+And you kind of live in a little like
+dungeon box there's roles for those
+
+2265
+01:24:48,804 --> 01:24:49,974
+people too.
+
+2266
+01:24:49,974 --> 01:24:51,144
+Yeah, everybody
+
+2267
+01:24:51,144 --> 01:24:51,324
+has
+
+2268
+01:24:51,324 --> 01:24:52,404
+a space.
+
+2269
+01:24:52,404 --> 01:24:53,484
+And thanks.
+
+2270
+01:24:53,484 --> 01:24:54,114
+Thanks for having me.
+
+2271
+01:24:54,114 --> 01:24:57,504
+This was an enormous
+amount of fun, super glad.
+
+2272
+01:24:58,854 --> 01:24:59,574
+Tony Fast (he/they): That's awesome.
+
+2273
+01:24:59,604 --> 01:25:00,324
+Thank you for being
+
+2274
+01:25:00,324 --> 01:25:02,094
+here for that was
+
+2275
+01:25:02,094 --> 01:25:04,254
+Tony Fast (he/they): really informative
+and you know, we're going to have
+
+2276
+01:25:04,254 --> 01:25:05,634
+more of these events in the future.
+
+2277
+01:25:05,904 --> 01:25:06,744
+We'll let you know about
+
+2278
+01:25:06,744 --> 01:25:08,304
+them and maybe, you
+
+2279
+01:25:08,304 --> 01:25:11,274
+know, send out some invites to your
+
+2280
+01:25:11,274 --> 01:25:14,094
+colleagues and let's, let's start
+getting a crew together, right?
+
+2281
+01:25:14,094 --> 01:25:16,104
+Like organization happens
+with a massive amount
+
+2282
+01:25:16,104 --> 01:25:17,404
+of people.
+
+2283
+01:25:17,404 --> 01:25:18,054
+And,
+
+2284
+01:25:18,054 --> 01:25:19,554
+Yeah, it seems like we're all angry in the
+
+2285
+01:25:19,554 --> 01:25:20,914
+same direction, so let's keep.
+
+2286
+01:25:22,799 --> 01:25:23,189
+Isabela Presedo-Floyd (she/her): Right.
+
+2287
+01:25:23,279 --> 01:25:25,889
+And I would also say, thank you
+for, I know Tony said, thank
+
+2288
+01:25:25,889 --> 01:25:27,109
+you, but really thank you.
+
+2289
+01:25:27,119 --> 01:25:31,739
+I, I hope that, you know,
+you have very rare expertise.
+
+2290
+01:25:31,739 --> 01:25:36,299
+And so I was really happy that you were,
+that you were willing to come speak with
+
+2291
+01:25:36,299 --> 01:25:40,709
+us since there's not a lot of people
+that I've run into at least doing this.
+
+2292
+01:25:40,709 --> 01:25:43,979
+So I'm super grateful and many
+people in the community have asked
+
+2293
+01:25:43,979 --> 01:25:46,679
+for a lot of answers to a lot of
+questions you discussed today.
+
+2294
+01:25:46,679 --> 01:25:49,409
+So I think even people who
+can't be here, we'll be super
+
+2295
+01:25:49,409 --> 01:25:50,909
+happy to have these resources.
+
+2296
+01:25:51,149 --> 01:25:51,569
+Cool.
+
+2297
+01:25:51,899 --> 01:25:52,319
+Thank you.
+
+2298
+01:25:52,319 --> 01:25:52,919
+Thanks so much.
+
+2299
+01:25:53,559 --> 01:25:54,539
+Tony Fast (he/they):
+I also want to credit.
+
+2300
+01:25:55,794 --> 01:25:59,244
+He did very good crowd work today,
+which is hard to do in these digital spaces.
+
+2301
+01:26:00,714 --> 01:26:02,514
+Kudos to you, kudos to you.
+
+2302
+01:26:03,624 --> 01:26:03,774
+All
+
+2303
+01:26:03,774 --> 01:26:04,444
+right.
+
+2304
+01:26:04,444 --> 01:26:05,784
+Well Isabela,
+
+2305
+01:26:05,784 --> 01:26:06,804
+Do we need to share this?
+
+2306
+01:26:06,864 --> 01:26:09,504
+So Frank, where we can probably throw you
+
+2307
+01:26:09,504 --> 01:26:10,164
+off stage?
+
+2308
+01:26:10,494 --> 01:26:10,824
+I don't
+
+2309
+01:26:10,824 --> 01:26:11,754
+know if somebody can do that.
+
+2310
+01:26:12,474 --> 01:26:13,434
+Let me get the bucket.
+
+2311
+01:26:17,814 --> 01:26:18,144
+Isabela Presedo-Floyd (she/her): Oh my
+
+2312
+01:26:18,144 --> 01:26:19,692
+gosh, Tony.
+
+2313
+01:26:19,692 --> 01:26:22,014
+Tony Fast (he/they): So do we
+
+2314
+01:26:22,014 --> 01:26:24,314
+need to show our presentation now, Isabela?
+
+2315
+01:26:24,414 --> 01:26:24,834
+Isabela Presedo-Floyd (she/her): Yes.
+
+2316
+01:26:24,834 --> 01:26:26,094
+Let me get that back up for you.
+
+2317
+01:26:26,094 --> 01:26:27,834
+And you can talk if that's okay.
+
+2318
+01:26:28,524 --> 01:26:29,484
+Tony Fast (he/they): That was so good.
+
+2319
+01:26:30,054 --> 01:26:31,554
+I was I'm so happy.
+
+2320
+01:26:31,554 --> 01:26:32,814
+We finally got to see that
+
+2321
+01:26:33,864 --> 01:26:36,024
+Isabela Presedo-Floyd (she/her):
+I have been waiting anxiously.
+
+2322
+01:26:36,024 --> 01:26:36,624
+Okay.
+
+2323
+01:26:36,654 --> 01:26:38,394
+Sharing in tire.
+
+2324
+01:26:38,604 --> 01:26:40,374
+It's going to be a moment of awkward.
+
+2325
+01:26:40,374 --> 01:26:42,204
+And then a moment of here we are.
+
+2326
+01:26:44,394 --> 01:26:45,294
+I had it for me.
+
+2327
+01:26:45,294 --> 01:26:47,184
+So I remembered once you stop.
+
+2328
+01:26:47,754 --> 01:26:48,744
+Tony Fast (he/they): Oh, nice.
+
+2329
+01:26:48,774 --> 01:26:49,352
+Nice.
+
+2330
+01:26:49,352 --> 01:26:51,084
+So let's see
+
+2331
+01:26:51,084 --> 01:26:53,544
+Tony Fast (he/they): how many
+folks are hanging around here?
+
+2332
+01:26:53,544 --> 01:26:54,504
+We had 10 folks.
+
+2333
+01:26:54,924 --> 01:26:58,584
+Would we think we just do like one
+breakout room or two breakout rooms?
+
+2334
+01:26:59,724 --> 01:27:01,254
+Isabela Presedo-Floyd (she/her):
+It depends if you want
+
+2335
+01:27:01,254 --> 01:27:02,154
+everyone to talk to you today.
+
+2336
+01:27:02,174 --> 01:27:05,634
+I think 10, 10 could be a lot of
+people to talk over each other.
+
+2337
+01:27:05,634 --> 01:27:07,134
+So maybe we should just do two.
+
+2338
+01:27:07,134 --> 01:27:09,354
+So people have lots of
+opportunities to speak.
+
+2339
+01:27:09,624 --> 01:27:13,944
+If they want to speak, you don't have to,
+just to be clear, you don't have to speak.
+
+2340
+01:27:13,944 --> 01:27:16,704
+You don't have to turn camera on
+whatever it prompts you to do.
+
+2341
+01:27:17,424 --> 01:27:17,544
+Tony Fast (he/they): That's
+
+2342
+01:27:17,544 --> 01:27:18,324
+super cool.
+
+2343
+01:27:18,324 --> 01:27:20,274
+Can you do me a favor
+
+2344
+01:27:20,274 --> 01:27:20,754
+and share the
+
+2345
+01:27:20,754 --> 01:27:22,274
+notes document in there?
+
+2346
+01:27:22,274 --> 01:27:23,034
+Isabela Presedo-Floyd (she/her): When I'm
+
+2347
+01:27:23,034 --> 01:27:24,114
+not sharing my screen.
+
+2348
+01:27:24,864 --> 01:27:25,284
+Tony Fast (he/they): Okay.
+
+2349
+01:27:25,284 --> 01:27:25,494
+Yeah.
+
+2350
+01:27:25,524 --> 01:27:26,724
+Good point.
+
+2351
+01:27:26,724 --> 01:27:27,924
+What was
+
+2352
+01:27:27,924 --> 01:27:28,704
+Tony Fast (he/they): it
+we're going to talk about?
+
+2353
+01:27:29,664 --> 01:27:30,774
+Isabela Presedo-Floyd (she/her):
+Oh, that's the next slide.
+
+2354
+01:27:31,014 --> 01:27:32,004
+Okay, so we have two
+
+2355
+01:27:32,004 --> 01:27:32,477
+prompts.
+
+2356
+01:27:32,477 --> 01:27:33,894
+And of course,
+
+2357
+01:27:33,894 --> 01:27:35,484
+Isabela Presedo-Floyd (she/her): if you
+have other things you want to discuss,
+
+2358
+01:27:35,484 --> 01:27:37,464
+that's open too, but so we want to.
+
+2359
+01:27:38,244 --> 01:27:41,304
+How would you have done past
+work differently if you already
+
+2360
+01:27:41,304 --> 01:27:44,214
+knew whatever you learned today,
+that kind of introspection
+
+2361
+01:27:44,214 --> 01:27:46,314
+reflection, thinking
+
+2362
+01:27:46,314 --> 01:27:48,084
+about those choices can really help you figure
+
+2363
+01:27:48,084 --> 01:27:49,794
+out what you want to do in the future.
+
+2364
+01:27:50,424 --> 01:27:52,734
+And also just what new
+questions do you have?
+
+2365
+01:27:52,734 --> 01:27:53,964
+What more do you want to learn?
+
+2366
+01:27:54,054 --> 01:27:55,614
+I've always found it really helpful.
+
+2367
+01:27:55,614 --> 01:28:01,014
+Identifying what, you know, at least for
+me, I never stopped having more questions.
+
+2368
+01:28:01,044 --> 01:28:03,204
+So it's kind of like, what
+do I want to research next?
+
+2369
+01:28:03,204 --> 01:28:07,374
+Cause you may be in a room with someone
+who has an answer to that and we can
+
+2370
+01:28:07,374 --> 01:28:08,994
+already start connecting them together.
+
+2371
+01:28:09,384 --> 01:28:10,914
+And just so you know, once I share the
+
+2372
+01:28:10,914 --> 01:28:11,874
+notes document, these
+
+2373
+01:28:11,874 --> 01:28:13,704
+questions are listed in there as well.
+
+2374
+01:28:13,704 --> 01:28:17,514
+So you don't have to
+remember them going to one
+
+2375
+01:28:17,514 --> 01:28:18,519
+breakout rooms.
+
+2376
+01:28:18,519 --> 01:28:20,529
+Frederic had to go.
+
+2377
+01:28:20,529 --> 01:28:21,534
+Let's just
+
+2378
+01:28:21,534 --> 01:28:23,344
+Do, we're gonna Tania.
+
+2379
+01:28:23,364 --> 01:28:24,804
+We'll just start one breakout
+
+2380
+01:28:24,804 --> 01:28:25,457
+room.
+
+2381
+01:28:25,457 --> 01:28:27,414
+And , we'll all
+
+2382
+01:28:27,414 --> 01:28:29,674
+be here to
+answer any questions and we'll.
+
+2383
+01:28:30,474 --> 01:28:30,924
+Yeah, we'll
+
+2384
+01:28:30,924 --> 01:28:32,544
+share this document in
+
+2385
+01:28:32,544 --> 01:28:34,104
+that room and we'll just have a little
+
+2386
+01:28:34,104 --> 01:28:34,584
+discussion.
+
+2387
+01:28:34,584 --> 01:28:35,544
+These are
+
+2388
+01:28:35,544 --> 01:28:36,084
+Tony Fast (he/they): your prompts.
+
+2389
+01:28:36,084 --> 01:28:36,294
+Feel
+
+2390
+01:28:36,294 --> 01:28:38,278
+free to jump in with anything else
+
+2391
+01:28:38,278 --> 01:28:38,844
+and let's
+
+2392
+01:28:38,844 --> 01:28:39,804
+just start that session now.
+Text: breakout discussions are not recorded
+
+2393
+01:28:47,334 --> 01:28:47,754
+Tony Fast (he/they): All right.
+
+2394
+01:28:49,074 --> 01:28:49,884
+Well, we'll have
+
+2395
+01:28:49,884 --> 01:28:50,754
+to do the summarization
+
+2396
+01:28:50,754 --> 01:28:53,844
+part because we're
+all in the same room and thank you all
+
+2397
+01:28:53,844 --> 01:28:56,514
+for participating and bringing your
+
+2398
+01:28:56,514 --> 01:29:00,014
+experiences to the discussion.
+
+2399
+01:29:00,014 --> 01:29:01,764
+We have
+
+2400
+01:29:01,764 --> 01:29:01,854
+a
+
+2401
+01:29:01,854 --> 01:29:02,499
+feedback form,
+
+2402
+01:29:02,499 --> 01:29:03,144
+we'll drop
+
+2403
+01:29:03,144 --> 01:29:04,224
+a link in the chat.
+
+2404
+01:29:04,254 --> 01:29:05,304
+We'd really love some
+
+2405
+01:29:05,304 --> 01:29:05,994
+feedback.
+
+2406
+01:29:05,994 --> 01:29:06,684
+There's
+
+2407
+01:29:06,684 --> 01:29:09,354
+a new platform for us and where we
+
+2408
+01:29:09,354 --> 01:29:10,704
+have three more of these events
+
+2409
+01:29:10,704 --> 01:29:12,054
+scheduled through
+
+2410
+01:29:12,054 --> 01:29:12,744
+March.
+
+2411
+01:29:12,984 --> 01:29:15,294
+So we want to continue to
+improve the experience for
+
+2412
+01:29:15,294 --> 01:29:15,789
+everybody.
+
+2413
+01:29:15,789 --> 01:29:17,274
+So please fill
+
+2414
+01:29:17,274 --> 01:29:17,484
+out the
+
+2415
+01:29:17,484 --> 01:29:19,329
+feedback survey.
+
+2416
+01:29:19,329 --> 01:29:21,174
+What's after
+
+2417
+01:29:21,174 --> 01:29:21,504
+Tony Fast (he/they): that one.
+
+2418
+01:29:24,034 --> 01:29:24,394
+I love
+
+2419
+01:29:24,394 --> 01:29:25,579
+these slides.
+
+2420
+01:29:25,579 --> 01:29:26,172
+Yup.
+
+2421
+01:29:26,172 --> 01:29:26,764
+So
+
+2422
+01:29:26,764 --> 01:29:29,734
+next weekend, we're
+going to be writing some more image
+
+2423
+01:29:29,734 --> 01:29:31,624
+descriptions for docentation.
+
+2424
+01:29:31,624 --> 01:29:33,424
+Tony Fast (he/they): We're going to
+be running some low code exercises.
+
+2425
+01:29:33,694 --> 01:29:35,974
+We'll have some experts around
+thinking about some harder
+
+2426
+01:29:35,974 --> 01:29:39,094
+problems in the technology
+
+2427
+01:29:39,094 --> 01:29:39,574
+stack for
+
+2428
+01:29:39,574 --> 01:29:40,002
+Jupyter.
+
+2429
+01:29:40,002 --> 01:29:41,284
+So the next
+
+2430
+01:29:41,284 --> 01:29:44,164
+week is largely going
+to be a breakout room, more of a working
+
+2431
+01:29:44,164 --> 01:29:44,784
+session.
+
+2432
+01:29:44,784 --> 01:29:46,024
+And then
+
+2433
+01:29:46,024 --> 01:29:48,814
+in March, we're going to have another 
+pair of events.
+
+2434
+01:29:48,994 --> 01:29:50,254
+We'll have another featured
+
+2435
+01:29:50,254 --> 01:29:50,942
+speaker.
+
+2436
+01:29:50,942 --> 01:29:53,004
+We haven't,
+
+2437
+01:29:53,004 --> 01:29:54,564
+I haven't heard anything about that yet.
+
+2438
+01:29:54,774 --> 01:29:56,874
+We have another future speaker
+and then we'll have another set
+
+2439
+01:29:56,904 --> 01:29:58,494
+of breakout rooms and workshops
+
+2440
+01:29:58,524 --> 01:29:59,157
+again.
+
+2441
+01:29:59,157 --> 01:30:02,954
+So in the meantime we have
+
+2442
+01:30:03,004 --> 01:30:04,404
+Jupyter accessibility
+
+2443
+01:30:04,404 --> 01:30:05,198
+meetings.
+
+2444
+01:30:05,198 --> 01:30:06,784
+every other Wednesday
+
+2445
+01:30:06,834 --> 01:30:08,724
+you can find them on the Jupyter community
+
+2446
+01:30:08,724 --> 01:30:09,264
+calendar.
+
+2447
+01:30:09,264 --> 01:30:10,344
+So that's
+
+2448
+01:30:10,344 --> 01:30:11,784
+another place for us to stay
+
+2449
+01:30:11,784 --> 01:30:12,204
+involved.
+
+2450
+01:30:12,204 --> 01:30:13,464
+If you want
+
+2451
+01:30:13,464 --> 01:30:15,594
+Tony Fast (he/they): to learn more
+about what the community's doing, if you
+
+2452
+01:30:15,594 --> 01:30:17,574
+want to possibly probably see some data
+
+2453
+01:30:17,574 --> 01:30:19,314
+visualizations we've got
+
+2454
+01:30:19,314 --> 01:30:20,124
+the Jupyter monthly
+
+2455
+01:30:20,124 --> 01:30:21,834
+community call which is
+
+2456
+01:30:21,834 --> 01:30:22,824
+happening, I believe in
+
+2457
+01:30:22,824 --> 01:30:24,009
+two weeks.
+
+2458
+01:30:24,009 --> 01:30:25,194
+Our accessibility
+
+2459
+01:30:25,194 --> 01:30:26,474
+work happens on the Jupyter
+
+2460
+01:30:26,474 --> 01:30:30,321
+Discourse and the Jupyter
+accessibility repository.
+
+2461
+01:30:30,321 --> 01:30:32,244
+And please join
+
+2462
+01:30:32,244 --> 01:30:34,714
+us at a Jupyter Lab, bi-weekly Jupyter
+
+2463
+01:30:34,734 --> 01:30:36,474
+lab, accessibility meeting sometimes
+
+2464
+01:30:36,574 --> 01:30:37,883
+some time.
+
+2465
+01:30:37,883 --> 01:30:41,154
+Yeah, so that's the ongoing
+
+2466
+01:30:41,154 --> 01:30:42,804
+community stuff and things you can act on.
+
+2467
+01:30:42,804 --> 01:30:43,644
+We'd love to see some of your
+
+2468
+01:30:43,644 --> 01:30:44,784
+faces again.
+
+2469
+01:30:44,784 --> 01:30:45,924
+Is there
+
+2470
+01:30:45,924 --> 01:30:46,464
+another site.
+
+2471
+01:30:54,464 --> 01:30:55,184
+And thank you.
+
+2472
+01:30:56,744 --> 01:30:59,534
+Thank you to me, Tony.
+
+2473
+01:30:59,654 --> 01:31:03,404
+Now, thank you to Isabela and
+Tania for doing all of the
+
+2474
+01:31:03,404 --> 01:31:03,904
+legwork.
+
+2475
+01:31:03,904 --> 01:31:04,904
+This was
+
+2476
+01:31:04,904 --> 01:31:05,924
+a long event to get
+
+2477
+01:31:05,924 --> 01:31:06,974
+together.
+
+2478
+01:31:06,974 --> 01:31:08,024
+We,
+
+2479
+01:31:08,024 --> 01:31:09,434
+Tony Fast (he/they): thought there
+were a lot of important features
+
+2480
+01:31:09,434 --> 01:31:10,604
+that we needed to have with it.
+
+2481
+01:31:10,814 --> 01:31:11,504
+So thank God.
+
+2482
+01:31:11,564 --> 01:31:12,224
+Thank goodness.
+
+2483
+01:31:12,224 --> 01:31:12,374
+They're
+
+2484
+01:31:12,374 --> 01:31:13,214
+happening now.
+
+2485
+01:31:13,214 --> 01:31:14,054
+We have
+
+2486
+01:31:14,054 --> 01:31:16,004
+to thank Bloomberg and AWS
+
+2487
+01:31:16,004 --> 01:31:17,864
+and NumFocus for
+
+2488
+01:31:17,864 --> 01:31:18,614
+the support on
+
+2489
+01:31:18,614 --> 01:31:19,394
+these events.
+
+2490
+01:31:19,394 --> 01:31:20,174
+We have
+
+2491
+01:31:20,174 --> 01:31:21,614
+to thank the Jupyter community building
+
+2492
+01:31:21,614 --> 01:31:27,786
+team Ana and Christine,
+,our sponsors which with
+
+2493
+01:31:27,786 --> 01:31:30,872
+Bloomberg, NumFocus, AWS.
+
+2494
+01:31:30,872 --> 01:31:32,414
+And thanks
+
+2495
+01:31:32,414 --> 01:31:34,424
+to the team that wrote the event
+
+2496
+01:31:34,424 --> 01:31:34,844
+proposal.
+
+2497
+01:31:34,844 --> 01:31:35,684
+This was
+
+2498
+01:31:35,684 --> 01:31:39,284
+Actually originally
+going to be run by some, by some folks
+
+2499
+01:31:39,344 --> 01:31:41,234
+and it was accepted before the pandemic.
+
+2500
+01:31:41,504 --> 01:31:42,794
+So some of the delay in getting
+
+2501
+01:31:42,794 --> 01:31:45,063
+here was re-
+
+2502
+01:31:45,063 --> 01:31:45,819
+thinking
+
+2503
+01:31:45,819 --> 01:31:47,589
+about the workshop
+differently so that we could do it
+
+2504
+01:31:47,589 --> 01:31:48,489
+digitally.
+
+2505
+01:31:48,489 --> 01:31:50,289
+And last
+
+2506
+01:31:50,289 --> 01:31:51,099
+Tony Fast (he/they): but not least, thanks
+
+2507
+01:31:51,099 --> 01:31:53,319
+to Frank, for
+
+2508
+01:31:53,319 --> 01:31:53,619
+being
+
+2509
+01:31:53,619 --> 01:31:55,209
+here and good luck
+
+2510
+01:31:55,209 --> 01:31:56,319
+with your PhD, man.
+
+2511
+01:31:56,319 --> 01:31:57,549
+You're doing really great work.
+
+2512
+01:31:57,549 --> 01:31:59,709
+It's exciting to read
+your future research.
+
