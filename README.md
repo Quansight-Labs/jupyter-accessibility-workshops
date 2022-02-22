@@ -1,6 +1,8 @@
 # jupyter-accessibility-workshops
 Where Jupyter accessibility events are dreamed up, planned, and happening.
-## Next event: **January 15** - Jupyter Accessibility Workshops with [Frank Elvasky](https://chartability.fizz.studio/): How to build inclusive data representations ([in your timezone]()).
+## Next event: **March 12** - Jupyter Accessibility Workshops with [Eric Bailey](https://ericwbailey.design/): Intro to accesibility and inclusive design ([check the Jupyter community calendar](https://docs.jupyter.org/en/latest/community/content-community.html#jupyter-community-meetings)).
+
+[Sign up for the March 12 event!](https://hopin.com/events/jupyter-accessibility-workshop-intro-to-accesibility-and-inclusive-design-with-eric-bailey)
 
 ## Upcoming events 
 
@@ -8,21 +10,29 @@ Where Jupyter accessibility events are dreamed up, planned, and happening.
 
 These events are open to the public. No prior accessibility knowledge is needed, and newcomers are welcome. Visit each event's agenda for more information.
 
-### Part 1: January 2022
+### Part 1: January 2022 
 
 January 15: Jupyter Accessibility Workshops with [Frank Elvasky](https://chartability.fizz.studio/): How to build inclusive data representations
 
 - [Event agenda](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-15/group_agenda.md)
-- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSf0IgPYgf0di8eM6HP1qbqduPTeGEFadXZRSIDYEXlEOgA_bw/viewform?usp=sf_link)
+- [Event resources](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-15/README.md)
 
 January 22: Jupyter Accessibility Workshops: Writing image descriptions for documentation
 
 - [Event agenda](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-22/mentored_sprint_agenda.md)
-- [Sign up](https://docs.google.com/forms/d/e/1FAIpQLSfyB3NAbNcYLIQX8ODI5m86R4hnt0T5z2HP-rNLMUmbRciyZg/viewform?usp=sf_link)
+- [Event resources] (pending)
 
 ### Part 2: March 2022 
 
-Details to be announced after January events!
+March 12: Jupyter Accessibility Workshops with [Eric Bailey](https://ericwbailey.design/): Intro to accesibility and inclusive design
+
+- [Event agenda] (pending)
+- [Sign up](https://hopin.com/events/jupyter-accessibility-workshop-intro-to-accesibility-and-inclusive-design-with-eric-bailey)
+
+March 19: Jupyter Accessibility Workshops: Auditing in open source
+
+- [Event agenda] (pending)
+- [Sign up](https://hopin.com/events/jupyter-accessibility-workshop-auditing-in-open-source)
 
 ___
 
