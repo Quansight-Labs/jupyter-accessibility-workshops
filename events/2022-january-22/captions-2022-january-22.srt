@@ -1,0 +1,2348 @@
+1
+00:00:00,000 --> 00:00:00,840
+Tony Fast (he/they): That's fun.
+
+2
+00:00:01,560 --> 00:00:02,160
+Oh man.
+
+3
+00:00:02,190 --> 00:00:06,120
+I was just about to tell you about my
+recent accessibility, recent accessibility
+
+4
+00:00:06,600 --> 00:00:14,070
+problem that I had myself, my wife,
+she got a delicious box of macaroons.
+
+5
+00:00:15,120 --> 00:00:17,490
+See, they came in a lot of colors.
+
+6
+00:00:17,790 --> 00:00:20,070
+Now I keep calling this again.
+
+7
+00:00:20,835 --> 00:00:24,495
+Because I have to look at the color
+sheet and guess which color is which and
+
+8
+00:00:24,495 --> 00:00:26,925
+what flavor it is, but I'm colorblind.
+
+9
+00:00:27,645 --> 00:00:30,675
+So I think I keep accidentally
+eating the ones that my wife wants
+
+10
+00:00:30,675 --> 00:00:34,755
+to eat, just because I don't know
+what colors are, but it's a fun game.
+
+11
+00:00:34,755 --> 00:00:35,325
+Nonetheless.
+
+12
+00:00:35,325 --> 00:00:39,285
+I wish there were some more tech, if
+they have more sprinkles on them, I'd be
+
+13
+00:00:39,285 --> 00:00:40,905
+able to tell something a little bit more.
+
+14
+00:00:41,970 --> 00:00:42,390
+Isabela Presedo-Floyd (she/her): Right.
+
+15
+00:00:42,390 --> 00:00:44,670
+Or I wonder if there's something
+they could learn from like, right.
+
+16
+00:00:44,670 --> 00:00:50,820
+Don't some pies do like,  they have
+like different dough shapes on top too?
+
+17
+00:00:51,240 --> 00:00:53,070
+Like there's different things like that.
+
+18
+00:00:53,070 --> 00:00:57,090
+I wonder how that would work with
+that pastry, but yeah, that's a,
+
+19
+00:00:57,090 --> 00:01:01,470
+that's a really good,  example
+of an inaccessible experience.
+
+20
+00:01:02,654 --> 00:01:04,965
+Tony Fast (he/they): You know, if I was
+allergic to any of the things, it would be
+
+21
+00:01:04,965 --> 00:01:09,045
+really living life on the edge situation.
+
+22
+00:01:12,554 --> 00:01:13,185
+Oh my God.
+
+23
+00:01:13,185 --> 00:01:14,235
+It's the second event.
+
+24
+00:01:14,414 --> 00:01:15,195
+Oh, how cool.
+
+25
+00:01:15,255 --> 00:01:16,695
+I can't believe we got here.
+
+26
+00:01:18,104 --> 00:01:19,185
+Isabela Presedo-Floyd (she/her):
+Yeah, but we did.
+
+27
+00:01:19,185 --> 00:01:20,445
+And it's exciting.
+
+28
+00:01:20,475 --> 00:01:21,465
+I'm excited at least.
+
+29
+00:01:22,065 --> 00:01:22,215
+Tony Fast (he/they): Yeah.
+
+30
+00:01:22,215 --> 00:01:25,365
+We'll get started in what, like
+another minute or two,  let folks
+
+31
+00:01:25,365 --> 00:01:27,845
+roll in on their sleepy Saturday.
+
+32
+00:01:29,710 --> 00:01:34,869
+Yeah, it looks like we got a big
+crew already eight folks, and to
+
+33
+00:01:34,869 --> 00:01:38,470
+all the west coast people, God
+bless you for being up so early.
+
+34
+00:01:40,690 --> 00:01:42,910
+Isabela Presedo-Floyd (she/her): I
+always wonder what I'm never quite
+
+35
+00:01:42,910 --> 00:01:45,639
+sure what the threshold for early is.
+
+36
+00:01:45,639 --> 00:01:47,350
+Like, I feel like I know the extremes.
+
+37
+00:01:47,350 --> 00:01:50,289
+If someone said to me 4:00 AM,
+I would be like, that's early.
+
+38
+00:01:50,440 --> 00:01:53,619
+And if someone's at noon, I would
+be like, that's probably not
+
+39
+00:01:54,205 --> 00:01:57,445
+early anymore, because it's
+not technically morning, but in
+
+40
+00:01:57,445 --> 00:01:59,035
+between that, I'm not really sure
+
+41
+00:02:00,895 --> 00:02:03,955
+Tony Fast (he/they): Why don't we
+celebrate people like making it till noon?
+
+42
+00:02:04,375 --> 00:02:09,145
+Like nobody's never like making it
+the lunch break, you know, I think
+
+43
+00:02:09,145 --> 00:02:12,505
+we just need to start celebrating
+smaller wins as we go along.
+
+44
+00:02:14,160 --> 00:02:14,970
+Well, cool.
+
+45
+00:02:15,000 --> 00:02:15,870
+What do you say
+
+46
+00:02:15,870 --> 00:02:20,280
+We kick off that presentation
+and we get,  folks working
+
+47
+00:02:20,280 --> 00:02:23,190
+together and impacting open source?
+
+48
+00:02:24,180 --> 00:02:24,630
+Isabela Presedo-Floyd (she/her):
+Sounds good.
+
+49
+00:02:24,660 --> 00:02:27,990
+Do you want to introduce yourself
+quickly first though, right.
+
+50
+00:02:29,520 --> 00:02:32,490
+Tony Fast (he/they): Oh, I don't
+know how to do my own alt texts.
+
+51
+00:02:33,510 --> 00:02:35,160
+Hi, I'm Tony fast.
+
+52
+00:02:35,370 --> 00:02:35,990
+Isabela will
+
+53
+00:02:36,010 --> 00:02:38,370
+insert my alt text later on.
+
+54
+00:02:38,730 --> 00:02:42,330
+But  welcome to
+the accessibility matters.
+
+55
+00:02:42,840 --> 00:02:44,940
+I'll moderate, but this is Isabela's deal.
+
+56
+00:02:44,940 --> 00:02:46,890
+So I'm going to let her
+go and do the intro.
+
+57
+00:02:48,285 --> 00:02:48,674
+Isabela Presedo-Floyd (she/her): Yes.
+
+58
+00:02:48,674 --> 00:02:51,375
+That was a good one.
+
+59
+00:02:51,674 --> 00:02:53,385
+I'm Isabela Presedo-Floyd.
+
+60
+00:02:53,625 --> 00:02:55,394
+My pronouns are she/her.
+
+61
+00:02:55,725 --> 00:03:01,005
+And in terms of my alt text, or
+what I look like, I'm a Latina woman
+
+62
+00:03:01,364 --> 00:03:05,204
+who's wearing all kinds of pink
+and orange stripes today and has
+
+63
+00:03:05,234 --> 00:03:08,234
+untamable black curly hair.
+
+64
+00:03:08,475 --> 00:03:12,855
+Tony also has untamable hair
+except it's blonde and really cool,
+
+65
+00:03:12,855 --> 00:03:15,015
+like kind of a mohawk sometimes.
+
+66
+00:03:15,584 --> 00:03:16,245
+And yeah.
+
+67
+00:03:19,320 --> 00:03:20,790
+Tony Fast (he/they): I love
+that you think it's blonde.
+
+68
+00:03:21,209 --> 00:03:25,890
+It's different colors and it is
+anything else, but we'll go with it.
+
+69
+00:03:27,000 --> 00:03:30,149
+I think I'm going to one day, I
+want my alt texts to include silver fox.
+
+70
+00:03:31,425 --> 00:03:37,215
+Isabela Presedo-Floyd (she/her): Oh,
+no, that deserves a sip of tea.
+
+71
+00:03:37,245 --> 00:03:37,725
+Okay.
+
+72
+00:03:37,755 --> 00:03:42,645
+Well, welcome to our
+second workshop today.
+
+73
+00:03:42,645 --> 00:03:46,695
+We're going to be talking about
+writing image descriptions for
+
+74
+00:03:46,695 --> 00:03:51,405
+documentation also, depending on
+interest automated tests for ensuring
+
+75
+00:03:51,405 --> 00:03:55,395
+that things like image descriptions,
+which are very easy to test, are like
+
+76
+00:03:55,755 --> 00:03:57,645
+checked for when people are making PR.
+
+77
+00:03:58,195 --> 00:04:02,635
+And we're going to be taking action
+today and helping you contribute to
+
+78
+00:04:02,635 --> 00:04:04,375
+Jupyter projects to help this out.
+
+79
+00:04:04,375 --> 00:04:08,484
+So let's get started if
+this will work, please.
+
+80
+00:04:08,665 --> 00:04:08,964
+Okay.
+
+81
+00:04:08,964 --> 00:04:09,475
+There we go.
+
+82
+00:04:10,135 --> 00:04:11,214
+Tony Fast (he/they): It's
+definitely going to work.
+
+83
+00:04:11,214 --> 00:04:12,924
+We've run this event many times.
+
+84
+00:04:12,924 --> 00:04:14,424
+Isabela Presedo-Floyd (she/her):
+I have keyboard problems.
+
+85
+00:04:14,424 --> 00:04:15,295
+That's the problem.
+
+86
+00:04:15,295 --> 00:04:15,655
+Go on.
+
+87
+00:04:21,464 --> 00:04:22,905
+So should we add this presentation to the
+
+88
+00:04:23,849 --> 00:04:28,229
+stream is that what we should
+do if you want to, I'll give
+
+89
+00:04:28,229 --> 00:04:30,179
+people reminders real quick.
+
+90
+00:04:30,210 --> 00:04:33,780
+So first by attending this event, you are
+agreeing to follow the code of conduct.
+
+91
+00:04:33,840 --> 00:04:37,380
+You definitely clicked a box if
+you made it this far on the ticket
+
+92
+00:04:37,380 --> 00:04:38,940
+list, but that's just your reminder.
+
+93
+00:04:39,539 --> 00:04:41,609
+And also this event will be recorded.
+
+94
+00:04:41,640 --> 00:04:45,810
+It's already being reported and posted
+publicly, at least the main session parts.
+
+95
+00:04:45,840 --> 00:04:47,520
+We won't be doing the breakout rooms.
+
+96
+00:04:47,729 --> 00:04:48,900
+So that's just.
+
+97
+00:04:50,670 --> 00:04:51,630
+And yeah.
+
+98
+00:04:51,870 --> 00:04:54,990
+Tony, why don't you welcome people
+to your favorite planet in the solar system?
+
+99
+00:04:56,220 --> 00:04:57,330
+Tony Fast (he/they): Oh my God.
+
+100
+00:04:57,480 --> 00:04:59,370
+Welcome to planet Jupyter.
+
+101
+00:04:59,670 --> 00:05:02,220
+We're so happy to have
+you orbiting it today.
+
+102
+00:05:02,310 --> 00:05:06,570
+So oh man, we didn't set
+up our polls today, but we should
+
+103
+00:05:06,570 --> 00:05:11,280
+definitely get a poll going about
+how new folks are to,  Jupyter.
+
+104
+00:05:11,670 --> 00:05:15,900
+But yes, welcome to, 
+the world's most favorite
+
+105
+00:05:15,900 --> 00:05:17,430
+interactive computing environment.
+
+106
+00:05:20,125 --> 00:05:25,015
+A lot of us have been able to
+benefit, oh my God, this is Dirty.
+
+107
+00:05:25,405 --> 00:05:26,965
+This is my, this is my puppy.
+
+108
+00:05:27,294 --> 00:05:30,145
+If you don't, if you take
+away anything from this event,
+
+109
+00:05:30,174 --> 00:05:32,755
+learn that having puppies in your
+presentations makes them better.
+
+110
+00:05:32,755 --> 00:05:35,935
+If you're a cat person,
+cats and dogs, that's fine.
+
+111
+00:05:36,385 --> 00:05:40,465
+But,  Jupyter is a place
+for humans to interactive compute,
+
+112
+00:05:40,794 --> 00:05:42,294
+Dirty is not too great at the keys.
+
+113
+00:05:42,625 --> 00:05:47,484
+But right now, 
+any,  disabled humans.
+
+114
+00:05:48,255 --> 00:05:50,595
+Might be kept away from
+working on Jupyter.
+
+115
+00:05:50,595 --> 00:05:53,715
+So that's why we're all here to
+help improve that experience.
+
+116
+00:05:53,745 --> 00:05:56,595
+You'll find tons of people in
+different domains, in different
+
+117
+00:05:56,595 --> 00:06:01,395
+disciplines using Jupyter, and we're
+all here to make sure that everybody can
+
+118
+00:06:01,605 --> 00:06:03,525
+benefit the way that others have so far.
+
+119
+00:06:05,115 --> 00:06:05,415
+Isabela Presedo-Floyd (she/her): Yeah.
+
+120
+00:06:07,065 --> 00:06:10,635
+And definitely to add to that, Jupyter
+has a lot of different projects if
+
+121
+00:06:10,635 --> 00:06:14,955
+you're not familiar for not just a
+file type interface or, you know,
+
+122
+00:06:14,985 --> 00:06:17,025
+even single community sometimes.
+
+123
+00:06:17,880 --> 00:06:19,050
+It's a pretty big place.
+
+124
+00:06:19,050 --> 00:06:19,980
+If you're new here.
+
+125
+00:06:19,980 --> 00:06:20,460
+Welcome.
+
+126
+00:06:21,330 --> 00:06:26,130
+Tony Fast (he/they): And if you're an,
+if you start hearing words and brands
+
+127
+00:06:26,550 --> 00:06:30,720
+and things, that sound like band names,
+and you're not sure what it is, feel
+
+128
+00:06:30,720 --> 00:06:34,140
+free to drop a link in the chat and
+we'll try and send you some links.
+
+129
+00:06:34,440 --> 00:06:37,200
+Jupyter does have
+a pretty big universe.
+
+130
+00:06:37,590 --> 00:06:40,860
+Accessibility's a small
+but impactful part of it.
+
+131
+00:06:40,860 --> 00:06:44,040
+So we'd like to make sure that you
+all find your place in the Jupyter.
+
+132
+00:06:45,450 --> 00:06:48,150
+Isabela Presedo-Floyd (she/her):
+And just to continue defining
+
+133
+00:06:48,150 --> 00:06:50,100
+what it is, what is accessibility?
+
+134
+00:06:50,760 --> 00:06:54,540
+Accessibility is making sure that we
+are building things that can be used
+
+135
+00:06:54,720 --> 00:06:57,000
+by a full range of human experiences.
+
+136
+00:06:57,000 --> 00:07:01,680
+So what that means in practice is
+making sure that we put the needs
+
+137
+00:07:01,680 --> 00:07:03,510
+of people with disabilities first.
+
+138
+00:07:03,510 --> 00:07:03,720
+Right?
+
+139
+00:07:03,720 --> 00:07:06,480
+Cause those are the people that usually
+aren't a part of these processes.
+
+140
+00:07:07,049 --> 00:07:10,380
+And are, you know, kept away from
+being able to do the things that
+
+141
+00:07:10,440 --> 00:07:14,190
+they need to do and really should
+be able to do like the rest of us.
+
+142
+00:07:14,190 --> 00:07:18,900
+So this could be anything like this could
+be a really wide ranging thing today.
+
+143
+00:07:18,900 --> 00:07:22,260
+We're actually going to be talking
+about web accessibility, probably
+
+144
+00:07:22,260 --> 00:07:27,270
+bringing up WCAG or the Web Content
+Accessibility Guidelines at some point,
+
+145
+00:07:27,810 --> 00:07:31,590
+which are the guidelines that
+help us have a common language and
+
+146
+00:07:31,590 --> 00:07:35,549
+make decisions about what needs to be
+done to get started with this kind of work.
+
+147
+00:07:37,065 --> 00:07:39,045
+Also accessibility is for everyone.
+
+148
+00:07:39,285 --> 00:07:43,965
+I talked a little bit at the last
+workshop about curb cuts, which are
+
+149
+00:07:44,385 --> 00:07:46,905
+in like the curb for a sidewalk.
+
+150
+00:07:46,935 --> 00:07:48,345
+It's that ramp that you have.
+
+151
+00:07:48,825 --> 00:07:51,915
+So we had a little discussion
+about what curb cuts are for
+
+152
+00:07:51,915 --> 00:07:53,205
+that I have summarized for you.
+
+153
+00:07:53,205 --> 00:07:57,345
+So they were made initially right,
+for wheelchair users, but you can
+
+154
+00:07:57,345 --> 00:08:00,525
+also use them if you're using a cart
+or moving things for any reason.
+
+155
+00:08:01,195 --> 00:08:04,885
+Or you have a baby buggy, you
+need to drive around. Skateboards
+
+156
+00:08:04,914 --> 00:08:07,015
+bikes, all kinds of cool things.
+
+157
+00:08:07,015 --> 00:08:10,555
+Tony was talking about doing
+cool tricks on curb cuts before.
+
+158
+00:08:10,585 --> 00:08:11,784
+So, right.
+
+159
+00:08:11,815 --> 00:08:15,655
+Even though this is something that
+was made specifically for disabled
+
+160
+00:08:15,655 --> 00:08:17,755
+people, this really does serve everyone.
+
+161
+00:08:17,755 --> 00:08:20,395
+And it serves a lot of the
+times in unexpected ways.
+
+162
+00:08:20,515 --> 00:08:22,075
+So this is often used as a metaphor.
+
+163
+00:08:22,724 --> 00:08:25,455
+For all kinds of
+accessibility efforts, right.
+
+164
+00:08:25,455 --> 00:08:29,325
+That if you center it around needs
+of disabled people, that doesn't mean
+
+165
+00:08:29,325 --> 00:08:32,475
+you're only designing it for them,
+that it's actually going to benefit
+
+166
+00:08:32,475 --> 00:08:33,794
+more than you probably anticipated.
+
+167
+00:08:35,225 --> 00:08:36,965
+Accessibility is also cross project.
+
+168
+00:08:36,965 --> 00:08:40,325
+This is really important in Jupyter
+because there's a lot of things
+
+169
+00:08:40,355 --> 00:08:42,485
+under the Jupyter umbrella, right?
+
+170
+00:08:42,485 --> 00:08:46,085
+The Jupyter ecosystem has a lot
+of different subprojects, and
+
+171
+00:08:46,085 --> 00:08:50,045
+this is not a single problem of
+just one project versus the other.
+
+172
+00:08:50,795 --> 00:08:54,215
+This also means we need to be considering
+things all the way from the notebook
+
+173
+00:08:54,215 --> 00:08:58,295
+file to the many different interfaces
+to documentation and more, and of
+
+174
+00:08:58,295 --> 00:09:02,225
+course, documentation is what we'll be
+working on today, but more on that more.
+
+175
+00:09:03,464 --> 00:09:05,775
+Because accessibility
+is happening now, right?
+
+176
+00:09:06,045 --> 00:09:09,255
+We have these events, but they are
+not the only accessibility efforts.
+
+177
+00:09:09,255 --> 00:09:12,915
+We have ongoing some
+highlights from the last year.
+
+178
+00:09:12,915 --> 00:09:13,844
+We've also right,
+
+179
+00:09:13,844 --> 00:09:17,594
+we've had regular meetings around this for
+a year, which has been great for bringing
+
+180
+00:09:17,594 --> 00:09:21,584
+in new people for collecting people across
+projects that have an interest in this
+
+181
+00:09:21,584 --> 00:09:22,905
+and getting them a chance to community.
+
+182
+00:09:23,910 --> 00:09:25,770
+This has also grown our community.
+
+183
+00:09:25,860 --> 00:09:28,770
+So that means we've had totally
+new people that I haven't met in
+
+184
+00:09:28,770 --> 00:09:30,690
+Jupyter spaces before come in.
+
+185
+00:09:31,110 --> 00:09:33,300
+We've had people get involved in projects.
+
+186
+00:09:33,300 --> 00:09:38,160
+They haven't before we've had some
+audits of multiple projects based on.
+
+187
+00:09:38,959 --> 00:09:42,170
+That I mentioned earlier
+with related issues and PRS.
+
+188
+00:09:42,170 --> 00:09:45,230
+So we can keep track of this work and
+have a better sense of what needs to
+
+189
+00:09:45,230 --> 00:09:48,740
+be done and not just this nebulous,
+it's an accessible kind of statement.
+
+190
+00:09:49,370 --> 00:09:52,910
+And we have CZI Essential Open
+Source Software for Science.
+
+191
+00:09:52,910 --> 00:09:58,100
+We have a grant to further, Jupyter's
+accessibility in the next two years,
+
+192
+00:09:58,100 --> 00:10:00,230
+which is really exciting to be able to.
+
+193
+00:10:00,790 --> 00:10:02,829
+You know, devoted funding for that.
+
+194
+00:10:02,829 --> 00:10:06,610
+So we're not just relying on volunteers
+because as great as they are, and the
+
+195
+00:10:06,610 --> 00:10:11,709
+amazing work that they've done, this
+is a really big project. And some goals
+
+196
+00:10:11,709 --> 00:10:15,339
+that we have going forward that we
+haven't done yet adding automated tests.
+
+197
+00:10:15,339 --> 00:10:17,170
+This is really important for open source.
+
+198
+00:10:17,199 --> 00:10:21,189
+So we can't guarantee who is going to
+review any contribution at any given moment.
+
+199
+00:10:22,305 --> 00:10:25,785
+We need to make sure the notebook file
+format is accessible as can be right?s
+
+200
+00:10:26,115 --> 00:10:28,365
+There's a lot of projects here,
+but pretty much all of them
+
+201
+00:10:28,365 --> 00:10:29,745
+interact with the notebook file.
+
+202
+00:10:29,745 --> 00:10:33,015
+And so do a lot of external,
+like non-Jupyter projects.
+
+203
+00:10:33,285 --> 00:10:35,445
+So that foundational level is critical.
+
+204
+00:10:35,895 --> 00:10:40,755
+We'll also be updating, improving
+documentation, and maybe I lied a
+
+205
+00:10:40,755 --> 00:10:42,495
+little, these aren't just future goals.
+
+206
+00:10:42,705 --> 00:10:44,655
+Two of these are today's goals, right?
+
+207
+00:10:44,715 --> 00:10:47,685
+Updating, improving documentation
+and getting you involved.
+
+208
+00:10:48,540 --> 00:10:48,900
+Woo.
+
+209
+00:10:49,199 --> 00:10:50,670
+Get excited for that.
+
+210
+00:10:51,030 --> 00:10:52,110
+Tony Fast (he/they): You're so sneaky.
+
+211
+00:10:52,760 --> 00:10:57,670
+So sneaky last week you use the same
+slide and you're like, oh, we're not
+
+212
+00:10:57,670 --> 00:11:00,329
+going to do nothing today, but sit down
+this week, you're gonna and make us work.
+
+213
+00:11:01,350 --> 00:11:02,970
+Isabela Presedo-Floyd (she/her):
+I try for continuity.
+
+214
+00:11:02,970 --> 00:11:06,329
+If we have any people who have
+been to both events, I have fun.
+
+215
+00:11:08,910 --> 00:11:09,420
+Yeah.
+
+216
+00:11:11,010 --> 00:11:12,390
+Going to segue a little bit.
+
+217
+00:11:12,390 --> 00:11:13,230
+That is right.
+
+218
+00:11:13,230 --> 00:11:15,810
+Documentation has images, almost always.
+
+219
+00:11:16,350 --> 00:11:20,100
+That's been my experience, definitely
+many of the Jupyter docs do, but what
+
+220
+00:11:20,100 --> 00:11:21,900
+happens if you can't access them?
+
+221
+00:11:21,900 --> 00:11:25,710
+Whether that's because you can't see
+them, the link, you know, you have a bad
+
+222
+00:11:25,710 --> 00:11:27,510
+internet connection and it doesn't load.
+
+223
+00:11:27,510 --> 00:11:28,560
+It's a broken link.
+
+224
+00:11:29,040 --> 00:11:30,420
+You're going to get something like this.
+
+225
+00:11:30,420 --> 00:11:34,080
+You're going to get some kind of icon
+that like says there's no image and
+
+226
+00:11:34,080 --> 00:11:35,340
+you'll probably get a description
+
+227
+00:11:35,340 --> 00:11:36,270
+that's the file name.
+
+228
+00:11:36,270 --> 00:11:37,680
+Like image dot PNG.
+
+229
+00:11:38,595 --> 00:11:38,865
+Man.
+
+230
+00:11:38,865 --> 00:11:39,824
+I wish I knew it image.
+
+231
+00:11:39,835 --> 00:11:40,605
+That was, huh.
+
+232
+00:11:40,635 --> 00:11:42,735
+That's not a helpful description at all.
+
+233
+00:11:43,905 --> 00:11:49,035
+So this is actually one of the most
+common WCAG failures that we've listed.
+
+234
+00:11:49,035 --> 00:11:53,175
+This is,  by the WebAIM Million,
+which is a project that takes the
+
+235
+00:11:53,175 --> 00:11:55,515
+top million webpages on the internet.
+
+236
+00:11:55,515 --> 00:11:55,814
+And
+
+237
+00:11:56,605 --> 00:11:58,855
+accessibility analysis over them.
+
+238
+00:11:59,064 --> 00:12:03,025
+So missing alternative text for images
+is actually the second, most common
+
+239
+00:12:03,025 --> 00:12:05,365
+failure for multiple years in a row.
+
+240
+00:12:05,605 --> 00:12:08,845
+So as simple as this seems, it's
+actually a really big problem.
+
+241
+00:12:09,505 --> 00:12:09,595
+Okay.
+
+242
+00:12:10,479 --> 00:12:11,910
+This is something we're not catching.
+
+243
+00:12:11,939 --> 00:12:12,240
+Right?
+
+244
+00:12:12,240 --> 00:12:12,420
+Right.
+
+245
+00:12:12,420 --> 00:12:15,750
+Now I know we have Jupyter docs that
+don't have this and then open source.
+
+246
+00:12:15,750 --> 00:12:17,910
+This might be how
+automated tests could help.
+
+247
+00:12:17,910 --> 00:12:21,150
+So this is kind of the why for
+what we're doing today, right?
+
+248
+00:12:21,150 --> 00:12:22,050
+This is the problem.
+
+249
+00:12:22,349 --> 00:12:24,900
+And we have kind of these potential
+solutions to make sure our
+
+250
+00:12:24,900 --> 00:12:29,729
+community has a commitment to do
+better, but backing up, backing up.
+
+251
+00:12:29,760 --> 00:12:32,250
+I said all these words, and I
+didn't really tell you what an image
+
+252
+00:12:32,250 --> 00:12:34,170
+description is in the first place.
+
+253
+00:12:34,170 --> 00:12:34,530
+Right?
+
+254
+00:12:34,800 --> 00:12:35,969
+So here we have an image.
+
+255
+00:12:36,680 --> 00:12:40,219
+And if it's not there, it's going to
+say, this is the planet Jupyter, right?
+
+256
+00:12:40,250 --> 00:12:41,360
+Tony Fast (he/they): You
+spelled Jupyter wrong.
+
+257
+00:12:43,380 --> 00:12:45,949
+This always, I just want to find
+the results that I need.
+
+258
+00:12:47,660 --> 00:12:48,050
+Isabela Presedo-Floyd (she/her): Yeah.
+
+259
+00:12:48,079 --> 00:12:49,760
+That's, that's kind of a running joke.
+
+260
+00:12:49,760 --> 00:12:53,300
+We have, you know, selling Jupyter
+becomes a real problem when you're
+
+261
+00:12:53,300 --> 00:12:54,620
+in this community for too long.
+
+262
+00:12:54,620 --> 00:12:57,050
+No matter how I spelled
+Jupyter, it looks wrong to me.
+
+263
+00:12:58,910 --> 00:12:59,240
+Yeah.
+
+264
+00:13:01,140 --> 00:13:02,219
+But with this, right?
+
+265
+00:13:02,219 --> 00:13:03,959
+There's so many types of images.
+
+266
+00:13:04,349 --> 00:13:07,020
+And similarly, there's a lot of
+different types of alt texts.
+
+267
+00:13:07,020 --> 00:13:11,219
+So running through that really
+quickly, there's a few major types
+
+268
+00:13:11,219 --> 00:13:12,209
+we're going to talk about today.
+
+269
+00:13:12,209 --> 00:13:17,010
+That there's more, and this is from
+the W3C's tutorial about this.
+
+270
+00:13:17,069 --> 00:13:19,290
+so I can link that later.
+
+271
+00:13:19,290 --> 00:13:22,979
+If you want more information.
+One type is an informative image.
+
+272
+00:13:23,010 --> 00:13:25,859
+So say I'm reading a blog
+post and it says, puppies know
+
+273
+00:13:25,859 --> 00:13:26,969
+how to make emotional appeal.
+
+274
+00:13:27,720 --> 00:13:29,400
+And then we have this picture of a dog.
+
+275
+00:13:29,790 --> 00:13:31,260
+It would make sense to say, right.
+
+276
+00:13:31,290 --> 00:13:33,750
+A fluffy puppy looking at
+the camera with big eyes.
+
+277
+00:13:33,780 --> 00:13:33,870
+Okay.
+
+278
+00:13:34,650 --> 00:13:36,360
+How the puppy is looking, right,
+
+279
+00:13:36,360 --> 00:13:36,870
+that it's cute.
+
+280
+00:13:36,870 --> 00:13:40,020
+And has big eyes is relevant
+to the rest of the content.
+
+281
+00:13:40,020 --> 00:13:40,350
+Right?
+
+282
+00:13:40,650 --> 00:13:41,400
+It makes sense.
+
+283
+00:13:41,400 --> 00:13:45,210
+It doesn't just make sense to say
+a dog afterwards, so to speak.
+
+284
+00:13:45,240 --> 00:13:47,880
+It doesn't have the emphasis as the image.
+
+285
+00:13:48,180 --> 00:13:53,850
+Tony Fast (he/they): What about, what
+about if I was to do something like "Dawww?"
+
+286
+00:13:53,910 --> 00:13:55,650
+Is that informative, or?
+
+287
+00:13:56,380 --> 00:13:58,930
+Isabela Presedo-Floyd (she/her): I'm
+always really unsure, to be honest.
+
+288
+00:13:58,930 --> 00:14:01,689
+I don't know if you're making
+a joke or asking me seriously.
+
+289
+00:14:06,280 --> 00:14:06,520
+Yeah.
+
+290
+00:14:06,520 --> 00:14:10,689
+I took it too seriously, but yeah,
+I've actually seen discussion around
+
+291
+00:14:10,689 --> 00:14:13,810
+that where people are talking about,
+you know, how much emotion and
+
+292
+00:14:13,810 --> 00:14:15,670
+personality is appropriate in alt text.
+
+293
+00:14:15,710 --> 00:14:19,360
+This is probably a larger discussion,
+but when I would be happy to have,
+
+294
+00:14:19,780 --> 00:14:21,610
+once we get past the baseline,
+
+295
+00:14:23,800 --> 00:14:25,290
+We also have functional images.
+
+296
+00:14:25,290 --> 00:14:25,740
+So right.
+
+297
+00:14:25,740 --> 00:14:29,190
+Say this is a button here
+with this trashcan on it.
+
+298
+00:14:29,550 --> 00:14:30,510
+You wouldn't call it though.
+
+299
+00:14:30,510 --> 00:14:33,900
+A trash can because what the
+button actually does is to delete.
+
+300
+00:14:33,900 --> 00:14:38,850
+So this might also be the case for
+logos on home pages of websites, that
+
+301
+00:14:38,850 --> 00:14:41,430
+kind of thing, where you're trying
+to describe what happens when you
+
+302
+00:14:41,430 --> 00:14:45,600
+interact with that image, because many
+images are used in that kind of way.
+
+303
+00:14:46,935 --> 00:14:48,105
+There's also complex.
+
+304
+00:14:48,194 --> 00:14:52,935
+This is from the Jupyter docs
+actually, and it's way too small for
+
+305
+00:14:52,995 --> 00:14:54,765
+you to see easily on these slides.
+
+306
+00:14:55,245 --> 00:14:58,064
+I don't have a single good
+alt text recommendation for
+
+307
+00:14:58,064 --> 00:14:59,295
+this that would fit neatly.
+
+308
+00:14:59,355 --> 00:15:02,925
+So there's kind of a few guidelines
+I use for complex images though,
+
+309
+00:15:02,925 --> 00:15:03,255
+right?
+
+310
+00:15:03,495 --> 00:15:05,535
+You go from general to specific, right?
+
+311
+00:15:05,535 --> 00:15:09,375
+You want to kind of give people a
+sense of any titles, any layout.
+
+312
+00:15:09,860 --> 00:15:14,540
+Before going into the smaller details and
+describe any key information or trends.
+
+313
+00:15:14,540 --> 00:15:15,950
+That's something that comes up a lot
+
+314
+00:15:15,950 --> 00:15:20,000
+if you're working with graphs. You also
+want to make sure if there's any text in
+
+315
+00:15:20,000 --> 00:15:23,840
+the image, as there's a lot here, it needs
+to be outside of the image somewhere.
+
+316
+00:15:23,870 --> 00:15:26,180
+There's a few options for
+how you can do that, right.
+
+317
+00:15:26,180 --> 00:15:27,830
+It could just be in the
+rest of the content.
+
+318
+00:15:27,830 --> 00:15:29,540
+It could be actually linked somewhere.
+
+319
+00:15:30,170 --> 00:15:34,940
+And what I mean by you may want to
+link out is that alt text is not
+
+320
+00:15:34,940 --> 00:15:37,760
+intended to be too long, right?
+
+321
+00:15:38,940 --> 00:15:44,010
+So you may want to link to an external
+kind of record of that, whether that's,
+
+322
+00:15:44,010 --> 00:15:47,250
+you know, a paragraph later on the
+same page, or if you have a lot of
+
+323
+00:15:47,250 --> 00:15:51,150
+complex images, maybe you have some
+kind of footnote system, but this
+
+324
+00:15:51,150 --> 00:15:53,670
+would be a lot to read through at once.
+
+325
+00:15:53,670 --> 00:15:54,870
+If you're just trying to go through them.
+
+326
+00:15:56,415 --> 00:16:00,075
+The final type I want to talk
+about today is decorative images.
+
+327
+00:16:00,105 --> 00:16:03,735
+So once again, we're back on that
+blog post about the dogs and I, the
+
+328
+00:16:03,765 --> 00:16:07,725
+post now says my mother will be happy
+to know her dog is in my slides.
+
+329
+00:16:07,755 --> 00:16:09,345
+And then we just keep talking, right?
+
+330
+00:16:09,885 --> 00:16:12,375
+The heart here, doesn't
+really add content.
+
+331
+00:16:12,405 --> 00:16:13,545
+It's just kind of there.
+
+332
+00:16:13,545 --> 00:16:15,915
+And so what you're going to
+do is leave the tag empty.
+
+333
+00:16:15,945 --> 00:16:19,725
+You do still need the tag
+because that lets assistive
+
+334
+00:16:19,725 --> 00:16:21,765
+technology know that this isn't.
+
+335
+00:16:22,755 --> 00:16:25,724
+Is, you know, it gives it something
+to do with this image instead of
+
+336
+00:16:25,724 --> 00:16:29,744
+jutt read the image name, but empty
+all text is actually an option.
+
+337
+00:16:29,775 --> 00:16:33,824
+The thing that we don't want is to
+have no text or to have alt texts.
+
+338
+00:16:33,824 --> 00:16:36,464
+That's just the image name, which
+is how some things automated.
+
+339
+00:16:37,890 --> 00:16:41,370
+On text styling, just
+a few quick pointers, too.
+
+340
+00:16:41,370 --> 00:16:42,780
+We do want to spell things correctly.
+
+341
+00:16:42,780 --> 00:16:45,180
+You can totally write this and
+something with a spell check
+
+342
+00:16:45,180 --> 00:16:46,500
+and then copy and paste it in.
+
+343
+00:16:46,500 --> 00:16:47,760
+I definitely, there are words
+
+344
+00:16:47,760 --> 00:16:49,829
+I don't have confidence spelling myself.
+
+345
+00:16:50,370 --> 00:16:54,510
+We want to have punctuation just like
+anything else that helps navigate
+
+346
+00:16:54,840 --> 00:16:58,829
+sentence, case capitalization as
+exemplified here just means the start of
+
+347
+00:16:58,829 --> 00:17:00,870
+the sentences, capitalized and proper.
+
+348
+00:17:00,870 --> 00:17:01,050
+Now.
+
+349
+00:17:02,015 --> 00:17:04,355
+And we only have consistent
+naming for repeated elements.
+
+350
+00:17:04,355 --> 00:17:07,055
+This can get really important
+in documentation, right?
+
+351
+00:17:07,055 --> 00:17:10,714
+Where if you have like step-by-step
+images, you don't want to call like
+
+352
+00:17:11,045 --> 00:17:14,734
+something, a menu and one image
+and then called the same thing, 
+
+353
+00:17:15,065 --> 00:17:17,105
+like a pop-up and another image.
+
+354
+00:17:17,105 --> 00:17:17,345
+Right.
+
+355
+00:17:17,345 --> 00:17:19,925
+That would be really confusing
+if you can't see that they're
+
+356
+00:17:19,925 --> 00:17:21,484
+the same thing for some reason.
+
+357
+00:17:22,385 --> 00:17:24,185
+So that's something we'll
+probably be dealing with today.
+
+358
+00:17:25,350 --> 00:17:27,360
+And this is something
+you'll hear me say a lot.
+
+359
+00:17:27,360 --> 00:17:28,860
+It's all about context.
+
+360
+00:17:28,890 --> 00:17:32,790
+So whenever you're in doubt, a lot
+of the time working in these spaces,
+
+361
+00:17:32,820 --> 00:17:36,990
+the alt text paths have not been as
+clear as say when you're like writing,
+
+362
+00:17:37,020 --> 00:17:39,450
+you know, a recipe or a blog post.
+
+363
+00:17:39,450 --> 00:17:41,040
+And you're like, oh,
+that's a picture of soup.
+
+364
+00:17:41,100 --> 00:17:42,450
+Oh, that's a picture of a dog.
+
+365
+00:17:42,840 --> 00:17:44,670
+But what really matters is
+thinking about how this
+
+366
+00:17:45,250 --> 00:17:45,879
+fits in the whole.
+
+367
+00:17:45,879 --> 00:17:50,500
+So reading the paragraphs before
+and after, what kind of image is
+
+368
+00:17:50,500 --> 00:17:51,909
+the author expecting you to get?
+
+369
+00:17:51,939 --> 00:17:55,600
+Or what kind of information is the author
+expecting you to get from this image?
+
+370
+00:17:55,990 --> 00:17:58,929
+Making sure that if the image
+doesn't render, you could break
+
+371
+00:17:58,929 --> 00:18:00,280
+the link and test it yourself.
+
+372
+00:18:00,280 --> 00:18:03,040
+Does the whole thing still makes
+sense without it? Those are some
+
+373
+00:18:03,040 --> 00:18:05,530
+good tests which we'll get to
+try out a little later today.
+
+374
+00:18:07,395 --> 00:18:09,735
+And just more to advocate for this.
+
+375
+00:18:09,735 --> 00:18:12,525
+We're talking about this in Jupyter,
+but it's a good skill for every
+
+376
+00:18:12,525 --> 00:18:14,835
+planet everywhere you go on the web.
+
+377
+00:18:14,865 --> 00:18:15,225
+Right?
+
+378
+00:18:15,525 --> 00:18:17,565
+Alt text is not a Jupyter problem.
+
+379
+00:18:17,595 --> 00:18:20,235
+So even if you're new to
+Jupyter, don't worry at all.
+
+380
+00:18:20,265 --> 00:18:22,455
+This is totally a skill
+that you can use here.
+
+381
+00:18:22,485 --> 00:18:26,475
+You can take with you and start making
+sure that this is less of a failure
+
+382
+00:18:26,475 --> 00:18:28,395
+for these future accessibility audits.
+
+383
+00:18:28,425 --> 00:18:29,685
+So, yeah.
+
+384
+00:18:30,615 --> 00:18:33,720
+I think, for me that's work time.
+
+385
+00:18:33,720 --> 00:18:35,820
+Unless we want to take questions first.
+
+386
+00:18:35,910 --> 00:18:39,090
+I, up to you, Tony, what do you think
+is wise here? I talked for a while.
+
+387
+00:18:39,600 --> 00:18:41,910
+Tony Fast (he/they): Oh, I
+think that you did so great.
+
+388
+00:18:42,090 --> 00:18:42,480
+Right?
+
+389
+00:18:42,750 --> 00:18:45,420
+And it is an interplanetary
+problem, right?
+
+390
+00:18:45,780 --> 00:18:47,490
+Like the NumPy team is on Mars.
+
+391
+00:18:48,345 --> 00:18:52,635
+There's alt text on Mars.
+Mars, and Jupyter covered.
+
+392
+00:18:52,635 --> 00:18:52,995
+Great.
+
+393
+00:18:53,355 --> 00:18:57,794
+So we've got eight people
+and I think we've run this
+
+394
+00:18:57,794 --> 00:18:59,475
+event with eight people before.
+
+395
+00:18:59,625 --> 00:19:05,324
+So I think we just go into one
+big old breakout room and we all
+
+396
+00:19:05,355 --> 00:19:07,995
+spend this Saturday together.
+
+397
+00:19:08,024 --> 00:19:09,585
+Learning about alt text and context.
+Note: Sprint discussions are not recorded.
+
+398
+00:19:16,524 --> 00:19:18,024
+Isabela Presedo-Floyd (she/her): Of
+course, I'm going to say it once more.
+
+399
+00:19:18,054 --> 00:19:19,764
+The point of this is just to celebrate.
+
+400
+00:19:19,764 --> 00:19:23,155
+I really am impressed by the amount of
+work that you all did today, and you
+
+401
+00:19:23,155 --> 00:19:27,114
+tackled some really difficult images
+or you tackled some simple images,
+
+402
+00:19:27,114 --> 00:19:30,235
+but thought very critically about
+them and about what their meaning was.
+
+403
+00:19:30,235 --> 00:19:31,584
+And should they be there at all?
+
+404
+00:19:31,945 --> 00:19:36,114
+I, it makes me so happy to hear
+people having these conversations
+
+405
+00:19:36,114 --> 00:19:37,135
+because I really don't enough.
+
+406
+00:19:38,655 --> 00:19:43,635
+Yeah, if we can go. (singing) Will the
+slides respond to my keyboard?
+
+407
+00:19:43,935 --> 00:19:44,895
+It's always a mystery.
+
+408
+00:19:45,855 --> 00:19:47,205
+Tony Fast (he/they): I
+just found the,
+
+409
+00:19:47,235 --> 00:19:52,005
+I just found the answer to one of
+Gabriel's questions, ARIA labeled,
+
+410
+00:19:52,005 --> 00:19:58,275
+by let you say that a paragraph,
+or ARIA described by lets you
+
+411
+00:19:58,275 --> 00:19:59,805
+say that a paragraph describes.
+
+412
+00:20:01,290 --> 00:20:05,160
+So, if we get add linking to this,
+then we'd be able to do stuff like
+
+413
+00:20:05,160 --> 00:20:08,640
+that, where you could say, Hey,
+this paragraph has an ID and now
+
+414
+00:20:08,640 --> 00:20:10,650
+the ARIA described by this ID.
+
+415
+00:20:11,970 --> 00:20:12,780
+Yeah, I saw that.
+
+416
+00:20:12,780 --> 00:20:16,740
+And then I gave up, well, I didn't, I was
+like, I'll have to look at this later.
+
+417
+00:20:16,740 --> 00:20:19,530
+Cause I don't know how to add IDs in RST.
+
+418
+00:20:19,530 --> 00:20:20,220
+So, you know.
+
+419
+00:20:23,750 --> 00:20:24,020
+Isabela Presedo-Floyd (she/her): Yeah.
+
+420
+00:20:24,030 --> 00:20:24,810
+That's what happens.
+
+421
+00:20:24,810 --> 00:20:27,870
+I've found a lot of this
+workshop is like, what can we do?
+
+422
+00:20:28,770 --> 00:20:33,149
+You know, the suggestions in this
+time and our knowledge of how this
+
+423
+00:20:33,149 --> 00:20:36,960
+system works has been kind of limited,
+but yeah, it's definitely still
+
+424
+00:20:36,960 --> 00:20:38,429
+helpful to be thinking about it.
+
+425
+00:20:38,429 --> 00:20:39,210
+Like we started them.
+
+426
+00:20:40,110 --> 00:20:43,590
+One more thing I want to say
+we do have a feedback survey, so
+
+427
+00:20:43,590 --> 00:20:45,570
+you can give us any information.
+
+428
+00:20:45,570 --> 00:20:49,649
+This is basically just so we know if
+anything went wrong, if there's anything
+
+429
+00:20:49,649 --> 00:20:53,159
+you really like to be done differently,
+because we do have two more of these
+
+430
+00:20:53,159 --> 00:20:54,689
+events you'll hear about in the moment.
+
+431
+00:20:56,504 --> 00:20:59,445
+This is just making sure that
+we're creating events that
+
+432
+00:20:59,504 --> 00:21:00,554
+actually are helping you.
+
+433
+00:21:00,554 --> 00:21:01,725
+That is the point of this.
+
+434
+00:21:01,725 --> 00:21:03,645
+So it'd be great to have your feedback.
+
+435
+00:21:03,824 --> 00:21:09,435
+I believe it's five or six questions and
+some, several of them are not required.
+
+436
+00:21:09,435 --> 00:21:11,054
+So totally up to you.
+
+437
+00:21:11,834 --> 00:21:13,365
+And I can link that in the chat after.
+
+438
+00:21:14,775 --> 00:21:15,165
+Other thing.
+
+439
+00:21:15,165 --> 00:21:16,845
+I just mentioned upcoming events.
+
+440
+00:21:16,905 --> 00:21:22,155
+We have two more, one more speaker and
+one more sprint coming up in March 2022.
+
+441
+00:21:22,305 --> 00:21:26,355
+I haven't put the dates here
+because I want to be quadruple sure
+
+442
+00:21:26,385 --> 00:21:29,385
+before putting that information
+somewhere that could confuse you.
+
+443
+00:21:30,540 --> 00:21:34,440
+They are coming soon and we
+do have some stuff scheduled.
+
+444
+00:21:34,710 --> 00:21:36,180
+I'm really excited about it.
+
+445
+00:21:36,180 --> 00:21:37,950
+As much as I keep my lips closed.
+
+446
+00:21:38,640 --> 00:21:41,070
+The one thing I will say
+too, with the sprint, we are
+
+447
+00:21:41,070 --> 00:21:42,810
+still open with sprint ideas.
+
+448
+00:21:42,810 --> 00:21:46,710
+If there is anything that you are
+really passionate about learning with
+
+449
+00:21:46,710 --> 00:21:51,540
+the accessability stuff, I am happy
+to hear suggestions with that because
+
+450
+00:21:51,540 --> 00:21:53,070
+there's multiple things we can do.
+
+451
+00:21:53,070 --> 00:21:56,130
+And it's still far enough that
+if you have something that you'd
+
+452
+00:21:56,130 --> 00:21:58,560
+really like to hear about, I would
+rather be doing something home.
+
+453
+00:21:59,370 --> 00:22:04,290
+So, yeah, that is going to be exciting
+to keep up to date with this too.
+
+454
+00:22:04,290 --> 00:22:06,300
+There will be another Jupyter blog post.
+
+455
+00:22:06,300 --> 00:22:09,990
+I'm not sure how I'll be found this, which
+will then mean it is also on Twitter,
+
+456
+00:22:10,290 --> 00:22:14,520
+but beyond the Jupyter Discourse, 
+those will be the main venues that
+
+457
+00:22:14,520 --> 00:22:16,980
+I would follow to keep up with this.
+
+458
+00:22:17,190 --> 00:22:20,670
+Can you think of any others, Tony, that
+you think it will be advertised on?
+
+459
+00:22:22,170 --> 00:22:24,420
+Tony Fast (he/they): No,
+but you can join the community call this week.
+
+460
+00:22:24,450 --> 00:22:26,340
+There'll probably be another
+community call next month.
+
+461
+00:22:26,700 --> 00:22:27,780
+There's a bunch of community calls.
+
+462
+00:22:28,845 --> 00:22:30,525
+So we hope to see folks around.
+
+463
+00:22:30,525 --> 00:22:30,825
+Yeah.
+
+464
+00:22:31,305 --> 00:22:31,635
+Isabela Presedo-Floyd (she/her): Yeah.
+
+465
+00:22:31,635 --> 00:22:34,875
+That's this slide is, there are a
+few ways you can get involved in the
+
+466
+00:22:34,875 --> 00:22:37,185
+meantime. The first is community calls.
+
+467
+00:22:37,185 --> 00:22:38,115
+That's what Tony mentioned.
+
+468
+00:22:38,115 --> 00:22:41,295
+It's basically a cross-project
+show and tell once a month.
+
+469
+00:22:41,325 --> 00:22:42,975
+It's in the last Tuesday of every month.
+
+470
+00:22:42,975 --> 00:22:46,485
+So that does mean there is one
+this Tuesday, you can find it on
+
+471
+00:22:46,485 --> 00:22:47,865
+the Jupyter community calendar.
+
+472
+00:22:47,865 --> 00:22:50,295
+We'll have it in your time
+zone and with relevant links.
+
+473
+00:22:50,745 --> 00:22:53,775
+If you haven't been to one
+before, I would recommend just
+
+474
+00:22:53,775 --> 00:22:56,685
+showing up, but you are also always
+free to share anything you want.
+
+475
+00:22:57,975 --> 00:23:01,765
+I would say Jupyter related, but I you're
+even open if you're like, oh, I did this
+
+476
+00:23:01,765 --> 00:23:05,535
+cool thing on one project and I thought
+it might interest you all to happen here.
+
+477
+00:23:05,535 --> 00:23:06,825
+Like we're pretty open there.
+
+478
+00:23:06,825 --> 00:23:10,485
+It's just about making sure that everybody
+is celebrating and communicating.
+
+479
+00:23:11,235 --> 00:23:14,235
+If you want to get involved with
+Jupyter accessibility efforts
+
+480
+00:23:14,235 --> 00:23:17,805
+specifically, there is a topic on
+the Jupyter discourse for this.
+
+481
+00:23:17,805 --> 00:23:19,515
+You can find what people
+are already talking about.
+
+482
+00:23:20,294 --> 00:23:24,375
+And we have a Jupyter accessibility,
+GitHub repo, which is kind of the
+
+483
+00:23:24,375 --> 00:23:26,385
+center for coordinating cross project.
+
+484
+00:23:26,385 --> 00:23:29,085
+That's why I point people there
+first, because each project kind
+
+485
+00:23:29,085 --> 00:23:30,615
+of has its own things going on.
+
+486
+00:23:31,155 --> 00:23:33,975
+You can also join a JupyterLab, 
+accessibility meeting.
+
+487
+00:23:33,975 --> 00:23:40,395
+It is JupyterLab, but,  we have some,
+for example, I'm always in that meeting.
+
+488
+00:23:40,395 --> 00:23:42,615
+And so I'm happy to
+talk about other things.
+
+489
+00:23:42,615 --> 00:23:46,815
+It's mostly just JupyterLab because
+that's the people that we had that had.
+
+490
+00:23:47,760 --> 00:23:51,540
+But we're totally open to discussing
+accessibility on a wider scale there,
+
+491
+00:23:51,540 --> 00:23:55,230
+because most of the problems we
+have per project are problems in all
+
+492
+00:23:55,230 --> 00:23:56,940
+projects and we should help each other.
+
+493
+00:23:58,290 --> 00:24:02,130
+And finally, I have some thank you is
+because this has been a big process
+
+494
+00:24:02,130 --> 00:24:06,570
+running these events, Tony and Tania in
+particular have helped me run this event.
+
+495
+00:24:06,870 --> 00:24:10,830
+I don't know what I would do without
+Tania's tech support and just general.
+
+496
+00:24:12,615 --> 00:24:17,925
+event wrangling knowledge, as well as Tony has so
+much experience with event coordinating.
+
+497
+00:24:18,345 --> 00:24:21,825
+And I really don't think this would have
+been possible without either of them.
+
+498
+00:24:22,425 --> 00:24:26,475
+You also have the Jupyter community
+building committee,  Ana and Christine
+
+499
+00:24:26,475 --> 00:24:31,004
+were two of my points of contact for
+this making sure that we had all the
+
+500
+00:24:31,004 --> 00:24:33,435
+Goa heads and funding for speakers.
+
+501
+00:24:34,439 --> 00:24:38,010
+The Jupyter community workshops
+sponsors, or how we tie into that
+
+502
+00:24:38,010 --> 00:24:39,209
+community building committee.
+
+503
+00:24:39,209 --> 00:24:40,350
+So thank you to them.
+
+504
+00:24:40,800 --> 00:24:47,790
+NumFocus is also part of this
+whole coordination, and I really
+
+505
+00:24:47,790 --> 00:24:51,000
+appreciate that too. They're,
+similarly, part of the sponsors.
+
+506
+00:24:51,330 --> 00:24:54,750
+And we have a team that originally
+about this wrote this event
+
+507
+00:24:54,929 --> 00:24:56,610
+proposal, because these events.
+
+508
+00:24:57,330 --> 00:24:58,860
+I have been a long time coming.
+
+509
+00:24:58,860 --> 00:25:00,030
+People have been wanting this.
+
+510
+00:25:00,030 --> 00:25:03,510
+A lot of people have really been trying
+to push for Jupyter accessibility, and I
+
+511
+00:25:03,510 --> 00:25:08,730
+want to acknowledge that that effort came
+before me and I'm grateful that they did
+
+512
+00:25:08,730 --> 00:25:10,110
+it and that we can have these events now.
+
+513
+00:25:10,110 --> 00:25:13,050
+So thank you! Anything
+you'd like to add, Tony?
+
+514s
+00:25:14,940 --> 00:25:15,960
+Tony Fast (he/they): Thank you.
+
+515
+00:25:17,639 --> 00:25:18,090
+Thanks.
+
+516
+00:25:22,440 --> 00:25:22,950
+Isabela Presedo-Floyd (she/her):
+Thank you.
+
