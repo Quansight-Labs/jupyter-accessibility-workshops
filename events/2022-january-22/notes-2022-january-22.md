@@ -17,14 +17,14 @@
 
 The sessions are just over 30 minutes long. There will be a break in the middle, then we will regroup after the second round.
 
-Sprint topics are
-- contributing image descriptions
-- automated testing for themes
+There are two breakout session groups, each with a different topic:
+1. contributing image descriptions
+2. automated testing for themes
 
 #### Breakout session group 1 notes (contributing image descriptions)
 
-- This is [our working PR for the Jupyter documentation]()
-- The [event agenda]() has more details on how to participate
+- This is [our working PR for the Jupyter documentation](https://github.com/isabela-pf/jupyter/pull/1)
+- The [event agenda](mentored_sprint_agenda.md) has more details on how to participate
 
 Topics discussed
 - [Long descriptions](https://www.w3.org/WAI/tutorials/images/complex/#long-descriptions)
