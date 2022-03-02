@@ -20,7 +20,7 @@ January 15: Jupyter Accessibility Workshops with [Frank Elvasky](https://chartab
 January 22: Jupyter Accessibility Workshops: Writing image descriptions for documentation
 
 - [Event agenda](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-22/mentored_sprint_agenda.md)
-- [Event resources] (pending)
+- [Event resources](https://github.com/Quansight-Labs/jupyter-accessibility-workshops/blob/main/events/2022-january-22/README.md)
 
 ### Part 2: March 2022 
 
