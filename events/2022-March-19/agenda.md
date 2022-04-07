@@ -7,7 +7,7 @@ Date: March 19, 2022
 Overview: A hands-on event focused on learning and practicing manual and 
 automated accessibility testing.
 
-Join in: sign up link
+Join in: [sign up link](https://hopin.com/events/jupyter-accessibility-workshop-auditing-in-open-source)
 
 ## Takeaways
 
