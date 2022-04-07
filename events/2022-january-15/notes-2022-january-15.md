@@ -54,13 +54,13 @@ Discussion prompts are
 
 ## Links shared
 Any links shared during the event, with or without context.
-- [Twitter bot alt text reminder](twitter.com/AltTxtReminder])
-- [GitHub issue and colorblindness in the wild](github.com/Saul-Mirone/milkdown/issues/281#issuecomment-1013644590)
-- [Crystal Lee: Visualizing Misinformation recording](youtube.com/watch?v=vYpGqan2vLw)
+- [Twitter bot alt text reminder](https://twitter.com/AltTxtReminder)
+- [GitHub issue and colorblindness in the wild](https://github.com/Saul-Mirone/milkdown/issues/281#issuecomment-1013644590)
+- [Crystal Lee: Visualizing Misinformation recording](https://youtube.com/watch?v=vYpGqan2vLw)
 - [18F](https://accessibility.18f.gov/)
 - [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)
-- [Frank Elavsky's Twitter](twitter.com/FrankElavsky)
-- [alt text as poetry](alt-text-as-poetry.net/)
-- [NumPy accessibilty efforts (Quansight Labs' blog)](labs.quansight.org/blog/2021/07/numpy-accessibility-guidelines/)
-- [axe dev tools](deque.com/axe/devtools/)
-- [WAVE](wave.webaim.org/extension/)
+- [Frank Elavsky's Twitter](https://twitter.com/FrankElavsky)
+- [alt text as poetry](https://alt-text-as-poetry.net/)
+- [NumPy accessibilty efforts (Quansight Labs' blog)](https://labs.quansight.org/blog/2021/07/numpy-accessibility-guidelines/)
+- [axe dev tools](https://deque.com/axe/devtools/)
+- [WAVE](https://wave.webaim.org/extension/)
